@@ -22,9 +22,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Mining
+  - Time Series Analysis
+  - Visualizations
+  - Electrical Power Systems
+  - Power Qualtiy
+  - Harmonics
 
 # Education to show in About widget
 education:
@@ -33,7 +36,7 @@ education:
       institution: Technische Universität Dresden
       year: 2015
     - course: Dipl.-Ing. in Electrical Engineering
-      institution: Massachusetts Institute of Technology
+      institution: Technische Universität Dresden
       year: 2009
 
 # Social/Academic Networking
@@ -50,9 +53,6 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Max-Domagk
-    label: Follow me on Twitter
-    display:
-      header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
