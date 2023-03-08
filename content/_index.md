@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Max Domagk
+title:
 date: 2023-03-08
 type: landing
 
