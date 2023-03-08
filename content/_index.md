@@ -45,7 +45,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: max.domagk@tu-dresden.de
       phone: +49 351 463-35223
-      ##appointment_url: 'https://calendly.com'
       address:
         street: Mommsenstr. 12
         city: Dresden
@@ -53,10 +52,7 @@ sections:
         postcode: '01096'
         country: Germany
         country_code: DE
-        directions: Enter Toepler-Bau to Office 104a
-      # office_hours:
-      #   - 'Monday 10:00 to 13:00'
-      #   - 'Wednesday 09:00 to 10:00'
+      directions: 'Enter Toepler-Bau to Office 104a'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
