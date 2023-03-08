@@ -14,7 +14,7 @@ role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Technische Universität Dresden
+  - name: Technische Universitaet Dresden
     url: https://tu-dresden.de
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,5 +57,5 @@ email: ''
 highlight_name: true
 ---
 
-Max Domagk is a postdoctoral researcher in the Power Quality research group of [Prof. Jan Meyer](https://www.researchgate.net/profile/Jan-Meyer-4) at the [Institute of Electrical Power Systems and High Voltage Engineering](https://tu-dresden.de/ing/elektrotechnik/ieeh), Technische Universitaet Dresden.
+Max Domagk works as a postdoctoral researcher at the [Institute of Electrical Power Systems and High Voltage Engineering](https://tu-dresden.de/ing/elektrotechnik/ieeh), Technische Universitaet Dresden and is in the Power Quality research group led by [Prof. Jan Meyer](https://www.researchgate.net/profile/Jan-Meyer-4).
 {style="text-align: justify;"}
