@@ -15,29 +15,10 @@ role: Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Technische Universität Dresden
-    url: https://tu-dresden.de/ing/elektrotechnik/ieeh/ev
+    url: https://tu-dresden.de
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Data Mining and Power Quality.
-
-# Interests to show in About widget
-interests:
-  - Data Mining
-  - Time Series Analysis
-  - Visualizations
-  - Electrical Power Systems
-  - Power Qualtiy
-  - Harmonics
-
-# Education to show in About widget
-education:
-  courses:
-    - course: Dr.-Ing. in Power Systems
-      institution: Technische Universität Dresden
-      year: 2015
-    - course: Dipl.-Ing. in Electrical Engineering
-      institution: Technische Universität Dresden
-      year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -76,5 +57,5 @@ email: ''
 highlight_name: true
 ---
 
-Max Domagk received Dipl.-Ing. and Dr.-Ing. degrees in electrical engineering from Technische Universitaet Dresden, Dresden, Germany, in 2009 and 2015, respectively. Currently, he is a postdoctoral researcher in the Power Quality Research Group of Prof. Jan Meyer at the Institute of Electrical Power Systems and High Voltage Engineering, Technische Universitaet Dresden.
+Max Domagk is a postdoctoral researcher in the Power Quality research group of [Prof. Jan Meyer](https://www.researchgate.net/profile/Jan-Meyer-4) at the [Institute of Electrical Power Systems and High Voltage Engineering](https://tu-dresden.de/ing/elektrotechnik/ieeh), Technische Universitaet Dresden.
 {style="text-align: justify;"}
