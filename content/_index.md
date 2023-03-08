@@ -20,8 +20,8 @@ sections:
         My research is broadly in the field of Electrical Power Systems studying Power Quality.
         More specifically, I am interested in distortions within distribution and transmission systems.
         Recent changes, such as the increase in renewable energy or the large-scale introduction of electric vehicles, have a significant impact on Power Quality.
-        As a result,  network operators are installing an increasing number of measurements to monitor their networks, resulting in large amounts of data.
-        My research helps to analyse these large amounts of data and extract useful information using data analysis and automatic data mining methods.
+        As a result,  network operators are installing more and more measurements to monitor their networks, resulting in large amounts of data.
+        My research helps to analyse the data efficiently and extract useful information using data analysis and data mining methods.
 
         **Interests:**\
         Electrical Power Systems, Power Qualtiy, Harmonics,\
