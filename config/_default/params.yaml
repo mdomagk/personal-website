@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Max Domagk personal web site.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,15 +41,15 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    #notice: '© {year} Max Domagk. This work is licensed under {license}'
-    notice: '© {year} Max Domagk.'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: false
-      allow_commercial: false
+# footer:
+#   copyright:
+#     #notice: '© {year} Max Domagk. This work is licensed under {license}'
+#     notice: '© {year} Max Domagk.'
+#     license:
+#       enable: false
+#       allow_derivatives: false
+#       share_alike: false
+#       allow_commercial: false
 
 # Localization
 
