@@ -57,5 +57,5 @@ email: ''
 highlight_name: true
 ---
 
-I work as a postdoctoral researcher at the Power Quality research group of [Prof. Jan Meyer](https://www.researchgate.net/profile/Jan-Meyer-4) at the [Institute of Electrical Power Systems and High Voltage Engineering](https://tu-dresden.de/ing/elektrotechnik/ieeh), Technische Universitaet Dresden.
+I work as a postdoctoral researcher at the [Institute of Electrical Power Systems and High Voltage Engineering](https://tu-dresden.de/ing/elektrotechnik/ieeh), Technische Universitaet Dresden in the Power Quality research group of [Prof. Jan Meyer](https://www.researchgate.net/profile/Jan-Meyer-4).
 {style="text-align: justify;"}
