@@ -28,9 +28,9 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-    id: talks
+    id: presentations
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Presentations
       filters:
         folders:
           - event
