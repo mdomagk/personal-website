@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Max Domagk
+title:
 date: 2022-10-24
 type: landing
 
@@ -26,7 +26,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: list
   - block: collection
     id: talks
     content:
