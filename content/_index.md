@@ -17,15 +17,15 @@ sections:
     content:
       title: Research
       text: |-
-        Interests:\
-        **Electrical Power Systems**, **Power Qualtiy**, **Harmonics**,\
-        **Data Mining**, **Time Series Analysis**, **Visualizations**
-
         My research is broadly in the field of Electrical Power Systems studying Power Quality.
-        More specifically, I am interested in distortion within distribution and transmission systems.
-        Recent changes, like increase of renewables or large-scale introduction of electric vehicles, have a significant impact on Power Quality.
-        Consequently network operators install an increasing number of measurements to monitor their networks, which results in large amounts of data.
-        My research helps to analyse these large amounts of data in an efficient way, using data analysis and automatic data mining methods.
+        More specifically, I am interested in distortions within distribution and transmission systems.
+        Recent changes, such as the increase in renewable energy or the large-scale introduction of electric vehicles, have a significant impact on Power Quality.
+        As a result,  network operators are installing an increasing number of measurements to monitor their networks, resulting in large amounts of data.
+        My research helps to analyse these large amounts of data and extract useful information using data analysis and automatic data mining methods.
+
+        Interests:\
+        Electrical Power Systems, Power Qualtiy, Harmonics,\
+        Data Mining, Time Series Analysis, Visualizations
 
     design:
       columns: '2'
