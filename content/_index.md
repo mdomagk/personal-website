@@ -23,7 +23,7 @@ sections:
         As a result,  network operators are installing an increasing number of measurements to monitor their networks, resulting in large amounts of data.
         My research helps to analyse these large amounts of data and extract useful information using data analysis and automatic data mining methods.
 
-        Interests:\
+        **Interests:**\
         Electrical Power Systems, Power Qualtiy, Harmonics,\
         Data Mining, Time Series Analysis, Visualizations
 
