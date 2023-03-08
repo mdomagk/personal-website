@@ -17,15 +17,11 @@ sections:
     content:
       title: Research
       text: |-
-        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit am
-
-        Interests:
-            - Data Mining
-            - Time Series Analysis
-            - Visualizations
-            - Electrical Power Systems
-            - Power Qualtiy
-            - Harmonics
+        My research is broadly in the field of Electrical Power Systems studying Power Quality.
+        More specifically, I am interested in distortion within distribution and transmission systems.
+        Recent changes, like increase of renewables or large-scale introduction of electric vehicles, have a significant impact on Power Quality.
+        Consequently network operators install an increasing number of measurements to monitor their networks, which results in large amounts of data.
+        My research helps to analyse these large amounts of data in an efficient way, using data analysis and automatic data mining methods.
 
     design:
       columns: '2'
