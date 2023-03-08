@@ -77,14 +77,4 @@ highlight_name: true
 ---
 
 Max Domagk received Dipl.-Ing. and Dr.-Ing. degrees in electrical engineering from Technische Universitaet Dresden, Dresden, Germany, in 2009 and 2015, respectively. Currently, he is a postdoctoral researcher in the Power Quality Research Group of Prof. Jan Meyer at the Institute of Electrical Power Systems and High Voltage Engineering, Technische Universitaet Dresden.
-
-Interests:
-
-- Data Mining
-- Time Series Analysis
-- Visualizations
-- Electrical Power Systems
-- Power Qualtiy
-- Harmonics
-
 {style="text-align: justify;"}
