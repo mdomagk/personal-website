@@ -18,7 +18,7 @@ organizations:
     url: https://tu-dresden.de/ing/elektrotechnik/ieeh/ev
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Data Mining and Power Quality.
 
 # Interests to show in About widget
 interests:
