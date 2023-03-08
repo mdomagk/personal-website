@@ -54,7 +54,7 @@ sections:
         country_code: DE
       directions: 'Enter Toepler-Bau to Office 104a'
       # Automatically link email and phone or display as text?
-      autolink: false
+      autolink: true
     design:
       columns: '2'
 ---
