@@ -17,7 +17,11 @@ sections:
     content:
       title: Research
       text: |-
-        Interests: **Data Mining**, **Time Series Analysis**, **Visualizations**, **Electrical Power Systems**, **Power Qualtiy**, **Harmonics**
+        Interests:
+
+        **Electrical Power Systems**, **Power Qualtiy**, **Harmonics**,
+
+       **Data Mining**, **Time Series Analysis**, **Visualizations**
 
         My research is broadly in the field of Electrical Power Systems studying Power Quality.
         More specifically, I am interested in distortion within distribution and transmission systems.
