@@ -76,5 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Max Domagk received Dipl.-Ing. and Dr.-Ing. degrees in electrical engineering from Technische Universitaet Dresden, Dresden, Germany, in 2009 and 2015, respectively. Currently, he is a postdoctoral researcher in the Power Quality Research Group of Prof. Jan Meyer at the Institute of Electrical Power Systems and High Voltage Engineering, Technische Universitaet Dresden.
 {style="text-align: justify;"}
