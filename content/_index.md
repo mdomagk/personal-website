@@ -24,7 +24,7 @@ sections:
         My research helps to analyse the data efficiently and extract useful information using data analysis and data mining methods.
 
         **Interests:**\
-        Electrical Power Systems, Power Qualtiy, Harmonics,\
+        Electrical Power Systems, Power Quality, Harmonics,\
         Data Mining, Time Series Analysis, Visualizations
 
     design:
