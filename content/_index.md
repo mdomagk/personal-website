@@ -17,8 +17,8 @@ sections:
     content:
       title: Research
       text: |-
-        My research is broadly in the field of Electrical Power Systems studying Power Quality.
-        More specifically, I am interested in distortions within distribution and transmission systems.
+        My research is broadly in the field of Electrical Power Systems studying distribution and transmission systems.
+        More specifically, I am interested in Power Quality aspects (e.g. distortion of voltage and current).
         Recent changes, such as the increase in renewable energy or the large-scale introduction of electric vehicles, have a significant impact on Power Quality.
         As a result,  network operators are installing more and more measurements to monitor their networks, resulting in large amounts of data.
         My research helps to analyse the data efficiently and extract useful information using data analysis and data mining methods.
