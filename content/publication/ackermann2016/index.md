@@ -1,5 +1,5 @@
 ---
-title: 'Characterization of Harmonic Emission of Individual Wind Turbines and PV Inverters Based on Measurements -Part I - Photovoltaic Inverters'
+title: 'Characterization of Harmonic Emission of Individual Wind Turbines and PV Inverters Based on Measurements - Part 1 - Photovoltaic Inverters'
 
 authors:
   - Florian Ackermann

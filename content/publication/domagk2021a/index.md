@@ -2,11 +2,11 @@
 title: 'Automatic Identification of Correlations in Large Amounts of Power Quality Data from Long-Term Measurement Campaigns'
 
 authors:
-  - M. Domagk
-  - J. Meyer
-  - T. Wang
-  - D. Feng
-  - W. Huang
+  - admin
+  - Jan Meyer
+  - Tongxun Wang
+  - Dandan Feng
+  - Wei Huang
 
 date: '2021-01-01T00:00:00Z'
 doi: '10.1049/icp.2021.1489'

@@ -1,5 +1,5 @@
 ---
-title: 'Characterization of Harmonic Emission of Individual Wind Turbines and PV Inverters Based on Measurements - Part 2 -Wind Turbines'
+title: 'Characterization of Harmonic Emission of Individual Wind Turbines and PV Inverters Based on Measurements - Part 2 - Wind Turbines'
 
 authors:
   - Fritz Santjer
