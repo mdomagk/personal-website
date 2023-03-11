@@ -4,7 +4,7 @@ title: 'Benchmark Low Voltage Distribution Networks Based on Cluster Analysis of
 authors:
   - Joerg Dickert
   - admin
-  - Perter Schegner
+  - Peter Schegner
 
 date: '2013-01-01T00:00:00Z'
 doi: '10.1109/PTC.2013.6652250'
