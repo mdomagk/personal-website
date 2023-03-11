@@ -21,3 +21,4 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types: ['1']
 
 publication: 20th International Conference and Exhibition on Electricity Distribution (CIRED 2009)
+---

@@ -29,3 +29,4 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types: ['1']
 
 publication: 25th International Conference on Electricity Distribution (CIRED)
+---
