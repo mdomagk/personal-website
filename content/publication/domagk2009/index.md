@@ -1,5 +1,5 @@
 ---
-title: 'Untersuchungen Zur Resynchronisierung von St\"ordatenaufzeichnungen Und Zur Identifikation von Parametern Unsymmetrischer Freileitungen Am Dynamischen Netzmodell'
+title: 'Untersuchungen zur Resynchronisierung von Stördatenaufzeichnungen und zur Identifikation von Parametern unsymmetrischer Freileitungen am dynamischen Netzmodell'
 
 authors:
   - admin
@@ -16,5 +16,5 @@ publishDate: '2000-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['7']
 
-publication: Technische Universit\"at Dresden
+publication: Diplomarbeit, Technische Universitaet Dresden
 ---

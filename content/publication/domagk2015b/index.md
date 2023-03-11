@@ -1,10 +1,10 @@
 ---
-title: 'Identifikation Und Quantifizierung Korrelativer Zusammenh\"ange Zwischen Elektrischer Sowie Klimatischer Umgebung Und Elektroenergiequalit\"at'
+title: 'Identifikation und Quantifizierung korrelativer Zusammenhänge zwischen elektrischer sowie klimatischer Umgebung und Elektroenergiequalität'
 
 authors:
   - admin
 
-date: '2015-01-01T00:00:00Z'
+date: '2015'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -16,5 +16,9 @@ publishDate: '2000-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['7']
 
-publication: Technische Universit\"at Dresden
+publication: Dissertation, Technische Universität Dresden
+
+links:
+- name: PDF
+  url: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-211866
 ---
