@@ -4,7 +4,7 @@ title: 'Identifikation und Quantifizierung korrelativer Zusammenhänge zwischen 
 authors:
   - admin
 
-date: '2015'
+date: '2015-10-19T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).

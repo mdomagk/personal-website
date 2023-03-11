@@ -4,7 +4,7 @@ title: 'Untersuchungen zur Resynchronisierung von Stördatenaufzeichnungen und z
 authors:
   - admin
 
-date: '2009-01-01T00:00:00Z'
+date: '2009-12-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -16,5 +16,5 @@ publishDate: '2000-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['7']
 
-publication: Diplomarbeit, Technische Universitaet Dresden
+publication: Diplomarbeit, Technische Universität Dresden
 ---
