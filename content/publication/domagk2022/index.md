@@ -25,4 +25,6 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types: ['1']
 
 publication: 2022 20th International Conference on Harmonics \& Quality of Power (ICHQP)
+
+abstract: Power grids face significant changes, like increase of renewables or large-scale introduction of electric vehicles. This has a significant impact on Power Quality and consequently network operators install an increasing number of Power Quality instruments to monitor their networks. To analyse these large amounts of data in an efficient way, automatic data mining methods are required. This paper presents a method to identify long-term trends in time series of continuous Power Quality parameters, which can support network operators with the early detection of fundamental changes in Power Quality levels. This information can e.g. support the asset management or network planning in optimizing the costs for managing Power Quality levels. The method is applied to field measurements (3 years at 24 sites) taken from Chinese and German 110-kV-network.
 ---
