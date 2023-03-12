@@ -19,6 +19,6 @@ publication_types: ['7']
 publication: Dissertation, Technische Universität Dresden
 
 links:
-- name: PDF
+- name: URL
   url: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-211866
 ---

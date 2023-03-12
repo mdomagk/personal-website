@@ -18,5 +18,5 @@ publishDate: '2000-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['1']
 
-publication: NA
+publication: 11th International Conference on Electrical Power Quality and Utilisation
 ---
