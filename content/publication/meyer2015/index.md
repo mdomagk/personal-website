@@ -21,4 +21,8 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types: ['1']
 
 publication: 23rd International Conference on Electricity Distribution
+
+links:
+- name: PDF
+  url: http://cired.net/publications/cired2015/papers/CIRED2015_1407_final.pdf
 ---
