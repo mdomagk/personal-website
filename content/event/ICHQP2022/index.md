@@ -6,11 +6,12 @@ event_url: https://ichqp2022.org/
 
 location: Naples, Italy
 
-summary: Presenting a method to identify long-term trends in time series of continuous Power Quality parameters, which can support network operators with the early detection of fundamental changes in Power Quality levels. This information can e.g. support the asset management or network planning in optimizing the costs for managing Power Quality levels. The method is applied to field measurements (3 years at 24 sites) taken from Chinese and German 110-kV-networks.
+summary: Speaker at 20th International Conference on Harmonics and Quality of Power (ICHQP)
+abstract: Presenting a method to identify long-term trends in time series of continuous Power Quality parameters, which can support network operators with the early detection of fundamental changes in Power Quality levels.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 'May, 2022'
+date: '2022-05-01T15:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
