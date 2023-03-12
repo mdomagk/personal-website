@@ -22,4 +22,8 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types: ['1']
 
 publication: International ETG Congress 2017
+
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/8278748
 ---
