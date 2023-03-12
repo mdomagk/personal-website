@@ -42,7 +42,7 @@ sections:
           - publication
     design:
       columns: '2'
-      view: list
+      view: citation
   - block: collection
     id: presentations
     content:
