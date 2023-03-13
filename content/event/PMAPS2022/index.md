@@ -4,7 +4,7 @@ title: Probabilistic Study of Propagation and Summation of Harmonics in Transmis
 event: 17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)
 event_url: https://www.pmaps2022.org/
 
-location: Manchester, England (online)
+location: Manchester, United Kingdom (online)
 
 summary: Invited speaker for Special Session on Power Quality at PMAPS
 abstract: Presenting simulation framework and results for harmonic propagation within transmissions systems.
