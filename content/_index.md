@@ -35,19 +35,15 @@ sections:
       items:
         - name: Electrical Engineering
           description: 100%
-          icon: chart-line
+          icon: plug-circle-bolt
           icon_pack: fas
         - name: Statistics
           description: 80%
           icon: chart-line
           icon_pack: fas
         - name: R
-          description: 100%
+          description: 90%
           icon: r-project
-          icon_pack: fab
-        - name: Python
-          description: 40%
-          icon: python
           icon_pack: fab
   - block: collection
     id: publications
