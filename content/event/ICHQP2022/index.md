@@ -6,7 +6,7 @@ event_url: https://ichqp2022.org/
 
 location: Naples, Italy
 
-summary: Speaker for the Session on Forecasting and Analytics for Power Quality Problems at ICHQP
+summary: Speaker for the Session on Analytics for Power Quality Problems at ICHQP
 
 abstract: Presenting a method to identify long-term trends in time series of continuous Power Quality parameters, which can support network operators with the early detection of fundamental changes in Power Quality levels.
 
