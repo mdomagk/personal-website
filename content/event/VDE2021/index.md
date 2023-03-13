@@ -3,7 +3,7 @@ title: Analyse von Langzeitmessungen der Elektroenergiequalitaet zur Charakteris
 Niederspannungsnetze
 
 event: 637. Elektrotechnisches Kolloquium des VDE
-event_url: https://www.vde-dresden.de/de
+event_url: https://www.vde-dresden.de
 
 location: Dresden, Germany (online)
 
@@ -21,4 +21,7 @@ publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
+
+# Is this a featured talk? (true/false)
+featured: false
 ---
