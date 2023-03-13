@@ -23,4 +23,12 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---
