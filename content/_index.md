@@ -31,7 +31,7 @@ sections:
       columns: '2'
   - block: features
     content:
-      ##title: Skills
+      title: Skills
       items:
         - name: Electrical Engineering
           description: 100%
