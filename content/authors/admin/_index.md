@@ -10,7 +10,7 @@ last_name: Domagk
 superuser: true
 
 # Role/position/tagline
-role: Research Associate
+role: Dr.-Ing. | Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
