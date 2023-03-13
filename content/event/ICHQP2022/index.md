@@ -6,7 +6,8 @@ event_url: https://ichqp2022.org/
 
 location: Naples, Italy
 
-summary: Speaker for the 20th International Conference on Harmonics and Quality of Power (ICHQP)
+summary: Speaker for the Special Session on Forecasting and Analytics for Power Quality Problems
+
 abstract: Presenting a method to identify long-term trends in time series of continuous Power Quality parameters, which can support network operators with the early detection of fundamental changes in Power Quality levels.
 
 # Talk start and end times.
