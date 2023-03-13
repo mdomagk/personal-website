@@ -11,7 +11,7 @@ authors:
   - Wei Huang
 
 date: '2022-08-01T00:00:00Z'
-doi: '10.1049/icp.2022.2152'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2000-01-01T00:00:00Z'
@@ -23,6 +23,10 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types: ['1']
 
 publication: CIRED 2022 Shanghai Workshop
+
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10035319
 
 # Show social sharing links?
 share: false
