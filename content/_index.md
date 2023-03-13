@@ -33,18 +33,22 @@ sections:
     content:
       ##title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
+        - name: Electrical Engineering
           description: 100%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Statistics
+          description: 80%
+          icon: chart-line
           icon_pack: fas
+        - name: R
+          description: 100%
+          icon: r-project
+          icon_pack: fab
+        - name: Python
+          description: 40%
+          icon: python
+          icon_pack: fab
   - block: collection
     id: publications
     content:
