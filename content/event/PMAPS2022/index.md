@@ -6,7 +6,7 @@ event_url: https://www.pmaps2022.org/
 
 location: Manchester, England (online)
 
-summary: Invited speaker for Special Session on Power Quality
+summary: Invited speaker for Special Session on Power Quality at PMAPS
 abstract: Presenting simulation framework and results for harmonic propagation within transmissions systems.
 
 # Talk start and end times.

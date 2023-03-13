@@ -6,7 +6,7 @@ event_url: https://ichqp2022.org/
 
 location: Naples, Italy
 
-summary: Speaker for the Special Session on Forecasting and Analytics for Power Quality Problems
+summary: Speaker for the Session on Forecasting and Analytics for Power Quality Problems at ICHQP
 
 abstract: Presenting a method to identify long-term trends in time series of continuous Power Quality parameters, which can support network operators with the early detection of fundamental changes in Power Quality levels.
 
@@ -24,6 +24,14 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
