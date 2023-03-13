@@ -12,9 +12,9 @@ abstract: Presenting a method to identify long-term trends in time series of con
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-05-00T00:00:00Z'
+date: '2022-05-01T00:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
