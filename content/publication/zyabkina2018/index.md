@@ -7,7 +7,7 @@ authors:
   - Jan Meyer
   - Peter Schegner
 
-date: '2018-01-01T00:00:00Z'
+date: '2018-06-01T00:00:00Z'
 doi: '10.1109/PMAPS.2018.8440460'
 
 # Schedule page publish date (NOT publication's date).
@@ -20,4 +20,12 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types: ['1']
 
 publication: 2018 IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---

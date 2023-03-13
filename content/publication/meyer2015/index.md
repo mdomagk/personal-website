@@ -8,7 +8,7 @@ authors:
   - Hansjoerg Holenstein
   - Stefan Egger
 
-date: '2015-01-01T00:00:00Z'
+date: '2015-06-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,4 +25,12 @@ publication: 23rd International Conference on Electricity Distribution
 links:
 - name: PDF
   url: http://cired.net/publications/cired2015/papers/CIRED2015_1407_final.pdf
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---

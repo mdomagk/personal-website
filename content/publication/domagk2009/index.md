@@ -17,4 +17,12 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types: ['7']
 
 publication: Diplomarbeit, Technische Universität Dresden
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---

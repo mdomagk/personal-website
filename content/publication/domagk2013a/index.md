@@ -7,7 +7,7 @@ authors:
   - Thomas Darda
   - Gerit Eberl
 
-date: '2013-01-01T00:00:00Z'
+date: '2013-06-01T00:00:00Z'
 doi: '10.1049/cp.2013.1104'
 
 # Schedule page publish date (NOT publication's date).
@@ -19,5 +19,17 @@ publishDate: '2000-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['1']
 
-publication: NA
+publication: 22nd International Conference and Exhibition on Electricity Distribution (CIRED)
+
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/6683707?arnumber=6683707
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---

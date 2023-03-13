@@ -1,5 +1,5 @@
 ---
-title: 'Identification of Disturbance Patterns in Long-term Measurements of Power Quality Characteristics in Chinese Large Cities (Submitted)'
+title: 'Identification of Disturbance Patterns in Long-term Measurements of Power Quality Characteristics in Chinese Large Cities'
 
 authors:
   - Olga Zyabkina
@@ -10,8 +10,8 @@ authors:
   - Dandan Feng
   - Wei Huang
 
-date: '2022-01-01T00:00:00Z'
-doi: ''
+date: '2022-08-01T00:00:00Z'
+doi: '10.1049/icp.2022.2152'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2000-01-01T00:00:00Z'
@@ -22,5 +22,13 @@ publishDate: '2000-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['1']
 
-publication: CIRED 2022 Workshop
+publication: CIRED 2022 Shanghai Workshop
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---

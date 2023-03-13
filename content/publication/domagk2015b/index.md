@@ -21,4 +21,12 @@ publication: Dissertation, Technische Universität Dresden
 links:
 - name: URL
   url: https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-211866
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---

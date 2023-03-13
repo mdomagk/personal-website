@@ -11,7 +11,7 @@ authors:
   - Issam Athamna
   - Rainer Klosse
 
-date: '2016-01-01T00:00:00Z'
+date: '2016-11-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -24,4 +24,16 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types: ['1']
 
 publication: 6th Solar Integration Workshop
+
+links:
+- name: URL
+  url: https://windintegrationworkshop.org/proceedings/
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---

@@ -9,7 +9,7 @@ authors:
   - Jan Meyer
   - Max Hoven
 
-date: '2017-01-01T00:00:00Z'
+date: '2017-11-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,4 +26,12 @@ publication: International ETG Congress 2017
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/8278748
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---

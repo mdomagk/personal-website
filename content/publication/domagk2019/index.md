@@ -16,7 +16,7 @@ authors:
   - Fritz Santjer
   - Kaveh Malekian
 
-date: '2019-01-01T00:00:00Z'
+date: '2019-06-01T00:00:00Z'
 doi: '10.34890/814'
 
 # Schedule page publish date (NOT publication's date).
@@ -29,4 +29,16 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types: ['1']
 
 publication: 25th International Conference on Electricity Distribution (CIRED)
+
+links:
+- name: URL
+  url: https://www.cired-repository.org/handle/20.500.12455/587
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---

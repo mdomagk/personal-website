@@ -10,7 +10,7 @@ authors:
   - admin
   - Mustafa Music
 
-date: '2019-01-01T00:00:00Z'
+date: '2019-08-01T00:00:00Z'
 doi: '10.1049/iet-gtd.2018.7120'
 
 # Schedule page publish date (NOT publication's date).
@@ -23,4 +23,12 @@ publishDate: '2000-01-01T00:00:00Z'
 publication_types: ['2']
 
 publication: IET Generation, Transmission \& Distribution
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---
