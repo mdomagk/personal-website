@@ -7,7 +7,7 @@ event_url: https://www.pmaps2022.org/
 location: Manchester, United Kingdom (online)
 
 summary: Invited speaker for Special Session on Power Quality at PMAPS
-abstract: Presenting a simulation framework and anlysis results for the propagation of harmonics within transmissions systems of (extra) high voltage levels.
+abstract: Presenting a simulation framework and analysis results for the propagation of harmonics within transmissions systems of (extra) high voltage levels.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
