@@ -21,6 +21,8 @@ publishDate: '2017-01-01T00:00:00Z'
 authors: []
 tags: []
 
+url_slides: 'uploads/PMAPS2022_Domagk_ProbabilisticStudy.pdf'
+
 # Is this a featured talk? (true/false)
 featured: false
 
