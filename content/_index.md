@@ -34,15 +34,15 @@ sections:
       title: Skills
       items:
         - name: Electrical Engineering
-          description: 100%
+          #description: 100%
           icon: plug-circle-bolt
           icon_pack: fas
-        - name: Statistics
-          description: 80%
+        - name: Data Science
+          #description: 80%
           icon: chart-line
           icon_pack: fas
         - name: R
-          description: 90%
+          #description: 90%
           icon: r-project
           icon_pack: fab
   - block: collection
