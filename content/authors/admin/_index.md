@@ -31,6 +31,9 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-5951-2033
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.de/citations?user=Xe-wT38AAAAJ
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Max-Domagk
