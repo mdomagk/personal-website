@@ -44,7 +44,7 @@ profile: false
 #     url: https://twitter.com/georgecushen
 # url_code: ''
 # url_pdf: ''
-# url_slides: ''
+url_slides: 'uploads/ICHQP2022_Domagk_Trends.pdf'
 # url_video: ''
 
 # Markdown Slides (optional).
