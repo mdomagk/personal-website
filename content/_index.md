@@ -12,10 +12,10 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: markdown
+  - block: tag_cloud
     id: research
     content:
-      title: Research Overview
+      title: Research
       text: |-
         My research is broadly in the field of Electrical Power Systems studying distribution and transmission systems.
         More specifically, I am interested in Power Quality aspects (e.g. distortion of voltage and current).
@@ -23,10 +23,8 @@ sections:
         As a result,  network operators are installing more and more measurements to monitor their networks, resulting in large amounts of data.
         My research helps to analyse the data efficiently and extract useful information using data analysis and data mining methods.
 
-        **Interests:**\
-        Electrical Power Systems, Power Quality, Harmonics,\
-        Data Mining, Time Series Analysis, Visualizations
-
+        View Research by Topic:
+      count: 10
     design:
       columns: '2'
 #  - block: features
@@ -45,11 +43,11 @@ sections:
 #          #description: 90%
 #          icon: r-project
 #          icon_pack: fab
-  - block: tag_cloud
-    content:
-      title: Research Keywords
-    design:
-      columns: '2'
+#  - block: tag_cloud
+#    content:
+#      title: Research Keywords
+#    design:
+#      columns: '2'
   - block: collection
     id: publications
     content:
