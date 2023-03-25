@@ -22,6 +22,12 @@ publication_types: ['1']
 
 publication: CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution
 
+tags:
+- Power Quality
+- Time Series Analysis
+- Data Mining
+- Correlation Analysis
+
 # Show social sharing links?
 share: false
 

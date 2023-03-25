@@ -21,6 +21,13 @@ publication_types: ['2']
 
 publication: IEEE Transactions on Power Delivery
 
+tags:
+- Power System Harmonics
+- Harmonic Phase Angle
+- Prevailing Harmonic Phasor
+- Public Low Voltage Network
+
+
 # Show social sharing links?
 share: false
 

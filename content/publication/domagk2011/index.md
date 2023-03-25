@@ -20,6 +20,12 @@ publication_types: ['1']
 
 publication: 11th International Conference on Electrical Power Quality and Utilisation
 
+tags:
+- Power Quality
+- Harmonics
+- Time Series Analysis
+- Correlation
+
 # Show social sharing links?
 share: false
 

@@ -23,6 +23,13 @@ publication_types: ['1']
 
 publication: 2017 IEEE Manchester PowerTech
 
+tags:
+- Harmonics
+- Harmonic Emission Limits
+- Network Harmonic Impedance
+- Standards
+- Survey
+
 # Show social sharing links?
 share: false
 

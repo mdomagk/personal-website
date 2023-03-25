@@ -29,6 +29,13 @@ publication_types: ['1']
 
 publication: 2016 17th International Conference on Harmonics and Quality of Power (ICHQP)
 
+tags:
+- Harmonics
+- Harmonic Emission Limits
+- Network Harmonic Impedance
+- Standards
+- Survey
+
 # Show social sharing links?
 share: false
 

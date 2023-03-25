@@ -20,6 +20,12 @@ publication_types: ['1']
 
 publication: 2013 IEEE Grenoble Conference
 
+tags:
+- Clustering Methods
+- Data Handling
+- Power System Planning
+- Multivariate Methods
+
 # Show social sharing links?
 share: false
 

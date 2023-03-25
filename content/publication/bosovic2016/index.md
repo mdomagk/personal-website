@@ -24,6 +24,12 @@ publication_types: ['1']
 
 publication: 2016 Electric Power Quality and Supply Reliability (PQ)
 
+tags:
+- Harmonics
+- Power Quality
+- Measurement
+- Modeling
+
 # Show social sharing links?
 share: false
 

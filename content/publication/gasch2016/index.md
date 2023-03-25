@@ -23,6 +23,11 @@ publication_types: ['1']
 
 publication: 2016 17th International Conference on Harmonics and Quality of Power (ICHQP)
 
+tags:
+- Power Quality
+- Indices
+- Measurement Campaign
+
 # Show social sharing links?
 share: false
 

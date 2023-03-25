@@ -30,6 +30,14 @@ publication_types: ['1']
 
 publication: 15th Wind Integration Workshop
 
+tags:
+- Harmonics
+- Modeling
+- Measurement
+- Evaluation Method
+- Network Harmonic Impedance
+- Phase Angle
+
 links:
 - name: URL
   url: https://windintegrationworkshop.org/proceedings/

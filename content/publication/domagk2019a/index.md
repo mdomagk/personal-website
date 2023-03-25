@@ -20,6 +20,14 @@ publication_types: ['1']
 
 publication: 2019 IEEE Milan PowerTech
 
+tags:
+- Harmonics
+- Impedance Measurement
+- Norton Model
+- Equivalent Circuit Model
+- Low Voltage Grid
+- Modeling
+
 # Show social sharing links?
 share: false
 

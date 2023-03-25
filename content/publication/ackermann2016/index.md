@@ -25,6 +25,13 @@ publication_types: ['1']
 
 publication: 6th Solar Integration Workshop
 
+tags:
+- Harmonics
+- Modeling
+- Background Distortion
+- Network Harmonic Impedance
+- Inverter
+
 links:
 - name: URL
   url: https://windintegrationworkshop.org/proceedings/

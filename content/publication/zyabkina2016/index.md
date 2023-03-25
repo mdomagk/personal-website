@@ -21,6 +21,12 @@ publication_types: ['1']
 
 publication: 2016 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe)
 
+tags:
+- Time Series Analysis
+- Power Quality
+- Data Mining
+- Anomaly Detection
+
 # Show social sharing links?
 share: false
 

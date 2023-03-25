@@ -21,6 +21,13 @@ publication_types: ['1']
 
 publication: 2017 IEEE International Workshop on Applied Measurements for Power Systems (AMPS)
 
+tags:
+- Harmonics
+- Unbalance
+- Measurement accuracy
+- Uncertainty Propagation
+- Monte Carlo Simulation
+
 # Show social sharing links?
 share: false
 

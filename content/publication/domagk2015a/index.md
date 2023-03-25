@@ -20,6 +20,13 @@ publication_types: ['1']
 
 publication: 2015 IEEE Eindhoven PowerTech
 
+tags:
+- Power Quality
+- Data Mining
+- Harmonics
+- Time Series Analysis
+- Consumer Behavior
+
 # Show social sharing links?
 share: false
 

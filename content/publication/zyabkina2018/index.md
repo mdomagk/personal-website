@@ -21,6 +21,13 @@ publication_types: ['1']
 
 publication: 2018 IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)
 
+tags:
+- Power Quality
+- Time Series Analysis
+- Data Mining
+- Anomaly Detection
+- Classification
+
 # Show social sharing links?
 share: false
 

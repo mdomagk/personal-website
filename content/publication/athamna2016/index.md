@@ -28,6 +28,13 @@ publication_types: ['1']
 
 publication: 15th Wind Integration Workshop
 
+tags:
+- Harmonics
+- Modeling
+- Measurement
+- Evaluation
+- Active Harmonic Compensation
+
 links:
 - name: URL
   url: https://windintegrationworkshop.org/proceedings/

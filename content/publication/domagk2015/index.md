@@ -21,6 +21,13 @@ publication_types: ['1']
 
 publication: 2015 Australasian Universities Power Engineering Conference (AUPEC)
 
+tags:
+- Power Quality
+- Data Mining
+- Harmonics
+- Time Series Analysis
+- Trend Analysis
+
 # Show social sharing links?
 share: false
 
