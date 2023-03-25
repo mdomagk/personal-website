@@ -26,6 +26,12 @@ publication_types: ['1']
 
 publication: 2022 20th International Conference on Harmonics \& Quality of Power (ICHQP)
 
+tags:
+- Data Mining
+- Power Quality
+- Time Series Analysis
+- Trend Identification
+
 # Show social sharing links?
 share: false
 

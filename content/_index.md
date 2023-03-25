@@ -15,7 +15,7 @@ sections:
   - block: markdown
     id: research
     content:
-      title: Research
+      title: Research Overview
       text: |-
         My research is broadly in the field of Electrical Power Systems studying distribution and transmission systems.
         More specifically, I am interested in Power Quality aspects (e.g. distortion of voltage and current).
@@ -29,22 +29,27 @@ sections:
 
     design:
       columns: '2'
-  - block: features
+#  - block: features
+#    content:
+#      title: Skills
+#      items:
+#        - name: Electrical Engineering
+#          #description: 100%
+#          icon: plug-circle-bolt
+#          icon_pack: fas
+#        - name: Data Science
+#          #description: 80%
+#          icon: chart-line
+#          icon_pack: fas
+#        - name: R
+#          #description: 90%
+#          icon: r-project
+#          icon_pack: fab
+  - block: tag_cloud
     content:
-      title: Skills
-      items:
-        - name: Electrical Engineering
-          #description: 100%
-          icon: plug-circle-bolt
-          icon_pack: fas
-        - name: Data Science
-          #description: 80%
-          icon: chart-line
-          icon_pack: fas
-        - name: R
-          #description: 90%
-          icon: r-project
-          icon_pack: fab
+      title: Research Keywords
+    design:
+      columns: '2'
   - block: collection
     id: publications
     content:

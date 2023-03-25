@@ -24,6 +24,12 @@ publication_types: ['1']
 
 publication: CIRED 2022 Shanghai Workshop
 
+tags:
+- Data Mining
+- Power Quality
+- Time Series Analysis
+- Pattern Recognition
+
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10035319

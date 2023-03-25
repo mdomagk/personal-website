@@ -21,6 +21,16 @@ publication_types: ['2']
 
 publication: Applied Sciences
 
+tags:
+- Power System Harmonics
+- Harmonic Current Emission
+- Public Low Voltage Network
+- Time Series Analysis
+- Machine Learning
+- Classification
+- Support Vector Machines
+
+
 # Show social sharing links?
 share: false
 
