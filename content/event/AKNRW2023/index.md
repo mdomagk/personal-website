@@ -44,7 +44,7 @@ profile: false
 #     url: https://twitter.com/georgecushen
 # url_code: ''
 # url_pdf: ''
-url_slides: 'uploads/202303025_AK-NRW_Prognose.pdf'
+url_slides: 'uploads/AKNRW2023_Domagk_Prognose.pdf'
 # url_video: ''
 
 # Markdown Slides (optional).
