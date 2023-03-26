@@ -22,7 +22,7 @@ publication: 2019 IEEE Milan PowerTech
 
 tags:
 - Harmonics
-- Impedance Measurement
+- Network Harmonic Impedance
 - Norton Model
 - Equivalent Circuit Model
 - Low Voltage Grid
