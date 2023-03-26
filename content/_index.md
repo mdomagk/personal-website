@@ -12,6 +12,23 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+  - block: features
+    content:
+      #title: Skills
+      title:
+      items:
+        - name: Electrical Engineering
+          #description: 100%
+          icon: plug-circle-bolt
+          icon_pack: fas
+        - name: Data Science
+          #description: 80%
+          icon: chart-line
+          icon_pack: fas
+        - name: R
+          #description: 90%
+          icon: r-project
+          icon_pack: fab
   - block: tag_cloud
     id: research
     content:
@@ -24,25 +41,9 @@ sections:
         My research helps to analyse the data efficiently and extract useful information using data analysis and data mining methods.
 
         **View Research by Topic:**
-      count: 15
+      count: 12
     design:
       columns: '2'
-#  - block: features
-#    content:
-#      title: Skills
-#      items:
-#        - name: Electrical Engineering
-#          #description: 100%
-#          icon: plug-circle-bolt
-#          icon_pack: fas
-#        - name: Data Science
-#          #description: 80%
-#          icon: chart-line
-#          icon_pack: fas
-#        - name: R
-#          #description: 90%
-#          icon: r-project
-#          icon_pack: fab
   - block: collection
     id: publications
     content:
