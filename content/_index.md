@@ -23,8 +23,8 @@ sections:
         As a result,  network operators are installing more and more measurements to monitor their networks, resulting in large amounts of data.
         My research helps to analyse the data efficiently and extract useful information using data analysis and data mining methods.
 
-        **Research Keywords:**
-      count: 10
+        **View Research by Topic:**
+      count: 15
     design:
       columns: '2'
 #  - block: features
