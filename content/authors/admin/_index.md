@@ -15,7 +15,7 @@ role: Research Associate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Technische Universitaet Dresden
-    url: https://tu-dresden.de
+    url: https://tu-dresden.de/ing/elektrotechnik/ieeh/ev/die-professur/mitarbeiter/max-domagk
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Data Mining and Power Quality.
@@ -63,5 +63,5 @@ email: ''
 highlight_name: true
 ---
 
-I work as a postdoctoral researcher at the [Institute of Electrical Power Systems and High Voltage Engineering](https://tu-dresden.de/ing/elektrotechnik/ieeh), Technische Universitaet Dresden in the Power Quality research group of [Prof. Jan Meyer](https://www.researchgate.net/profile/Jan-Meyer-4).
+I work as a postdoctoral researcher at the [Institute of Electrical Power Systems and High Voltage Engineering](https://tu-dresden.de/ing/elektrotechnik/ieeh), Technische Universitaet Dresden in the Power Quality research group of [Prof. Jan Meyer](https://tu-dresden.de/ing/elektrotechnik/ieeh/ev/die-professur/mitarbeiter/jan-meyer).
 {style="text-align: justify;"}
