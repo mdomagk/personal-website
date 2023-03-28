@@ -83,7 +83,7 @@ sections:
         postcode: '01096'
         country: Germany
         country_code: DE
-      directions: 'Enter Toepler-Bau to Office 104a'
+      directions: 'Enter Toepler-Bau to Office 101'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
