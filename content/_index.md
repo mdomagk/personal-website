@@ -79,11 +79,15 @@ sections:
       address:
         street: Mommsenstr. 12
         city: Dresden
-        ##region: CA
+        #region: CA
         postcode: '01096'
         country: Germany
         country_code: DE
       directions: 'Enter Toepler-Bau to Office 101'
+      ## # Coordinates to display a map - set your map provider in `params.yaml`
+      ## coordinates:
+      ##   latitude: '51.02730'
+      ##   longitude: '13.7255'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
