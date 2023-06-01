@@ -8,7 +8,7 @@ location: London, United Kingdom
 
 summary: Speaker for transCampus project workshop at King's College London
 
-abstract: Presenting the challenges of measurement-based determination of frequency-dependent impedance characteristics for downstream distribution networks at a workshop on modelling of distribution systems for harmonic studies in transmission systems
+abstract: Presenting the challenges of measurement-based determination of frequency-dependent impedance characteristics at a workshop on modelling of distribution systems for harmonic studies in transmission systems
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
