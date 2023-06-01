@@ -1,14 +1,14 @@
 ---
 title: Challenges of measurement-based determination of frequency-dependent impedance characteristics
 
-event: transCampus project workshop on modelling of distribution systems for harmonic studies in transmission systems at King's College London
+event: transCampus project workshop at King's College London
 event_url: https://www.kcl.ac.uk/transcampus
 
 location: London, United Kingdom
 
-summary: Speaker for transCampus project workshop at KCL
+summary: Speaker for transCampus project workshop at King's College London
 
-abstract: Presenting the challenges of measurement-based determination of frequency-dependent impedance characteristics for downstream distribution networks
+abstract: Presenting the challenges of measurement-based determination of frequency-dependent impedance characteristics for downstream distribution networks at a workshop on modelling of distribution systems for harmonic studies in transmission systems
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
