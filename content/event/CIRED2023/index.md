@@ -12,7 +12,7 @@ abstract: Talk given by co-author René Braunstein. Presenting the analysis of t
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-06-14T00:00:00Z'
+date: '2023-06-14T00:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
