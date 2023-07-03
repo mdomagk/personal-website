@@ -24,6 +24,10 @@ tags: []
 
 url_slides: 'uploads/WSHOPKCL2023_meas-based_determination.pdf'
 
+links:
+- name: Blog
+  url: https://www.sprintresearch.co.uk/blog-3-08-06-2023
+
 # Is this a featured talk? (true/false)
 featured: false
 
