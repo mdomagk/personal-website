@@ -11,7 +11,7 @@ authors:
   - Wei Huang
 
 date: '2022-08-01T00:00:00Z'
-doi: ''
+doi: '10.1049/icp.2022.2152'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2000-01-01T00:00:00Z'
@@ -30,9 +30,9 @@ tags:
 - Time Series Analysis
 - Pattern Recognition
 
-links:
-- name: URL
-  url: https://ieeexplore.ieee.org/document/10035319
+# links:
+# - name: URL
+#   url: https://ieeexplore.ieee.org/document/10035319
 
 # Show social sharing links?
 share: false
