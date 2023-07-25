@@ -33,13 +33,13 @@ social:
     link: https://orcid.org/0000-0001-5951-2033
   - icon: researchgate
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Max-Domag
+    link: https://www.researchgate.net/profile/Max-Domagk
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.de/citations?user=Xe-wT38AAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/max-domagk-1b1b11272
+    link: https://www.linkedin.com/in/max-domagk-1b1b11272
   - icon: github
     icon_pack: fab
     link: https://github.com/mdomagk
