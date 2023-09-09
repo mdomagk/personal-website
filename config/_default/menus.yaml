@@ -22,9 +22,9 @@ main:
   - name: Presentations
     url: '#presentations'
     weight: 40
-  - name: CV
-    url: uploads/CV_Domagk_Max.pdf
-    weight: 50
+  # - name: CV
+  #   url: uploads/CV_Domagk_Max.pdf
+  #   weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
