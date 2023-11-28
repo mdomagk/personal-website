@@ -27,6 +27,8 @@ url_slides: 'uploads/WSHOPTUD2023_Equivalent_Circuits.pdf'
 links:
 - name: Flyer
   url: 'uploads/WSHOPTUD2023_Flyer.pdf'
+- name: Blog
+  url: https://www.sprintresearch.co.uk/blog-6-27-11-2023
 
 # Is this a featured talk? (true/false)
 featured: false
