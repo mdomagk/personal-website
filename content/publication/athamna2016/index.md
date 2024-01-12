@@ -30,7 +30,7 @@ publication: 15th Wind Integration Workshop
 
 tags:
 - Harmonics
-- Modeling
+- Modelling
 - Measurement
 - Evaluation
 - Active Harmonic Compensation

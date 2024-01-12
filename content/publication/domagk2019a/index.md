@@ -26,7 +26,7 @@ tags:
 - Norton Model
 - Equivalent Circuit Model
 - Low Voltage Grid
-- Modeling
+- Modelling
 
 # Show social sharing links?
 share: false
