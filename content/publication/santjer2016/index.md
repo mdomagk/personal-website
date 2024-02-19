@@ -32,7 +32,7 @@ publication: 15th Wind Integration Workshop
 
 tags:
 - Harmonics
-- Modelling
+- Modeling
 - Measurement
 - Evaluation Method
 - Network Harmonic Impedance

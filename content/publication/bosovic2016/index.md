@@ -28,7 +28,7 @@ tags:
 - Harmonics
 - Power Quality
 - Measurement
-- Modelling
+- Modeling
 
 # Show social sharing links?
 share: false

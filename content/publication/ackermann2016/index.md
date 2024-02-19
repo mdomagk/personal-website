@@ -27,7 +27,7 @@ publication: 6th Solar Integration Workshop
 
 tags:
 - Harmonics
-- Modelling
+- Modeling
 - Background Distortion
 - Network Harmonic Impedance
 - Inverter

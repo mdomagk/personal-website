@@ -26,12 +26,12 @@ publication_types: ['3']
 publication: CIGRE Session 2024
 
 tags:
-  - Modelling
+  - Modeling
   - Harmonic Network Impedance
   - Harmonic Propagation
   - Transmission System
   - Inverter-Based Resources
-  - Transmission Line Modelling
+  - Transmission Line Modeling
 
 # Show social sharing links?
 share: false
