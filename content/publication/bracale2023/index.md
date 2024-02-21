@@ -9,7 +9,7 @@ authors:
   - Jan Meyer
 
 date: '2023-10-23T00:00:00Z'
-##doi: '10.1109/ICHQP53011.2022.9808645'
+doi: '10.1109/ISGTEUROPE56780.2023.10407588'
 
 links:
 - name: Preprint
@@ -24,7 +24,7 @@ publishDate: '2000-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['1']
 
-publication: 2023 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+publication: 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe)
 
 tags:
 - Power Quality
