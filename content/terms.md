@@ -1,15 +1,24 @@
 ---
 title: Terms
 date: '2018-06-28T00:00:00+01:00'
-draft: true
+draft: false
 share: false
 commentable: false
 editable: false
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
+  caption: 'Impressum'
   image: ''
 ---
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+Max Domagk
+c/o Technische Universität Dresden
+Fakultät Elektrotechnik und Informationstechnik
+Institut für Elektrische Energieversorgung und Hochspannungstechnik (IEEH)
+Professur für Elektroenergieversorgung
+Mommsenstr. 12
+01069 Dresden
+Germany
+
+Tel.:             +49 (351) 463-35223
