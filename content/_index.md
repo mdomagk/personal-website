@@ -75,8 +75,8 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: max.domagk@tu-dresden.de
-      phone: +49 351 463-35223
+      email: max.domagk (a t) tu-dresden.de
+      phone: +49 (351) 463-35223
       address:
         street: Mommsenstr. 12
         city: Dresden
