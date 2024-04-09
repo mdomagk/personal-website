@@ -15,41 +15,26 @@ header:
 ### Angaben gemäß § 5 TMG
 
 Max Domagk
-
 c/o Technische Universität Dresden
-
 Fakultät Elektrotechnik und Informationstechnik
-
 Institut für Elektrische Energieversorgung und Hochspannungstechnik (IEEH)
-
 Professur für Elektroenergieversorgung
-
 Mommsenstr. 12
-
 01069 Dresden
-
 Germany
 
 ### Kontakt
 
-E-Mail: max.domagk@tu-dresden.de
-
+E-Mail: max.domagk (a t) tu-dresden.de
 Tel.: +49 (351) 463-35223
 
 ### Redaktionell verantwortlich
 
 Max Domagk
-
 c/o Technische Universität Dresden
-
 Fakultät Elektrotechnik und Informationstechnik
-
 Institut für Elektrische Energieversorgung und Hochspannungstechnik (IEEH)
-
 Professur für Elektroenergieversorgung
-
 Mommsenstr. 12
-
 01069 Dresden
-
 Germany
