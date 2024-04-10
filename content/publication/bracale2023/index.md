@@ -11,10 +11,6 @@ authors:
 date: '2023-10-23T00:00:00Z'
 doi: '10.1109/ISGTEUROPE56780.2023.10407588'
 
-links:
-- name: Preprint
-  url: 'uploads/bracale2023_preprint.pdf'
-
 # Schedule page publish date (NOT publication's date).
 publishDate: '2000-01-01T00:00:00Z'
 
