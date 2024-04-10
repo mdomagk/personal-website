@@ -29,7 +29,7 @@ sections:
           #description: 90%
           icon: r-project
           icon_pack: fab
-  - block: tag_cloud
+  - block: portfolio
     id: research
     content:
       title: Research
@@ -40,14 +40,7 @@ sections:
         In my research, I employ data analysis and data mining methods to efficiently analyze this data and extract valuable insights.
         By doing so, I aim to contribute to the identification of Power Quality issues, the optimization of system performance, and the overall enhancement of the reliability of Electrical Power Systems.
 
-        **View Research by Topic:**
-      count: 8
-    design:
-      columns: '2'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
+        **Current research project:**
       filters:
         folders:
           - project
@@ -57,6 +50,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: tag_cloud
+    content:
+      ##title: Research
+      text: |-
+        **View Research by Topic:**
+      count: 8
+    design:
+      columns: '2'
   - block: collection
     id: publications
     content:
