@@ -34,8 +34,7 @@ sections:
     content:
       title: Research
       text: |-
-        My research is broadly focused on Electrical Power Systems, with a specific emphasis on distribution and transmission systems.
-        I am particularly interested in Power Quality aspects, such as the distortion of voltage and current.
+        My research is broadly focused on Electrical Power Systems, with a specific emphasis on Power Quality aspects, such as the distortion of voltage and current.
         Recent changes, such as the increase in renewable energy sources or the large-scale introduction of electric vehicles, have a significant impact on Power Quality.
         As a result, network operators are increasingly installing extensive measurement systems to closely monitor their networks, resulting in vast amounts of data.
         In my research, I employ data analysis and data mining methods to efficiently analyze this data and extract valuable insights.
