@@ -10,18 +10,18 @@ main:
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
-  # - name: Projects
-  #   url: '#projects'
-  #   weight: 30
   - name: Research
     url: '#research'
     weight: 20
+  - name: Projects
+    url: '#projects'
+    weight: 30
   - name: Publications
     url: '#publications'
-    weight: 30
+    weight: 40
   - name: Presentations
     url: '#presentations'
-    weight: 40
+    weight: 50
   # - name: CV
   #   url: uploads/CV_Domagk_Max.pdf
   #   weight: 50
