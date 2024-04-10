@@ -1,13 +1,12 @@
 ---
 title: Multivariate Analysis of Power Quality
-summary: New methods for multivariate analysis of power quality in large amounts of data
+summary: Project on new methods for multivariate analysis of power quality in large amounts of data funded by the Deutsche Forschungsgemeinschaft (DFG)
 tags:
   - Data Mining
   - Time Series Analysis
   - Indices
-  - Measurement
   - Power Quality
-  - Harmonics
+  - Measurement
 date: '2024-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -18,7 +17,7 @@ image:
   focal_point: Smart
 
 links:
-  - name: GEPRIS-DFG
+  - name: GEPRIS
     url: https://gepris.dfg.de/gepris/projekt/521923789?language=en
   # - icon: twitter
   #   icon_pack: fab
@@ -34,15 +33,21 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
+
+# Show social sharing links?
+share: false
+
+# Show author profile (photo and bio) under the content?
+# Edit your author profiles in the `content/authors/` folder
+# Then reference their folder names with the `authors` front matter option above
+profile: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Power quality (PQ) is becoming increasingly important in the electrical power supply of modern industrial societies such as Germany. This is due, on the one hand, to the increased use of devices and systems that lead to a reduction in PQ due to their impact on e.g. voltage and current distortion within networks and, on the other hand, to the growing number of devices and systems that react increasingly sensitive to a reduction in PQ. The accelerated transition to distributed generation as well as the introduction of electromobility and electrical storage have a non-negligible impact on PQ.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Therefore, there is an increasing need for comprehensive knowledge on the character and possible temporal changes of PQ. More and more PQ measuring devices are therefore being installed in the electrical power supply networks, which is why the already enormous amount of available measurement data will again increase significantly in the near future.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Currently, the collected data is often only used for individual fault analysis. In the case of regular analyses, these are mostly limited to simple standard evaluations, which only provide a week-by-week qualitative statement (yes/no) about compliance with specified limit values. Most of the information about the behaviour or characteristics of PQ within the network remains unused because suitable tools and indices for their automated analysis do not exist and manual techniques are unsuitable due to the enormous amount of data. However, it is precisely this information that has a high economic value. For example, they contribute to an early detection of local or global negative developments with regard to PQ. In addition, they can help to optimize the number and distribution of metering locations in the network and to work proactively towards ensuring adequate PQ on a sustainable basis. The additional information also forms the basis for the proper further development of standards and guidelines as well as the future integration of aspects of PQ into network planning.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+For the reasons mentioned above, there is currently a high demand for new and effective procedures, techniques and evaluation indices for the automated analysis of large data sets from long-term measurements of PQ parameters. The future new methods will be based on multivariate analysis techniques, especially for the identification and quantification of similarities and interdependencies between quality parameters and/or measurement locations and/or evaluation periods. Similarities refer to the shape of the course or pattern of different time series and have a rather qualitative character. Interdependencies, on the other hand, have a quantitative character and refer in particular to different types of correlations.
