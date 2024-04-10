@@ -42,7 +42,7 @@ sections:
         By doing so, I aim to contribute to the identification of Power Quality issues, the optimization of system performance, and the overall enhancement of the reliability of Electrical Power Systems.
 
         **View Research by Topic:**
-      count: 12
+      count: 8
     design:
       columns: '2'
   - block: portfolio
