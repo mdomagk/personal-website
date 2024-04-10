@@ -50,14 +50,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: tag_cloud
-    content:
-      ##title: Research
-      text: |-
-        **View Research by Topic:**
-      count: 8
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     ##title: Research
+  #     text: |-
+  #       **View Research by Topic:**
+  #     count: 8
+  #   design:
+  #     columns: '2'
   - block: collection
     id: publications
     content:
