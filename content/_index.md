@@ -79,11 +79,11 @@ sections:
       phone: +49 351 463-35223
       address:
         street: Mommsenstr. 12
-        city: Dresden
+        city: D-01096 Dresden, Germany
         #region: CA
-        postcode: '01096'
-        country: Germany
-        country_code: DE
+        #postcode: '01096'
+        #country: Germany
+        #country_code: DE
       directions: 'Enter Toepler-Bau to Office 101'
       ## # Coordinates to display a map - set your map provider in `params.yaml`
       ## coordinates:
