@@ -20,9 +20,7 @@ header:
 ### Allgemeine Hinweise
 
 Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen.
-
 Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.
-
 Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
 
 ### Datenerfassung auf dieser Website
@@ -46,9 +44,9 @@ Ein Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website 
 
 Diese Website wird bei einem externen Dienstleister gehostet (Hoster). Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln. Der Einsatz des Hosters erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO). Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TTDSG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TTDSG umfasst. Die Einwilligung ist jederzeit widerrufbar. Unser Hoster wird Ihre Daten nur insoweit verarbeiten, wie dies zur Erfüllung seiner Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen. Wir setzen folgende Hoster ein:
 
-Netlify Inc
-610 22nd Street, Suite 315
-San Francisco, CA 94107
+Netlify Inc\
+610 22nd Street, Suite 315\
+San Francisco, CA 94107\
 United States of America
 
 ## 3. Allgemeine Hinweise und Pflichtinformationen
@@ -61,16 +59,16 @@ Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ern
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Max Domagk
-c/o Technische Universität Dresden
-Fakultät Elektrotechnik und Informationstechnik
-Institut für Elektrische Energieversorgung und Hochspannungstechnik (IEEH)
-Professur für Elektroenergieversorgung
-Mommsenstr. 12
+Max Domagk\
+c/o Technische Universität Dresden\
+Fakultät Elektrotechnik und Informationstechnik\
+Institut für Elektrische Energieversorgung und Hochspannungstechnik (IEEH)\
+Professur für Elektroenergieversorgung\
+Mommsenstr. 12\
 D-01069 Dresden
 
-E-Mail: max (d o t) domagk (a t) tu-dresden (d o t) de
-Tel.: +49 351 463-35223
+E-Mail: max (d o t) domagk (a t) tu-dresden (d o t) de\
+Tel.: +49 351 463-35223\
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 
