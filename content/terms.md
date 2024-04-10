@@ -20,13 +20,12 @@ Fakultät Elektrotechnik und Informationstechnik\
 Institut für Elektrische Energieversorgung und Hochspannungstechnik (IEEH)\
 Professur für Elektroenergieversorgung\
 Mommsenstr. 12\
-01069 Dresden\
-Germany
+D-01069 Dresden
 
 ### Kontakt
 
-E-Mail: max.domagk (a t) tu-dresden.de\
-Tel.: +49 (351) 463-35223
+E-Mail: max (d o t) domagk (a t) tu-dresden (d o t) de\
+Tel.: +49 351 463-35223
 
 ### Redaktionell verantwortlich
 
@@ -36,5 +35,4 @@ Fakultät Elektrotechnik und Informationstechnik\
 Institut für Elektrische Energieversorgung und Hochspannungstechnik (IEEH)\
 Professur für Elektroenergieversorgung\
 Mommsenstr. 12\
-01069 Dresden\
-Germany
+D-01069 Dresden
