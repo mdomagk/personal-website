@@ -67,7 +67,7 @@ Professur für Elektroenergieversorgung\
 Mommsenstr. 12\
 D-01069 Dresden
 
-E-Mail: max (d o t) domagk (a t) tu-dresden (d o t) de\
+E-Mail: max [dot] domagk [at] tu-dresden [dot] de\
 Tel.: +49 351 463-35223\
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.

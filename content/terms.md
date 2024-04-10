@@ -24,7 +24,7 @@ D-01069 Dresden
 
 ### Kontakt
 
-E-Mail: max (d o t) domagk (a t) tu-dresden (d o t) de\
+E-Mail: max [dot] domagk [at] tu-dresden [dot] de\
 Tel.: +49 351 463-35223
 
 ### Redaktionell verantwortlich

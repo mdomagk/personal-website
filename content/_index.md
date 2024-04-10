@@ -75,11 +75,11 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: max (d o t) domagk (a t) tu-dresden (d o t) de
+      email: max [dot] domagk [at] tu-dresden [dot] de
       phone: +49 351 463-35223
       address:
         street: Mommsenstr. 12
-        city: D-01096 Dresden
+        city: 01096 Dresden
         postcode: Germany
         #region: CA
         #country: Germany
