@@ -76,6 +76,7 @@ sections:
     id: presentations
     content:
       title: Recent Presentations
+      count: 3
       filters:
         folders:
           - event
