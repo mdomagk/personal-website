@@ -1,6 +1,6 @@
 ---
-title: Multivariate Analysis of Power Quality
-summary: Project on new methods for multivariate analysis of Power Quality in large amounts of data funded by the Deutsche Forschungsgemeinschaft (DFG)
+title: Multivariate Methods
+summary: Project on new methods for multivariate analysis of Power Quality measurements
 tags:
   - Data Mining
   - Time Series Analysis
@@ -17,6 +17,6 @@ image:
   focal_point: Smart
 
 links:
-  - name: DFG-GEPRIS
+  - name: 'Project Details'
     url: https://gepris.dfg.de/gepris/projekt/521923789?language=en
 ---
