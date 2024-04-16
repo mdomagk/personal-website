@@ -34,6 +34,9 @@ social:
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-5951-2033
+  - icon: ieee
+    icon_pack: ai
+    link: https://ieeexplore.ieee.org/author/38108524500
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Max-Domagk
@@ -46,10 +49,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/CV_Domagk_Max.pdf
-
-  # - icon: ieee
-  #   icon_pack: ai
-  #   link: https://ieeexplore.ieee.org/author/38108524500
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
