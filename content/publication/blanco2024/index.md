@@ -8,7 +8,11 @@ authors:
   - Marco Lindner
 
 date: '2024-08-25T00:00:00Z'
-#doi: '10.1049/icp.2023.1082'
+#doi: ''
+
+links:
+- name: Preprint
+  url: 'uploads/blanco2024_preprint.pdf'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2000-01-01T00:00:00Z'
