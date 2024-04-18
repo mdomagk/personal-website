@@ -38,3 +38,4 @@ share: false
 # Edit your author profiles in the `content/authors/` folder
 # Then reference their folder names with the `authors` front matter option above
 profile: false
+---
