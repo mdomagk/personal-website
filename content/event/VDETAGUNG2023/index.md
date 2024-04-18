@@ -1,12 +1,12 @@
 ---
 title: Ergebnisse aus aktuellen Studien - Unsymmetrie, Harmonische, Emissionen von Kundenanlagen
 
-event: '6. Fachtagung Netzrückwirkungen VDE Dresden'
-event_url: https://www.vde-dresden.de/de
+event: 'VDE Fachtagung Netzrückwirkungen'
+event_url: 'https://www.vde-dresden.de/de'
 
 location: Dresden, Germany
 
-summary: Speaker for the 6. Fachtagung Netzrückwirkungen
+summary: Speaker for the VDE Fachtagung Netzrückwirkungen
 
 abstract: Presenting results from recent studies on voltage unbalance, harmonics and emissions from customer installations.
 
