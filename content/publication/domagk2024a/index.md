@@ -2,8 +2,8 @@
 title: 'Uncertainty in the Assessment of Harmonic Voltages and Currents in Sequence Domain'
 
 authors:
-  - Olga Zyabkina
   - admin
+  - Olga Zyabkina
   - Jan Meyer
   - Marco Lindner
 
