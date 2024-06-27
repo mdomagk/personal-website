@@ -1,5 +1,5 @@
 ---
-title: 'Identification of Equivalent Impedance Models of Downstream Networks for Harmonic Studies in Transmission Systems'
+title: 'Identification of Equivalent Impedance Models of Downstream Networks for Harmonic Studies in Extra High Voltage Systems'
 
 authors:
   - admin
