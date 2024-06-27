@@ -1,5 +1,5 @@
 ---
-title: 'Analyzing Large-Scale Power Quality Data: Case Study of Estonian TSO Measurements'
+title: 'Analysing Large-Scale Power Quality Data: Case Study of Estonian TSO Measurements'
 
 authors:
   - admin
