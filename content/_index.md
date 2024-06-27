@@ -34,11 +34,11 @@ sections:
     content:
       title: Research
       text: |-
-        My research is broadly focused on Electrical Power Systems, with a specific emphasis on Power Quality aspects, such as the distortion of voltage and current.
-        Recent changes, such as the increase in renewable energy sources or the large-scale introduction of electric vehicles, have a significant impact on Power Quality.
-        As a result, network operators are increasingly installing extensive measurement systems to closely monitor their networks, resulting in vast amounts of data.
+        My research is broadly focused on Electrical Power Systems, with a specific emphasis on Power Quality aspects, such as voltage and current distortion.
+        Recent changes, such as the increase in renewable energy sources and the large-scale introduction of electric vehicles, have significantly impacted Power Quality.
+        As a result, network operators are increasingly installing extensive measurement systems to closely monitor their networks, leading to vast amounts of data.
         In my research, I employ data analysis and data mining methods to efficiently analyze this data and extract valuable insights.
-        By doing so, I aim to contribute to the identification of Power Quality issues, the optimization of system performance, and the overall enhancement of the reliability of Electrical Power Systems.
+        By doing so, I aim to contribute to identifying Power Quality issues, the optimization of system performance, and the overall enhancement of the reliability of Electrical Power Systems.
 
         **Current research project:**
       filters:
