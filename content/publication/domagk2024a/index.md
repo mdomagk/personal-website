@@ -1,13 +1,13 @@
 ---
-title: 'Uncertainty in the Assessment of Harmonic Voltages and Currents in Sequence Domain'
+title: 'Use Cases for Power Quality Data Analysis: Case Study for the Estonian Transmission System'
 
 authors:
   - admin
-  - Olga Zyabkina
   - Jan Meyer
-  - Marco Lindner
+  - Jako Kilter
+  - Rain Maripuu
 
-date: '2024-09-18T00:00:00Z'
+date: '2024-10-15T01:00:00Z'
 ## doi: '10.1049/icp.2023.1082'
 
 # Schedule page publish date (NOT publication's date).
@@ -19,14 +19,14 @@ publishDate: '2000-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['3']
 
-publication: 2024 14th International Workshop on Applied Measurements for Power Systems (AMPS)
+publication: 2024 21st International Conference on Harmonics \& Quality of Power (ICHQP)
 
 tags:
 - Power Quality
+- Data Mining
+- Measurement Campaign
+- Time Series Analysis
 - Harmonics
-- Transmission System
-- Measurement Uncertainty
-- Unbalance
 
 # Show social sharing links?
 share: false
