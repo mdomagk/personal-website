@@ -1,18 +1,18 @@
 ---
-title: Analysis and Visualization of Large-Scale Power Quality Monitoring Campaigns
+title: "Use Cases for Power Quality Data Analysis: Case Study for the Estonian Transmission System"
 
-event: 21st International Conference on Harmonics and Quality of Power (ICHQP)
-event_url: https://ichqp2024.org/
+event: "21st International Conference on Harmonics and Quality of Power (ICHQP)"
+event_url: "https://ichqp2024.org/"
 
-location: Chengdu, China
+location: "Chengdu, China"
 
-summary: Speaker for the Panel Session on Power Quality data analysis at ICHQP
+summary: "Speaker for the Technical Session on Power Quality at ICHQP"
 
-abstract: Presenting visualization techniques for analyzing correlations and propagation within large-scale Power Quality monitoring campaigns.
+abstract: "Presenting use cases for Power Quality data analysis with an example application for the Estonian transmission system."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-10-17T00:00:00Z'
+date: '2024-10-16T00:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
@@ -22,7 +22,7 @@ publishDate: '2024-10-17T00:00:00Z'
 authors: []
 tags: []
 
-url_slides: 'uploads/ICHQP2024_Panel.pdf'
+url_slides: 'uploads/ICHQP2024_Use-Cases-Elering.pdf'
 
 # Is this a featured talk? (true/false)
 featured: false
