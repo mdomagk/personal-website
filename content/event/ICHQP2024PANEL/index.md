@@ -24,6 +24,10 @@ tags: []
 
 url_slides: 'uploads/ICHQP2024_Panel.pdf'
 
+links:
+- name: Photo
+  url: 'uploads/ICHQP2024_Panel.jpg'
+
 # Is this a featured talk? (true/false)
 featured: false
 
