@@ -6,7 +6,7 @@ event_url: 'https://transcampus.eu/'
 
 location: Dresden, Germany
 
-summary: Speaker for the transCampus project workshop at TUD Dresden University of Technology
+summary: Speaker for the transCampus Project Workshop at TUD Dresden University of Technology
 
 abstract: Presenting an approach for the determination of equivalent circuit models for the aggregated representation of downstream HV networks at a workshop on challenges of harmonic studies in modern transmission systems
 

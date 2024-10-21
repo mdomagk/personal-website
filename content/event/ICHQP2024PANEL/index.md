@@ -6,13 +6,13 @@ event_url: "https://ichqp2024.org/"
 
 location: "Chengdu, China"
 
-summary: "Speaker for the Panel Session on Power Quality data analysis at ICHQP"
+summary: "Speaker for the Panel Session on Power Quality Data Analysis at ICHQP"
 
 abstract: "Presenting visualization techniques for analyzing correlations and propagation within large-scale Power Quality monitoring campaigns."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-10-16T00:00:00Z'
+date: '2024-10-17T10:55:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: true
 

@@ -6,7 +6,7 @@ event_url: 'https://transcampus.eu/'
 
 location: London, United Kingdom
 
-summary: Speaker for the transCampus project workshop at King's College London
+summary: Speaker for the transCampus Project Workshop at King's College London
 
 abstract: Presenting the challenges of measurement-based determination of frequency-dependent impedance characteristics at a workshop on modelling of distribution systems for harmonic studies in transmission systems
 
