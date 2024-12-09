@@ -8,7 +8,7 @@ authors:
   - Rain Maripuu
 
 date: '2024-10-15T01:00:00Z'
-## doi: '10.1049/icp.2023.1082'
+doi: '10.1109/ICHQP61174.2024.10768779'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2000-01-01T00:00:00Z'
@@ -17,7 +17,7 @@ publishDate: '2000-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 publication: 2024 21st International Conference on Harmonics \& Quality of Power (ICHQP)
 
