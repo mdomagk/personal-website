@@ -6,7 +6,7 @@ event_url: 'https://ichqp-workshop.org/'
 
 location: London, United Kingdom
 
-summary: Poster presentation at the 1st ICHQP Workshop 2025 at King's College London
+summary: Poster presentation at the ICHQP Workshop
 
 abstract: Presenting the analysis of long-term voltage harmonic trends in the Estonian transmission system, including compliance with planning limits and identified trend developments.
 
