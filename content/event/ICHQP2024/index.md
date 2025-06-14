@@ -6,7 +6,7 @@ event_url: "https://ichqp2024.org/"
 
 location: "Chengdu, China"
 
-summary: "Speaker for the Technical Session at ICHQP"
+summary: "Speaker at the ICHQP Technical Session"
 
 abstract: "Presenting use cases for Power Quality data analysis with an example application for the Estonian transmission system."
 

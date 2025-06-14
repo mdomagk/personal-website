@@ -6,7 +6,7 @@ event_url: 'https://www.vde-dresden.de/de'
 
 location: Dresden, Germany
 
-summary: Speaker for the VDE Fachtagung Netzrückwirkungen
+summary: Speaker at the VDE Fachtagung Netzrückwirkungen
 
 abstract: Presenting results from recent studies on voltage unbalance, harmonics and emissions from customer installations.
 

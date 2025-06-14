@@ -6,7 +6,7 @@ event_url: https://www.cired2023.org/
 
 location: Rome, Italy
 
-summary: Presentation for the Session on Power Quality at CIRED
+summary: Presentation for the Power Quality Session at CIRED
 
 abstract: Talk given by co-author René Braunstein. Presenting the analysis of the impact of discontinuous measurements on the assessment on long-term trends in time series of continuous Power Quality parameters.
 

@@ -6,7 +6,7 @@ event_url: https://www.vde-dresden.de/de
 
 location: Schmalkalden, Germany
 
-summary: Speaker for the meeting of the AK Netzrückwirkungen
+summary: Speaker at the AK Netzrückwirkungen meeting
 
 abstract: Presenting methods and approaches to forecast long-term measurements of Power Quality parameters.
 

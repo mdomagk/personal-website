@@ -6,7 +6,7 @@ event_url: "https://ichqp2024.org/"
 
 location: "Chengdu, China"
 
-summary: "Speaker for the Panel Session on Power Quality Data Analysis at ICHQP"
+summary: "Panel Speaker on 'Power Quality Data Analysis' at ICHQP"
 
 abstract: "Presenting visualization techniques for analyzing correlations and propagation within large-scale Power Quality monitoring campaigns."
 
