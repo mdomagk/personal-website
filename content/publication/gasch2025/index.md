@@ -2,7 +2,7 @@
 title: 'Determining the Minimum Number of Measurement Sites for Voltage Quality Evaluation in Medium Voltage Networks'
 
 authors:
-  - Etienn Gasch
+  - Etienne Gasch
   - admin
   - Jan Meyer
   - Karl Scheida
