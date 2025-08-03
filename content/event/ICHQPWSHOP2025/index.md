@@ -29,6 +29,8 @@ links:
   url: 'uploads/ICHQPWSHOP2025_Harmonic_Trends.pdf'
 - name: Program
   url: 'uploads/ICHQPWSHOP2025_program.pdf'
+- name: Blog
+  url: https://www.sprintresearch.co.uk/blog-14-23-07-2025
 
 # Is this a featured talk? (true/false)
 featured: false
