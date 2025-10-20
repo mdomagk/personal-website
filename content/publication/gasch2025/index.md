@@ -1,5 +1,5 @@
 ---
-title: 'Determining the Minimum Number of Measurement Sites for Voltage Quality Evaluation in Medium Voltage Networks'
+title: 'Determining the minimum number of measurement sites for voltage quality evaluation in medium voltage networks'
 
 authors:
   - Etienne Gasch
@@ -9,7 +9,7 @@ authors:
   - Rene Braunstein
 
 date: '2025-06-12T00:00:00Z'
-## doi: '10.1049/icp.2023.1082'
+doi: '10.1049/icp.2025.2150'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2000-01-01T00:00:00Z'
@@ -18,7 +18,7 @@ publishDate: '2000-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 publication: 28th International Conference on Electricity Distribution (CIRED 2025)
 
