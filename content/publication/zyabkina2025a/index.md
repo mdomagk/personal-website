@@ -9,7 +9,7 @@ authors:
   - Marco Lindner
 
 date: '2025-09-15T00:00:00Z'
-## doi: ''
+doi: '10.30420/566633030'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2000-01-01T00:00:00Z'
