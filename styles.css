@@ -51,20 +51,32 @@ div.quarto-about-jolla > .about-links {
 }
 /* Bild auf die Hoehe von zweizeiligem Titel + einzeiliger Description
    festlegen (statt an das eigene Seitenverhaeltnis strecken zu lassen --
-   das haette die Zeile sonst hoeher gezogen, als der Text braucht). */
+   das haette die Zeile sonst hoeher gezogen, als der Text braucht).
+   object-fit: contain statt Quartos Default (cover) -- die featured.png
+   sind Konferenz-Logos/Banner mit stark unterschiedlichen Seitenverhaeltnissen
+   (1.3:1 bis 4.2:1), cover haette sie angeschnitten. */
 #listing-presentations .thumbnail img {
   height: 3.9rem;
   margin-top: 0;
+  object-fit: contain;
 }
 
 /* Metadata-Spalte (Location/Datum) etwas schmaler, damit die Titelspalte
    breiter wird. Groesse ist bei Quarto mit 0.8em recht klein geraten, und
    ein margin-top von .2em laesst sie tiefer starten als den Titel -- beides
-   hier korrigiert. */
+   hier korrigiert. Schriftgroesse wie Autoren/Venue bei Publications
+   (0.92rem), damit Titel vs. Nebeninfos in beiden Listings gleich abgestuft
+   sind. */
 #listing-presentations .metadata {
   flex-basis: 20%;
   margin-top: 0;
-  font-size: 0.9rem;
+  font-size: 0.92rem;
+}
+
+/* Description ebenfalls in der Publications-Nebeninfo-Groesse statt in
+   Titelgroesse. */
+#listing-presentations .listing-description {
+  font-size: 0.92rem;
 }
 
 /* In der Metadata-Spalte soll die Location vor dem Datum stehen (Quarto
