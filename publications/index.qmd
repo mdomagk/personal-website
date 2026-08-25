@@ -1,0 +1,16 @@
+---
+title: "Publications"
+listing:
+  id: publications
+  contents: "*.qmd"
+  type: default
+  sort: "date desc"
+  categories: true
+  page-size: 50
+  fields: [date, title, author, description, categories]
+  field-display-names:
+    description: "Published in"
+---
+
+::: {#publications}
+:::

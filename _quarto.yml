@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "research/**/*.qmd"
+    - "publications/*.qmd"
+    - "presentations/*.qmd"
+
+website:
+  title: "Max Domagk"
+  description: "Power Quality, data mining and electrical power systems research at TUD Dresden University of Technology."
+  site-url: https://mdomagk.rbind.io
+  favicon: images/icon.png
+  open-graph: true
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: About
+      - href: research/index.qmd
+        text: Research
+      - href: publications/index.qmd
+        text: Publications
+      - href: presentations/index.qmd
+        text: Presentations
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/mdomagk
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/max-domagk-1b1b11272
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:max.domagk@tu-dresden.de
+        aria-label: E-Mail
+  page-footer:
+    left: "&copy; 2026 Max Domagk"
+    right:
+      - href: impressum.qmd
+        text: Impressum
+      - href: privacy.qmd
+        text: Privacy
+
+format:
+  html:
+    theme:
+      light: [flatly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true

@@ -1,0 +1,15 @@
+---
+title: "Presentations"
+listing:
+  id: presentations
+  contents: "*.qmd"
+  type: grid
+  grid-columns: 2
+  sort: "date desc"
+  categories: true
+  page-size: 30
+  fields: [image, date, title, description]
+---
+
+::: {#presentations}
+:::

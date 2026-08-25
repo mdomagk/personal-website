@@ -1,0 +1,22 @@
+---
+title: "Automatic Identification of Different Types of Consumer Configurations by Using Harmonic Current Measurements"
+author:
+  - Max Domagk
+  - Irene Yu-Hua Gu
+  - Jan Meyer
+  - Peter Schegner
+date: 2021-04-01
+description: "Applied Sciences"
+pubtype: "Journal article"
+doi: "10.3390/app11083598"
+categories:
+  - Power System Harmonics
+  - Harmonic Current Emission
+  - Public Low Voltage Network
+  - Time Series Analysis
+  - Machine Learning
+  - Classification
+  - Support Vector Machines
+---
+
+[DOI](https://doi.org/10.3390/app11083598){.btn .btn-outline-primary .btn-sm}

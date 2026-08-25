@@ -1,0 +1,21 @@
+---
+title: "Ensemble Forecasting of Power Quality Parameters"
+author:
+  - Max Domagk
+  - Peter Feistel
+  - Jan Meyer
+  - Marco Lindner
+  - Jako Kilter
+date: 2026-03-03
+description: "Preprint (arXiv)"
+pubtype: "Preprint"
+arxiv: "2603.02706"
+categories:
+  - Power Quality
+  - Transmission Systems
+  - Time Series Analysis
+  - Long-term Forecasting
+  - Ensemble Forecasting
+---
+
+[arXiv](https://doi.org/10.48550/arXiv.2603.02706){.btn .btn-outline-primary .btn-sm}

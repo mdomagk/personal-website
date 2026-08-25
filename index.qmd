@@ -1,0 +1,48 @@
+---
+title: "Max Domagk"
+subtitle: "Research Associate, TUD Dresden University of Technology"
+image: images/avatar.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: E-Mail
+      href: mailto:max.domagk@tu-dresden.de
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/max-domagk-1b1b11272
+    - icon: github
+      text: GitHub
+      href: https://github.com/mdomagk
+    - text: ORCID
+      href: https://orcid.org/0000-0001-5951-2033
+    - text: Google Scholar
+      href: https://scholar.google.de/citations?user=Xe-wT38AAAAJ
+    - text: ResearchGate
+      href: https://www.researchgate.net/profile/Max-Domagk
+    - text: IEEE Xplore
+      href: https://ieeexplore.ieee.org/author/38108524500
+    - text: CV
+      href: files/CV_Domagk_Max.pdf
+---
+
+I work as a postdoctoral researcher at the
+[Institute of Electrical Power Systems and High Voltage Engineering](https://tu-dresden.de/ing/elektrotechnik/ieeh),
+TUD Dresden University of Technology, in the Power Quality research group of
+[Prof. Jan Meyer](https://tu-dresden.de/ing/elektrotechnik/ieeh/ev/die-professur/mitarbeiter/jan-meyer).
+
+My research interests include Data Mining and Power Quality.
+
+## Interests
+
+- Electrical Power Systems
+- Power Quality
+- Data Science & Data Mining
+- R
+
+## Recent
+
+See my [publications](publications/index.qmd), [presentations](presentations/index.qmd)
+and current [research projects](research/index.qmd).

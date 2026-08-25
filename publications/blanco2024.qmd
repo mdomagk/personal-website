@@ -1,0 +1,21 @@
+---
+title: "Flexible Network Model to Study the Impact of Future Changes in Transmission Systems on Harmonic Levels and Impedance"
+author:
+  - Ana Maria Blanco
+  - Max Domagk
+  - Jan Meyer
+  - Marco Lindner
+date: 2024-08-25
+description: "CIGRE Session 2024"
+pubtype: "Conference paper"
+pdf: "files/blanco2024_preprint.pdf"
+categories:
+  - Modeling
+  - Harmonic Network Impedance
+  - Harmonic Propagation
+  - Transmission System
+  - Inverter-Based Resources
+  - Transmission Line Modeling
+---
+
+[Preprint (PDF)](../files/blanco2024_preprint.pdf){.btn .btn-outline-primary .btn-sm}

@@ -1,0 +1,14 @@
+---
+title: "Identifikation und Quantifizierung korrelativer Zusammenhänge zwischen elektrischer sowie klimatischer Umgebung und Elektroenergiequalität"
+author:
+  - Max Domagk
+date: 2015-10-19
+description: "Dissertation, Technische Universität Dresden"
+pubtype: "Thesis"
+url: "https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-211866"
+categories:
+  - Power Quality
+  - Time Series Analysis
+---
+
+[Full text](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-211866){.btn .btn-outline-primary .btn-sm}

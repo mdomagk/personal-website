@@ -1,0 +1,20 @@
+---
+title: "Identification of Equivalent Impedance Models of Downstream Networks for Harmonic Studies in Extra High Voltage Systems"
+author:
+  - Max Domagk
+  - Ana Maria Blanco
+  - Jan Meyer
+  - Grazia Todeschini
+date: 2024-10-15
+description: "2024 21st International Conference on Harmonics & Quality of Power (ICHQP)"
+pubtype: "Conference paper"
+doi: "10.1109/ICHQP61174.2024.10768797"
+categories:
+  - Equivalent Circuit Model
+  - Harmonics
+  - Modeling
+  - Network Harmonic Impedance
+  - Power Quality
+---
+
+[DOI](https://doi.org/10.1109/ICHQP61174.2024.10768797){.btn .btn-outline-primary .btn-sm}

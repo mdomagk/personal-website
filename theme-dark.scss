@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+
+$font-family-sans-serif: "Source Sans Pro", -apple-system, "Segoe UI", Roboto, sans-serif !default;
+$font-size-root: 17px !default;
+
+$primary:   #5bb8e8 !default;
+$body-color: #dfe3e6 !default;
+$body-bg:    #16191c !default;
+$link-color: $primary !default;
+
+$navbar-bg:  #16191c !default;
+$navbar-fg:  #dfe3e6 !default;
+
+$headings-font-weight: 600 !default;
+
+/*-- scss:rules --*/
+
+.navbar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.10);
+}
+
+.card {
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  background-color: #1d2125;
+  box-shadow: none;
+  transition: box-shadow 0.15s ease-in-out;
+}
+.card:hover {
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.5);
+}
+
+.pub-item {
+  padding: 0.9rem 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.09);
+}
+.pub-authors { font-size: 0.94em; }
+.pub-venue   { font-style: italic; opacity: 0.85; font-size: 0.94em; }
+.pub-links a {
+  display: inline-block;
+  margin-right: 0.4rem;
+  font-size: 0.8em;
+  padding: 0.1rem 0.5rem;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+  text-decoration: none;
+}

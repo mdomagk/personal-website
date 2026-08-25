@@ -1,0 +1,19 @@
+---
+title: "Uncertainty in the Assessment of Harmonic Voltages and Currents in Sequence Domain"
+date: 2025-09-16
+description: "Speaker at the NEIS conference"
+image: ../images/NEIS2025.png
+event: "NEIS 2025 Conference on Sustainable Energy Supply and Energy Storage Systems"
+event-url: "https://neis-conference.com/"
+location: "Hamburg, Germany"
+categories:
+  - Conference talk
+---
+
+**{{< meta event >}}** — {{< meta location >}}
+
+Presenting the analysis of uncertainty propagation for harmonics from phase domain into
+sequence domain.
+
+[Slides](../files/NEIS2025.pdf){.btn .btn-outline-primary .btn-sm}
+[Event](https://neis-conference.com/){.btn .btn-outline-primary .btn-sm}
