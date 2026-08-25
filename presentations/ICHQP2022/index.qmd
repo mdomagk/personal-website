@@ -1,0 +1,20 @@
+---
+title: "Trend Analysis for Power Quality Parameters based on Long-term Measurement Campaigns"
+date: 2022-05-01
+description: "Speaker at the Session on Analytics for Power Quality Problems at ICHQP"
+image: featured.png
+event: "20th International Conference on Harmonics and Quality of Power (ICHQP)"
+event-url: "https://ichqp2022.org/"
+location: "Naples, Italy"
+categories:
+  - Conference talk
+---
+
+**{{< meta event >}}** — {{< meta location >}}
+
+Presenting a method to identify long-term trends in time series of continuous Power
+Quality parameters, which can support network operators with the early detection of
+fundamental changes in Power Quality levels.
+
+[Slides](ICHQP2022_Domagk_Trends.pdf){.btn .btn-outline-primary .btn-sm}
+[Event](https://ichqp2022.org/){.btn .btn-outline-primary .btn-sm}

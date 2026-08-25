@@ -1,0 +1,16 @@
+---
+title: "Analyse großer Datenmengen der Elektroenergiequalität - Praxisbeispiele aus dem Übertragungsnetz"
+date: 2025-10-16
+description: "Speaker at the OMICRON Fachtagung Diagnostik"
+image: featured.png
+event: "OMICRON Fachtagung Diagnostik"
+location: "Lindau, Germany"
+categories:
+  - Conference talk
+---
+
+**{{< meta event >}}** — {{< meta location >}}
+
+Presenting the analysis of large-scale Power Quality measurement data.
+
+[Slides](OMICRON2025.pdf){.btn .btn-outline-primary .btn-sm}

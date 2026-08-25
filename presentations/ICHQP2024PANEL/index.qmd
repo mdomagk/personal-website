@@ -1,0 +1,20 @@
+---
+title: "Analysis and Visualization of Large-Scale Power Quality Monitoring Campaigns"
+date: 2024-10-17
+description: "Panel Speaker on 'Power Quality Data Analysis' at ICHQP"
+image: featured.png
+event: "21st International Conference on Harmonics and Quality of Power (ICHQP)"
+event-url: "https://ichqp2024.org/"
+location: "Chengdu, China"
+categories:
+  - Conference talk
+---
+
+**{{< meta event >}}** — {{< meta location >}}
+
+Presenting visualization techniques for analyzing correlations and propagation
+within large-scale Power Quality monitoring campaigns.
+
+[Slides](ICHQP2024_Panel.pdf){.btn .btn-outline-primary .btn-sm}
+[Event](https://ichqp2024.org/){.btn .btn-outline-primary .btn-sm}
+[Photo](ICHQP2024_Panel.jpg){.btn .btn-outline-primary .btn-sm}

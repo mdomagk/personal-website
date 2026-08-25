@@ -1,0 +1,20 @@
+---
+title: "Impact of discontinuous measurements on the trend analysis of Power Quality parameters"
+date: 2023-06-14
+description: "Presentation for the Power Quality Session at CIRED"
+image: featured.png
+event: "2023 27th International Conference and Exhibition on Electricity Distribution (CIRED)"
+event-url: "https://www.cired2023.org/"
+location: "Rome, Italy"
+categories:
+  - Conference talk
+---
+
+**{{< meta event >}}** — {{< meta location >}}
+
+Talk given by co-author René Braunstein. Presenting the analysis of the impact of
+discontinuous measurements on the assessment of long-term trends in time series of
+continuous Power Quality parameters.
+
+[Slides](CIRED2023_Discont_Meas_Trend.pdf){.btn .btn-outline-primary .btn-sm}
+[Event](https://www.cired2023.org/){.btn .btn-outline-primary .btn-sm}

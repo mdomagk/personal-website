@@ -1,0 +1,22 @@
+---
+title: "Analysis of Voltage Harmonic Trends in the Estonian Transmission System"
+date: 2025-06-11
+description: "Poster presentation at the ICHQP Workshop"
+image: featured.png
+event: "1st ICHQP Workshop 2025 at King's College London"
+event-url: "https://ichqp-workshop.org/"
+location: "London, United Kingdom"
+categories:
+  - Conference talk
+---
+
+**{{< meta event >}}** — {{< meta location >}}
+
+Presenting the analysis of long-term voltage harmonic trends in the Estonian
+transmission system, including compliance with planning limits and identified trend
+developments.
+
+[Poster](ICHQPWSHOP2025_Harmonic_Trends.pdf){.btn .btn-outline-primary .btn-sm}
+[Event](https://ichqp-workshop.org/){.btn .btn-outline-primary .btn-sm}
+[Program](ICHQPWSHOP2025_program.pdf){.btn .btn-outline-primary .btn-sm}
+[Blog](https://www.sprintresearch.co.uk/blog-14-23-07-2025){.btn .btn-outline-primary .btn-sm}

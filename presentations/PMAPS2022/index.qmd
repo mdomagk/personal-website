@@ -1,0 +1,19 @@
+---
+title: "Probabilistic Study of Propagation and Summation of Harmonics in Transmission Systems"
+date: 2022-06-01
+description: "Invited Speaker at PMAPS Special Session on Power Quality"
+image: featured.png
+event: "17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)"
+event-url: "https://www.pmaps2022.org/"
+location: "Manchester, United Kingdom (online)"
+categories:
+  - Conference talk
+---
+
+**{{< meta event >}}** — {{< meta location >}}
+
+Presenting a simulation framework and analysis results for the propagation of
+harmonics within transmissions systems of (extra) high voltage levels.
+
+[Slides](PMAPS2022_Domagk_ProbabilisticStudy.pdf){.btn .btn-outline-primary .btn-sm}
+[Event](https://www.pmaps2022.org/){.btn .btn-outline-primary .btn-sm}

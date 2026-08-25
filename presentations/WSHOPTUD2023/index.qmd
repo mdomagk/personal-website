@@ -1,0 +1,22 @@
+---
+title: "Determination of equivalent circuit models for the aggregated representation of downstream HV networks"
+date: 2023-11-08
+description: "Speaker at the transCampus Project Workshop"
+image: featured.png
+event: "transCampus project workshop at TUD Dresden University of Technology"
+event-url: "https://transcampus.eu/"
+location: "Dresden, Germany"
+categories:
+  - Conference talk
+---
+
+**{{< meta event >}}** — {{< meta location >}}
+
+Presenting an approach for the determination of equivalent circuit models for the
+aggregated representation of downstream HV networks at a workshop on challenges of
+harmonic studies in modern transmission systems.
+
+[Slides](WSHOPTUD2023_Equivalent_Circuits.pdf){.btn .btn-outline-primary .btn-sm}
+[Event](https://transcampus.eu/){.btn .btn-outline-primary .btn-sm}
+[Flyer](WSHOPTUD2023_Flyer.pdf){.btn .btn-outline-primary .btn-sm}
+[Blog](https://www.sprintresearch.co.uk/blog-6-27-11-2023){.btn .btn-outline-primary .btn-sm}

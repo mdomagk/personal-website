@@ -1,0 +1,19 @@
+---
+title: "Prognose von Langzeitmessungen der Elektroenergiequalität"
+date: 2023-03-25
+description: "Speaker at the AK Netzrückwirkungen meeting"
+image: featured.png
+event: "63. Sitzung AK Netzrückwirkungen"
+event-url: "https://www.vde-dresden.de/de"
+location: "Schmalkalden, Germany"
+categories:
+  - Conference talk
+---
+
+**{{< meta event >}}** — {{< meta location >}}
+
+Presenting methods and approaches to forecast long-term measurements of Power
+Quality parameters.
+
+[Slides](AKNRW2023_Domagk_Prognose.pdf){.btn .btn-outline-primary .btn-sm}
+[Event](https://www.vde-dresden.de/de){.btn .btn-outline-primary .btn-sm}

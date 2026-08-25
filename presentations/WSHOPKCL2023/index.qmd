@@ -1,0 +1,21 @@
+---
+title: "Challenges of measurement-based determination of frequency-dependent impedance characteristics"
+date: 2023-05-31
+description: "Speaker at the transCampus Project Workshop"
+image: featured.png
+event: "transCampus project workshop at King's College London"
+event-url: "https://transcampus.eu/"
+location: "London, United Kingdom"
+categories:
+  - Conference talk
+---
+
+**{{< meta event >}}** — {{< meta location >}}
+
+Presenting the challenges of measurement-based determination of frequency-dependent
+impedance characteristics at a workshop on modelling of distribution systems for
+harmonic studies in transmission systems.
+
+[Slides](WSHOPKCL2023_meas-based_determination.pdf){.btn .btn-outline-primary .btn-sm}
+[Event](https://transcampus.eu/){.btn .btn-outline-primary .btn-sm}
+[Blog](https://www.sprintresearch.co.uk/blog-3-08-06-2023){.btn .btn-outline-primary .btn-sm}

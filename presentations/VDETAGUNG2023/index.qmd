@@ -1,0 +1,20 @@
+---
+title: "Ergebnisse aus aktuellen Studien - Unsymmetrie, Harmonische, Emissionen von Kundenanlagen"
+date: 2023-09-21
+description: "Speaker at the VDE Fachtagung Netzrückwirkungen"
+image: featured.png
+event: "VDE Fachtagung Netzrückwirkungen"
+event-url: "https://www.vde-dresden.de/de"
+location: "Dresden, Germany"
+categories:
+  - Conference talk
+---
+
+**{{< meta event >}}** — {{< meta location >}}
+
+Presenting results from recent studies on voltage unbalance, harmonics and emissions
+from customer installations.
+
+[Slides](VDETAGUNG2023.pdf){.btn .btn-outline-primary .btn-sm}
+[Event](https://www.vde-dresden.de/de){.btn .btn-outline-primary .btn-sm}
+[Flyer](VDETAGUNG2023_Flyer.pdf){.btn .btn-outline-primary .btn-sm}
