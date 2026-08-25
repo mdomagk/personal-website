@@ -1,6 +1,6 @@
 ---
 title: "Multivariate Methods"
-description: "New methods for multivariate analysis of Power Quality measurements"
+description: "Project on new methods for multivariate analysis of Power Quality measurements"
 date: 2024-01-01
 image: featured.jpg
 categories:
@@ -10,8 +10,5 @@ categories:
   - Power Quality
   - Measurement
 ---
-
-DFG-funded project on new methods for the multivariate analysis of Power Quality
-measurements.
 
 [Project details (GEPRIS)](https://gepris.dfg.de/gepris/projekt/521923789?language=en){.btn .btn-outline-primary .btn-sm}

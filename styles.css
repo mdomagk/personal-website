@@ -34,3 +34,11 @@ div.quarto-about-jolla > .about-links {
   justify-content: center;
   row-gap: 0.4rem;
 }
+
+/* Research-Listing: Quartos default-Listing setzt die Bildspalte auf nur
+   30% der Zeilenbreite -- fuer ein einzelnes, praesent gezeigtes Projekt
+   zu klein. Nur fuer das #projects-Listing (Research-Seite) vergroessern,
+   Publications hat ohnehin keine Bilder. */
+#projects .thumbnail {
+  flex-basis: 45%;
+}

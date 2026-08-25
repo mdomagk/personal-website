@@ -3,11 +3,10 @@ title: "Research"
 listing:
   id: projects
   contents: "*/index.qmd"
-  type: grid
-  grid-columns: 2
+  type: default
   sort: "date desc"
   categories: true
-  fields: [image, title, description, categories]
+  fields: [image, title, description]
 ---
 
 My research is broadly focused on Electrical Power Systems, with a specific emphasis on
