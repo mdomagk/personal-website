@@ -4,8 +4,10 @@ project:
   render:
     - "*.qmd"
     - "research/**/*.qmd"
-    - "publications/*.qmd"
-    - "presentations/*.qmd"
+    - "publications/**/*.qmd"
+    - "presentations/**/*.qmd"
+  resources:
+    - "files/"
 
 website:
   title: "Max Domagk"

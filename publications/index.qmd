@@ -1,8 +1,9 @@
 ---
 title: "Publications"
+citation: false
 listing:
   id: publications
-  contents: "*.qmd"
+  contents: "*/index.qmd"
   type: default
   sort: "date desc"
   categories: true

@@ -2,7 +2,7 @@
 title: "Presentations"
 listing:
   id: presentations
-  contents: "*.qmd"
+  contents: "*/index.qmd"
   type: grid
   grid-columns: 2
   sort: "date desc"

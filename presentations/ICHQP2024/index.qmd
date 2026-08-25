@@ -2,7 +2,7 @@
 title: "Use Cases for Power Quality Data Analysis: Case Study for the Estonian Transmission System"
 date: 2024-10-17
 description: "Speaker at the ICHQP Technical Session"
-image: ../images/ICHQP2024.png
+image: featured.png
 event: "21st International Conference on Harmonics and Quality of Power (ICHQP)"
 event-url: "https://ichqp2024.org/"
 location: "Chengdu, China"
@@ -15,5 +15,5 @@ categories:
 Presenting use cases for Power Quality data analysis with an example application for the
 Estonian transmission system.
 
-[Slides](../files/ICHQP2024_Use-Cases-Elering.pdf){.btn .btn-outline-primary .btn-sm}
+[Slides](ICHQP2024_Use-Cases-Elering.pdf){.btn .btn-outline-primary .btn-sm}
 [Event](https://ichqp2024.org/){.btn .btn-outline-primary .btn-sm}
