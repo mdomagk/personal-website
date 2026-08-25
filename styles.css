@@ -43,6 +43,53 @@ div.quarto-about-jolla > .about-links {
   flex-basis: 45%;
 }
 
+/* Presentations-Listing: Quartos default-Listing setzt die Bildspalte auf
+   30% der Zeilenbreite -- fuer die kleinen Vortrags-Vorschaubilder noch zu
+   gross, daher weiter verkleinert. */
+#listing-presentations .thumbnail {
+  flex-basis: 18%;
+}
+/* Bild auf die Hoehe von zweizeiligem Titel + einzeiliger Description
+   festlegen (statt an das eigene Seitenverhaeltnis strecken zu lassen --
+   das haette die Zeile sonst hoeher gezogen, als der Text braucht). */
+#listing-presentations .thumbnail img {
+  height: 3.9rem;
+  margin-top: 0;
+}
+
+/* Metadata-Spalte (Location/Datum) etwas schmaler, damit die Titelspalte
+   breiter wird. Groesse ist bei Quarto mit 0.8em recht klein geraten, und
+   ein margin-top von .2em laesst sie tiefer starten als den Titel -- beides
+   hier korrigiert. */
+#listing-presentations .metadata {
+  flex-basis: 20%;
+  margin-top: 0;
+  font-size: 0.9rem;
+}
+
+/* In der Metadata-Spalte soll die Location vor dem Datum stehen (Quarto
+   rendert von sich aus immer erst das Datum). */
+#listing-presentations .listing-location {
+  order: 1;
+}
+#listing-presentations .listing-date {
+  order: 2;
+}
+
+/* Titel wie bei Publications als Link in der Akzentfarbe, in Textgroesse
+   statt h3 -- Quartos Default-Listing faerbt saemtliche Links (auch Titel)
+   in der Fliesstextfarbe ein und rendert den Titel als grosse Ueberschrift. */
+#listing-presentations .listing-title a {
+  color: var(--bs-link-color);
+  text-decoration: none;
+}
+#listing-presentations .listing-title a:hover {
+  text-decoration: underline;
+}
+#listing-presentations .listing-title {
+  font-size: 1rem;
+}
+
 /* Publications: IEEE-artige Zitationsliste (eigenes ejs-Template
    pub-list.ejs.md statt Quartos Standard-Listing). Nummerierung zaehlt
    absteigend von der Gesamtzahl (counter-reset: pubnum <N> inline im
