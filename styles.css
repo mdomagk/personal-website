@@ -1,20 +1,16 @@
-/* Inter + Space Grotesk selbst gehostet statt von fonts.googleapis.com
-   geladen (kein Drittanbieter-Request beim Seitenaufruf, kein DSGVO-Thema).
-   Beides Variable Fonts -- eine Datei deckt alle benoetigten Schnitte ab,
-   nur der Latin-Subset (deckt auch deutsche Umlaute/scharfes S ab). */
+/* Inter selbst gehostet statt von fonts.googleapis.com geladen (kein
+   Drittanbieter-Request beim Seitenaufruf, kein DSGVO-Thema). Variable
+   Font -- eine Datei deckt alle benoetigten Schnitte ab, nur der
+   Latin-Subset (deckt auch deutsche Umlaute/scharfes S ab). Ueberschriften
+   liefen zwischenzeitlich in Space Grotesk, das fiel im direkten Vergleich
+   mit Navbar/Fliesstext (beide Inter) als Bruch auf -- jetzt einheitlich
+   Inter ueberall, Abstufung nur noch ueber $headings-font-weight. */
 @font-face {
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400 700;
   font-display: swap;
   src: url('fonts/inter-latin.woff2') format('woff2');
-}
-@font-face {
-  font-family: 'Space Grotesk';
-  font-style: normal;
-  font-weight: 500 700;
-  font-display: swap;
-  src: url('fonts/space-grotesk-latin.woff2') format('woff2');
 }
 
 /* jolla-Vorlage: Icon-Reihe und Fliesstext (.content) sind von Quarto
