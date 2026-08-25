@@ -47,6 +47,11 @@ div.quarto-about-jolla > .about-links {
    pub-list.ejs.md statt Quartos Standard-Listing). Nummerierung zaehlt
    absteigend von der Gesamtzahl (counter-reset: pubnum <N> inline im
    Template) -- man sieht die Gesamtzahl der Publikationen sofort. */
+.pub-search-input {
+  max-width: 22rem;
+  margin-bottom: 1rem;
+}
+
 .pub-list {
   list-style: none;
   padding-left: 0;

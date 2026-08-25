@@ -1,4 +1,5 @@
 ```{=html}
+<input type="search" id="pub-search" class="form-control pub-search-input" placeholder="Filter by author, title, venue…" autocomplete="off">
 <ol class="pub-list list" style="counter-reset: pubnum <%= items.length + 1 %>;">
 <% for (const item of items) { %>
 <% const authors = Array.isArray(item.author) ? item.author : [item.author]; %>
@@ -10,13 +11,13 @@
   <span class="pub-num"></span>
   <span class="pub-text">
     <div class="pub-title-line">
-      <a href="<%- href %>" class="pub-title-link"><%= item.title %></a>
+      <a href="<%- href %>" class="pub-title-link listing-title"><%= item.title %></a>
     </div>
-    <div class="pub-authors">
+    <div class="pub-authors listing-author">
       <%= authors.join(', ') %> (<%= item.date %>).
     </div>
     <div class="pub-venue-line">
-      <%= item.description %>.
+      <span class="listing-description"><%= item.description %></span>.
       <span class="pub-links">
       <% if (item.doi) { %><a href="https://doi.org/<%= item.doi %>" target="_blank" rel="noopener">DOI</a><% } %>
       <% if (item.pdf) { %><a href="<%- folder %><%= item.pdf %>">PDF</a><% } %>
@@ -29,14 +30,23 @@
 <% } %>
 </ol>
 <script>
-(function () {
+document.addEventListener('DOMContentLoaded', function () {
   var ol = document.querySelector('.pub-list');
   if (!ol) return;
+
   function updateCount() {
     var n = ol.children.length;
     ol.style.setProperty('counter-reset', 'pubnum ' + (n + 1));
   }
   new MutationObserver(updateCount).observe(ol, { childList: true });
-})();
+
+  var input = document.getElementById('pub-search');
+  var listing = window['quarto-listings'] && window['quarto-listings']['listing-publications'];
+  if (input && listing) {
+    input.addEventListener('input', function () {
+      listing.search(input.value);
+    });
+  }
+});
 </script>
 ```
