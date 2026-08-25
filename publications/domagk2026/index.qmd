@@ -4,11 +4,11 @@ author:
 - Max Domagk
 - Jan Meyer
 - Marco Lindner
-date: '2026-03-13'
-description: Preprint
+date: 2026-03-13
+description: "Preprint (arXiv)"
+arxiv: "2603.12948"
 categories:
 - Preprint
-url: https://doi.org/10.48550/arXiv.2603.12948
 tags:
 - Power Quality
 - Correlation Analysis
@@ -18,4 +18,4 @@ tags:
 - Multidimensional Scaling
 ---
 
-[Link](https://doi.org/10.48550/arXiv.2603.12948){.btn .btn-outline-primary .btn-sm}
+[arXiv](https://doi.org/10.48550/arXiv.2603.12948){.btn .btn-outline-primary .btn-sm}
