@@ -28,16 +28,7 @@ website:
         text: Presentations
       - href: contact.qmd
         text: Contact
-    right:
-      - icon: github
-        href: https://github.com/mdomagk
-        aria-label: GitHub
-      - icon: linkedin
-        href: https://www.linkedin.com/in/max-domagk-1b1b11272
-        aria-label: LinkedIn
-      - icon: envelope
-        href: mailto:max.domagk@tu-dresden.de
-        aria-label: E-Mail
+  search: false
   page-footer:
     left: "&copy; 2026 Max Domagk"
     right:
