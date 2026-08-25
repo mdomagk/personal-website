@@ -42,3 +42,80 @@ div.quarto-about-jolla > .about-links {
 #projects .thumbnail {
   flex-basis: 45%;
 }
+
+/* Publications: IEEE-artige Zitationsliste (eigenes ejs-Template
+   pub-list.ejs.md statt Quartos Standard-Listing). Nummerierung zaehlt
+   absteigend von der Gesamtzahl (counter-reset: pubnum <N> inline im
+   Template) -- man sieht die Gesamtzahl der Publikationen sofort. */
+.pub-list {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: pubnum 0;
+}
+.pub-entry {
+  counter-increment: pubnum -1;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  padding: 0.7rem 0;
+  line-height: 1.5;
+}
+/* Nummer in eigener, fest breiter Spalte statt text-indent-Trick --
+   dadurch sitzen umgebrochene Zeilen exakt unter der ersten,
+   unabhaengig davon wie breit "5." oder "12." tatsaechlich sind. */
+.pub-num {
+  flex: 0 0 1.8rem;
+  text-align: right;
+}
+.pub-num::before {
+  content: counter(pubnum) ".";
+  font-variant-numeric: tabular-nums;
+  color: rgb(80, 91, 102);
+}
+body.quarto-dark .pub-num::before { color: rgb(173, 181, 189); }
+.pub-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+/* Drei Zeilen pro Eintrag: Titel, Autoren+Jahr, Venue+Buttons -- Titel
+   zuerst fuer Scanbarkeit. Titel dauerhaft in der Link-Akzentfarbe (wie
+   auf der About-Seite), Zeile 2+3 normale Textfarbe. */
+.pub-authors,
+.pub-venue-line {
+  font-size: 0.92rem;
+}
+
+.pub-title-line { margin: 0 0 0.1rem 0; }
+.pub-title-link {
+  text-decoration: none;
+}
+.pub-title-link:hover {
+  text-decoration: underline;
+}
+
+/* Buttons im selben Stil wie die Icon-Links auf der About-Seite (Quartos
+   eigenes .about-link): schmaler Rahmen, gedaempftes Grau, Hover-Blau --
+   statt Bootstraps blauem .btn-outline-primary. */
+.pub-links {
+  display: inline-block;
+  margin-left: 0.3rem;
+}
+.pub-links a {
+  display: inline-block;
+  margin-left: 0.3rem;
+  padding: 0.05rem 0.5rem;
+  font-size: 0.78rem;
+  border: 1px solid rgb(80, 91, 102);
+  border-radius: 3px;
+  color: rgb(80, 91, 102);
+  text-decoration: none;
+}
+.pub-links a:hover {
+  color: rgb(11, 93, 138);
+  border-color: rgb(11, 93, 138);
+}
+body.quarto-dark .pub-links a {
+  color: rgb(173, 181, 189);
+  border-color: rgb(173, 181, 189);
+}

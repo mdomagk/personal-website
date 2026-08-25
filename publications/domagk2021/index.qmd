@@ -10,6 +10,8 @@ description: "Applied Sciences"
 pubtype: "Journal article"
 doi: "10.3390/app11083598"
 categories:
+  - Journal article
+tags:
   - Power System Harmonics
   - Harmonic Current Emission
   - Public Low Voltage Network

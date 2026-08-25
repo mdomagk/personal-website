@@ -4,13 +4,11 @@ citation: false
 listing:
   id: publications
   contents: "*/index.qmd"
-  type: default
+  template: pub-list.ejs.md
   sort: "date desc"
+  date-format: "YYYY"
   categories: true
-  page-size: 50
-  fields: [date, title, author, description, categories]
-  field-display-names:
-    description: "Published in"
+  page-size: 100
 ---
 
 ::: {#publications}

@@ -7,9 +7,12 @@ author:
   - Grazia Todeschini
 date: 2024-10-15
 description: "2024 21st International Conference on Harmonics & Quality of Power (ICHQP)"
+location: "Chengdu, China"
 pubtype: "Conference paper"
 doi: "10.1109/ICHQP61174.2024.10768797"
 categories:
+  - Conference paper
+tags:
   - Equivalent Circuit Model
   - Harmonics
   - Modeling

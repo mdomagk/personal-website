@@ -10,6 +10,8 @@ description: "CIGRE Session 2024"
 pubtype: "Conference paper"
 pdf: "blanco2024_preprint.pdf"
 categories:
+  - Conference paper
+tags:
   - Modeling
   - Harmonic Network Impedance
   - Harmonic Propagation

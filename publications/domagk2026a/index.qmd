@@ -11,6 +11,8 @@ description: "Preprint (arXiv)"
 pubtype: "Preprint"
 arxiv: "2603.02706"
 categories:
+  - Preprint
+tags:
   - Power Quality
   - Transmission Systems
   - Time Series Analysis

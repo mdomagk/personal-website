@@ -7,6 +7,8 @@ description: "Dissertation, Technische Universität Dresden"
 pubtype: "Thesis"
 url: "https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-211866"
 categories:
+  - Thesis
+tags:
   - Power Quality
   - Time Series Analysis
 ---
