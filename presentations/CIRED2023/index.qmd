@@ -1,7 +1,7 @@
 ---
 title: "Impact of discontinuous measurements on the trend analysis of Power Quality parameters"
 date: 2023-06-14
-description: "Speaker at CIRED conference"
+description: "Co-author at CIRED conference"
 image: featured.png
 event: "2023 27th International Conference and Exhibition on Electricity Distribution (CIRED)"
 event-url: "https://www.cired2023.org/"
