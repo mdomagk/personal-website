@@ -6,8 +6,6 @@ image: featured.png
 event: "transCampus project workshop at TUD Dresden University of Technology"
 event-url: "https://transcampus.eu/"
 location: "Dresden, Germany"
-categories:
-  - Conference talk
 ---
 
 Location
@@ -19,4 +17,4 @@ Abstract
   harmonic studies in modern transmission systems.
 
 Materials
-: [[Slides](WSHOPTUD2023_Equivalent_Circuits.pdf) [Event](https://transcampus.eu/) [Flyer](WSHOPTUD2023_Flyer.pdf) [Blog](https://www.sprintresearch.co.uk/blog-6-27-11-2023)]{.pub-links}
+: [[Slides](wshoptud2023_equivalent_circuits.pdf) [Event](https://transcampus.eu/) [Flyer](wshoptud2023_flyer.pdf) [Blog](https://www.sprintresearch.co.uk/blog-6-27-11-2023)]{.pub-links}

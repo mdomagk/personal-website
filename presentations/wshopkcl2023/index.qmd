@@ -6,8 +6,6 @@ image: featured.png
 event: "transCampus project workshop at King's College London"
 event-url: "https://transcampus.eu/"
 location: "London, United Kingdom"
-categories:
-  - Conference talk
 ---
 
 Location
@@ -19,4 +17,4 @@ Abstract
   harmonic studies in transmission systems.
 
 Materials
-: [[Slides](WSHOPKCL2023_meas-based_determination.pdf) [Event](https://transcampus.eu/) [Blog](https://www.sprintresearch.co.uk/blog-3-08-06-2023)]{.pub-links}
+: [[Slides](wshopkcl2023_meas-based_determination.pdf) [Event](https://transcampus.eu/) [Blog](https://www.sprintresearch.co.uk/blog-3-08-06-2023)]{.pub-links}

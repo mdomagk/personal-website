@@ -5,8 +5,6 @@ description: "Speaker at ETFS gogreen Seminar"
 image: featured.png
 event: "ETFS gogreen Seminar"
 location: "Straubing, Germany"
-categories:
-  - Conference talk
 ---
 
 Location
@@ -16,4 +14,4 @@ Abstract
 : Presenting methods for Power Quality Data Analytics.
 
 Materials
-: [[Flyer](ETFS2026_Flyer.pdf)]{.pub-links}
+: [[Flyer](etfs2026_flyer.pdf)]{.pub-links}

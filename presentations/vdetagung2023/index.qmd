@@ -6,8 +6,6 @@ image: featured.png
 event: "VDE Fachtagung Netzrückwirkungen"
 event-url: "https://www.vde-dresden.de/de"
 location: "Dresden, Germany"
-categories:
-  - Conference talk
 ---
 
 Location
@@ -18,4 +16,4 @@ Abstract
   from customer installations.
 
 Materials
-: [[Slides](VDETAGUNG2023.pdf) [Event](https://www.vde-dresden.de/de) [Flyer](VDETAGUNG2023_Flyer.pdf)]{.pub-links}
+: [[Slides](vdetagung2023.pdf) [Event](https://www.vde-dresden.de/de) [Flyer](vdetagung2023_flyer.pdf)]{.pub-links}

@@ -6,8 +6,6 @@ image: featured.png
 event: "20th International Conference on Harmonics and Quality of Power (ICHQP)"
 event-url: "https://ichqp2022.org/"
 location: "Naples, Italy"
-categories:
-  - Conference talk
 ---
 
 Location
@@ -19,4 +17,4 @@ Abstract
   fundamental changes in Power Quality levels.
 
 Materials
-: [[Slides](ICHQP2022_Domagk_Trends.pdf) [Event](https://ichqp2022.org/)]{.pub-links}
+: [[Slides](ichqp2022_domagk_trends.pdf) [Event](https://ichqp2022.org/)]{.pub-links}

@@ -6,8 +6,6 @@ image: featured.png
 event: "NEIS 2025 Conference on Sustainable Energy Supply and Energy Storage Systems"
 event-url: "https://neis-conference.com/"
 location: "Hamburg, Germany"
-categories:
-  - Conference talk
 ---
 
 Location
@@ -18,4 +16,4 @@ Abstract
   sequence domain.
 
 Materials
-: [[Slides](NEIS2025.pdf) [Event](https://neis-conference.com/)]{.pub-links}
+: [[Slides](neis2025.pdf) [Event](https://neis-conference.com/)]{.pub-links}

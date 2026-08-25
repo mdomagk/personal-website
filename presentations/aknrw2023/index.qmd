@@ -6,8 +6,6 @@ image: featured.png
 event: "63. Sitzung AK Netzrückwirkungen"
 event-url: "https://www.vde-dresden.de/de"
 location: "Schmalkalden, Germany"
-categories:
-  - Conference talk
 ---
 
 Location
@@ -18,4 +16,4 @@ Abstract
   Quality parameters.
 
 Materials
-: [[Slides](AKNRW2023_Domagk_Prognose.pdf) [Event](https://www.vde-dresden.de/de)]{.pub-links}
+: [[Slides](aknrw2023_domagk_prognose.pdf) [Event](https://www.vde-dresden.de/de)]{.pub-links}

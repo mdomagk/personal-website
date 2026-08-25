@@ -5,8 +5,6 @@ description: "Speaker at OMICRON Fachtagung Diagnostik"
 image: featured.png
 event: "OMICRON Fachtagung Diagnostik"
 location: "Lindau, Germany"
-categories:
-  - Conference talk
 ---
 
 Location
@@ -16,4 +14,4 @@ Abstract
 : Presenting the analysis of large-scale Power Quality measurement data.
 
 Materials
-: [[Slides](OMICRON2025.pdf)]{.pub-links}
+: [[Slides](omicron2025.pdf)]{.pub-links}

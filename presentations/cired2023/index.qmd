@@ -6,8 +6,6 @@ image: featured.png
 event: "2023 27th International Conference and Exhibition on Electricity Distribution (CIRED)"
 event-url: "https://www.cired2023.org/"
 location: "Rome, Italy"
-categories:
-  - Conference talk
 ---
 
 Location
@@ -19,4 +17,4 @@ Abstract
   continuous Power Quality parameters.
 
 Materials
-: [[Slides](CIRED2023_Discont_Meas_Trend.pdf) [Event](https://www.cired2023.org/)]{.pub-links}
+: [[Slides](cired2023_discont_meas_trend.pdf) [Event](https://www.cired2023.org/)]{.pub-links}

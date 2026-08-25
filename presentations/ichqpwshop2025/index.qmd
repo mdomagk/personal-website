@@ -6,8 +6,6 @@ image: featured.png
 event: "1st ICHQP Workshop 2025 at King's College London"
 event-url: "https://ichqp-workshop.org/"
 location: "London, United Kingdom"
-categories:
-  - Conference talk
 ---
 
 Location
@@ -19,4 +17,4 @@ Abstract
   developments.
 
 Materials
-: [[Poster](ICHQPWSHOP2025_Harmonic_Trends.pdf) [Event](https://ichqp-workshop.org/) [Program](ICHQPWSHOP2025_program.pdf) [Blog](https://www.sprintresearch.co.uk/blog-14-23-07-2025)]{.pub-links}
+: [[Poster](ichqpwshop2025_harmonic_trends.pdf) [Event](https://ichqp-workshop.org/) [Program](ichqpwshop2025_program.pdf) [Blog](https://www.sprintresearch.co.uk/blog-14-23-07-2025)]{.pub-links}
