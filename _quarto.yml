@@ -27,8 +27,6 @@ website:
         text: Publications
       - href: presentations/index.qmd
         text: Presentations
-      - href: contact.qmd
-        text: Contact
   search: false
   page-footer:
     left: "&copy; 2026 Max Domagk"
