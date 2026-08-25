@@ -8,6 +8,7 @@ project:
     - "presentations/**/*.qmd"
   resources:
     - "files/"
+    - "fonts/"
 
 website:
   title: "Max Domagk"
