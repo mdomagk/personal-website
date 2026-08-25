@@ -63,6 +63,21 @@ div.quarto-about-jolla > .about-links {
   row-gap: 0.4rem;
 }
 
+/* Social-Icons der About-Seite kommen aus Quartos eigenem .about-link
+   (Bootstrap-Bundle) grau mit Blau-Hover -- dieselbe Inkonsistenz wie bei
+   .pub-links, hier direkt gegen Bootstraps Regel ueberschrieben. Rahmen
+   braucht keine eigene Farbe: "border: solid 1px" ohne border-color folgt
+   automatisch der Textfarbe (currentColor). */
+div.quarto-about-jolla .about-link {
+  color: var(--bs-link-color);
+  background-color: transparent;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+div.quarto-about-jolla .about-link:hover {
+  background-color: var(--bs-link-color);
+  color: var(--bs-body-bg);
+}
+
 /* Research-Listing: Quartos default-Listing setzt die Bildspalte auf nur
    30% der Zeilenbreite -- fuer ein einzelnes, praesent gezeigtes Projekt
    zu klein. Nur fuer das #projects-Listing (Research-Seite) vergroessern,
@@ -207,8 +222,11 @@ body.quarto-dark .pub-num::before { color: rgb(173, 181, 189); }
 }
 
 /* Buttons im selben Stil wie die Icon-Links auf der About-Seite (Quartos
-   eigenes .about-link): schmaler Rahmen, gedaempftes Grau, Hover-Blau --
-   statt Bootstraps blauem .btn-outline-primary. */
+   eigenes .about-link): schmaler Rahmen in der Akzentfarbe statt separatem
+   Grau -- Grau wirkte wie eine zweite, unkoordinierte Linkfarbe neben dem
+   blauen Fliesstext-Link. Hover fuellt den Chip statt nur die Farbe zu
+   wechseln. var(--bs-link-color)/var(--bs-body-bg) kommen aus Bootstrap
+   und wechseln automatisch mit Light/Dark-Theme. */
 .pub-links {
   display: inline-block;
   margin-left: 0.3rem;
@@ -218,16 +236,14 @@ body.quarto-dark .pub-num::before { color: rgb(173, 181, 189); }
   margin-left: 0.3rem;
   padding: 0.05rem 0.5rem;
   font-size: 0.78rem;
-  border: 1px solid rgb(80, 91, 102);
+  border: 1px solid var(--bs-link-color);
   border-radius: 3px;
-  color: rgb(80, 91, 102);
+  color: var(--bs-link-color);
+  background-color: transparent;
   text-decoration: none;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
 }
 .pub-links a:hover {
-  color: rgb(11, 93, 138);
-  border-color: rgb(11, 93, 138);
-}
-body.quarto-dark .pub-links a {
-  color: rgb(173, 181, 189);
-  border-color: rgb(173, 181, 189);
+  background-color: var(--bs-link-color);
+  color: var(--bs-body-bg);
 }
