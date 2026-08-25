@@ -1,0 +1,21 @@
+---
+title: Automatic Identification of Correlations in Large Amounts of Power Quality Data from Long-Term Measurement Campaigns
+author:
+- Max Domagk
+- Jan Meyer
+- Tongxun Wang
+- Dandan Feng
+- Wei Huang
+date: '2021-11-01'
+description: CIRED 2021 - The 26th International Conference and Exhibition on Electricity Distribution
+categories:
+- Conference paper
+doi: 10.1049/icp.2021.1489
+tags:
+- Power Quality
+- Time Series Analysis
+- Data Mining
+- Correlation Analysis
+---
+
+[DOI](https://doi.org/10.1049/icp.2021.1489){.btn .btn-outline-primary .btn-sm}

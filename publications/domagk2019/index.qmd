@@ -1,0 +1,26 @@
+---
+title: 'Impact of Renewable Generation on the Harmonic Distortion in Distribution Networks: Key Findings of the Research Project Netzharmonie'
+author:
+- Max Domagk
+- Jan Meyer
+- Marko Muehlberg
+- Florian Ackermann
+- Stefan Reichert
+- Marc Florian Meyer
+- Gesa Kaatz
+- Brjoern Fricke
+- Farhad Safargholi
+- Hendrik Vennegerts
+- Max Hoven
+- Fritz Santjer
+- Kaveh Malekian
+date: '2019-06-01'
+description: 25th International Conference on Electricity Distribution (CIRED)
+categories:
+- Conference paper
+doi: 10.34890/814
+url: https://www.cired-repository.org/handle/20.500.12455/587
+---
+
+[DOI](https://doi.org/10.34890/814){.btn .btn-outline-primary .btn-sm}
+[Link](https://www.cired-repository.org/handle/20.500.12455/587){.btn .btn-outline-primary .btn-sm}

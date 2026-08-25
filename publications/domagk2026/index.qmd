@@ -1,0 +1,21 @@
+---
+title: Identification and Visualization of Correlation Structures in Large-Scale Power Quality Data
+author:
+- Max Domagk
+- Jan Meyer
+- Marco Lindner
+date: '2026-03-13'
+description: Preprint
+categories:
+- Preprint
+url: https://doi.org/10.48550/arXiv.2603.12948
+tags:
+- Power Quality
+- Correlation Analysis
+- Harmonics
+- Data Visualization
+- Clustering
+- Multidimensional Scaling
+---
+
+[Link](https://doi.org/10.48550/arXiv.2603.12948){.btn .btn-outline-primary .btn-sm}

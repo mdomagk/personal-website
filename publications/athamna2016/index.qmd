@@ -1,0 +1,28 @@
+---
+title: New Evaluation Methods for Harmonic Emission of Renewable Generation
+author:
+- Issam Athamna
+- Marko Muehlberg
+- Fritz Santjer
+- Kaveh Malekian
+- Marc Florian Meyer
+- Hendrik Vennegerts
+- Jan Meyer
+- Max Domagk
+- Florian Ackermann
+- Rainer Klosse
+- Karsten Kuech
+date: '2016-11-15'
+description: 15th Wind Integration Workshop
+categories:
+- Conference paper
+url: https://windintegrationworkshop.org/proceedings/
+tags:
+- Harmonics
+- Modeling
+- Measurement
+- Evaluation
+- Active Harmonic Compensation
+---
+
+[Link](https://windintegrationworkshop.org/proceedings/){.btn .btn-outline-primary .btn-sm}

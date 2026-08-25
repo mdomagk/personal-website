@@ -1,0 +1,11 @@
+---
+title: Untersuchungen zur Resynchronisierung von Stördatenaufzeichnungen und zur Identifikation von Parametern unsymmetrischer Freileitungen am dynamischen Netzmodell
+author:
+- Max Domagk
+date: '2009-12-01'
+description: Diplomarbeit, Technische Universität Dresden
+categories:
+- Thesis
+---
+
+

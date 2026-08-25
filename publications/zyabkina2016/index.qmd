@@ -1,0 +1,20 @@
+---
+title: Classification and Identification of Anomalies in Time Series of Power Quality Measurements
+author:
+- Olga Zyabkina
+- Max Domagk
+- Jan Meyer
+- Peter Schegner
+date: '2016-10-01'
+description: 2016 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe)
+categories:
+- Conference paper
+doi: 10.1109/ISGTEurope.2016.7856290
+tags:
+- Time Series Analysis
+- Power Quality
+- Data Mining
+- Anomaly Detection
+---
+
+[DOI](https://doi.org/10.1109/ISGTEurope.2016.7856290){.btn .btn-outline-primary .btn-sm}

@@ -1,0 +1,21 @@
+---
+title: Determining the minimum number of measurement sites for voltage quality evaluation in medium voltage networks
+author:
+- Etienne Gasch
+- Max Domagk
+- Jan Meyer
+- Karl Scheida
+- Rene Braunstein
+date: '2025-06-12'
+description: 28th International Conference on Electricity Distribution (CIRED 2025)
+categories:
+- Journal article
+doi: 10.1049/icp.2025.2150
+tags:
+- Power Quality
+- Voltage Quality
+- Monitoring Campaign
+- Probabilistic Assessment
+---
+
+[DOI](https://doi.org/10.1049/icp.2025.2150){.btn .btn-outline-primary .btn-sm}

@@ -1,0 +1,22 @@
+---
+title: Integration of Clustering Techniques in Probabilistic Current and Voltage Harmonic Forecasting
+author:
+- Antonio Bracale
+- Pierluigi Caramia
+- Pasquale De Falco
+- Max Domagk
+- Jan Meyer
+date: '2025-09-26'
+description: IEEE Transactions on Power Delivery
+categories:
+- Journal article
+doi: 10.1109/TPWRD.2025.3614751
+tags:
+- Power Quality
+- Harmonic Distortion
+- Time Series Analysis
+- Probabilistic Forecasting
+- Clustering
+---
+
+[DOI](https://doi.org/10.1109/TPWRD.2025.3614751){.btn .btn-outline-primary .btn-sm}

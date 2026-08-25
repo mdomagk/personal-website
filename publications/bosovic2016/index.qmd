@@ -1,0 +1,23 @@
+---
+title: Validation of Aggregated Harmonic Current Source Models Based on Different Customer Type Configurations
+author:
+- Adnan Bosovic
+- Herwig Renner
+- Andreas Abart
+- Ewald Traxler
+- Jan Meyer
+- Max Domagk
+- Mustafa Music
+date: '2016-08-01'
+description: 2016 Electric Power Quality and Supply Reliability (PQ)
+categories:
+- Conference paper
+doi: 10.1109/PQ.2016.7724093
+tags:
+- Harmonics
+- Power Quality
+- Measurement
+- Modeling
+---
+
+[DOI](https://doi.org/10.1109/PQ.2016.7724093){.btn .btn-outline-primary .btn-sm}

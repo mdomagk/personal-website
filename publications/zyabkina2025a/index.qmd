@@ -1,0 +1,21 @@
+---
+title: Survey of Harmonic Voltage and Current Unbalance in the German Transmission System based on Field Measurements considering Measurement Uncertainty
+author:
+- Olga Zyabkina
+- Max Domagk
+- Ana Maria Blanco
+- Jan Meyer
+- Marco Lindner
+date: '2025-09-15'
+description: NEIS 2025; Conference on Sustainable Energy Supply and Energy Storage Systems
+categories:
+- Conference paper
+doi: 10.30420/566633030
+tags:
+- Measurements
+- Unbalance
+- Harmonics
+- Power Quality
+---
+
+[DOI](https://doi.org/10.30420/566633030){.btn .btn-outline-primary .btn-sm}

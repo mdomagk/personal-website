@@ -1,0 +1,21 @@
+---
+title: Measurement Based Identification of Equivalent Circuit Models for Aggregated Harmonic Impedances of Public Low Voltage Grids
+author:
+- Max Domagk
+- Robert Stiegler
+- Jan Meyer
+date: '2019-06-01'
+description: 2019 IEEE Milan PowerTech
+categories:
+- Conference paper
+doi: 10.1109/PTC.2019.8810496
+tags:
+- Harmonics
+- Network Harmonic Impedance
+- Norton Model
+- Equivalent Circuit Model
+- Low Voltage Grid
+- Modeling
+---
+
+[DOI](https://doi.org/10.1109/PTC.2019.8810496){.btn .btn-outline-primary .btn-sm}

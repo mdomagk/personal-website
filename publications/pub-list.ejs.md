@@ -17,7 +17,7 @@
       <%= authors.join(', ') %> (<%= item.date %>).
     </div>
     <div class="pub-venue-line">
-      <span class="listing-description"><%= item.description %></span>.
+      <% if (item.description) { %><span class="listing-description"><%= item.description %></span>.<% } %>
       <span class="pub-links">
       <% if (item.doi) { %><a href="https://doi.org/<%= item.doi %>" target="_blank" rel="noopener">DOI</a><% } %>
       <% if (item.pdf) { %><a href="<%- folder %><%= item.pdf %>">PDF</a><% } %>

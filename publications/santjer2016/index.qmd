@@ -1,0 +1,31 @@
+---
+title: Characterization of Harmonic Emission of Individual Wind Turbines and PV Inverters Based on Measurements - Part 2 - Wind Turbines
+author:
+- Fritz Santjer
+- Klaus Nolopp
+- Stephan Adloff
+- Issam Athamna
+- Marko Muehlberg
+- Marc Florian Meyer
+- Michael Jordan
+- Rainer Klosse
+- Karsten Kuech
+- Florian Ackermann
+- Jan Meyer
+- Max Domagk
+- Morteza Pourarab
+date: '2016-11-01'
+description: 15th Wind Integration Workshop
+categories:
+- Conference paper
+url: https://windintegrationworkshop.org/proceedings/
+tags:
+- Harmonics
+- Modeling
+- Measurement
+- Evaluation Method
+- Network Harmonic Impedance
+- Phase Angle
+---
+
+[Link](https://windintegrationworkshop.org/proceedings/){.btn .btn-outline-primary .btn-sm}

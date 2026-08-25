@@ -1,0 +1,16 @@
+---
+title: NEQUAL - Web-based Voltage Quality Monitoring in Switzerland
+author:
+- Jan Meyer
+- Etienne Gasch
+- Max Domagk
+- Hansjoerg Holenstein
+- Stefan Egger
+date: '2015-06-01'
+description: 23rd International Conference on Electricity Distribution
+categories:
+- Conference paper
+url: http://cired.net/publications/cired2015/papers/CIRED2015_1407_final.pdf
+---
+
+[Link](http://cired.net/publications/cired2015/papers/CIRED2015_1407_final.pdf){.btn .btn-outline-primary .btn-sm}

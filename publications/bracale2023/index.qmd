@@ -1,0 +1,21 @@
+---
+title: Probabilistic Forecasting of Current Harmonic Distortions in Distribution Systems
+author:
+- Antonio Bracale
+- Pierluigi Caramia
+- Pasquale De Falco
+- Max Domagk
+- Jan Meyer
+date: '2023-10-23'
+description: 2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe)
+categories:
+- Conference paper
+doi: 10.1109/ISGTEUROPE56780.2023.10407588
+tags:
+- Power Quality
+- Current Distortion
+- Time Series Analysis
+- Probabilistic Forecasting
+---
+
+[DOI](https://doi.org/10.1109/ISGTEUROPE56780.2023.10407588){.btn .btn-outline-primary .btn-sm}

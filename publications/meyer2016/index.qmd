@@ -1,0 +1,29 @@
+---
+title: Survey on International Practice of Calculating Harmonic Current Emission Limits
+author:
+- Jan Meyer
+- Max Domagk
+- Luzie Kirchner
+- Kaveh Malekian
+- Farhad Safargholi
+- Max Hoven
+- Issam Athamna
+- Marko Muehlberg
+- Fynn Scheben
+- Florian Ackermann
+- Rainer Klosse
+- Karsten Kuech
+date: '2016-10-01'
+description: 2016 17th International Conference on Harmonics and Quality of Power (ICHQP)
+categories:
+- Conference paper
+doi: 10.1109/ICHQP.2016.7783384
+tags:
+- Harmonics
+- Harmonic Emission Limits
+- Network Harmonic Impedance
+- Standards
+- Survey
+---
+
+[DOI](https://doi.org/10.1109/ICHQP.2016.7783384){.btn .btn-outline-primary .btn-sm}

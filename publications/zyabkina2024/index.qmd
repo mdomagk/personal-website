@@ -1,0 +1,22 @@
+---
+title: Automatic Identification of Harmonic Emission Patterns in Electricity Networks based on Clustering and Principal Component Analysis
+author:
+- Olga Zyabkina
+- Max Domagk
+- Jan Meyer
+- Tongxun Wang
+- Dandan Feng
+- Alex Huang
+date: '2024-10-15'
+description: 2024 21st International Conference on Harmonics & Quality of Power (ICHQP)
+categories:
+- Conference paper
+doi: 10.1109/ICHQP61174.2024.10768808
+tags:
+- Data Mining
+- Machine Learning
+- Power Quality
+- Time Series Analysis
+---
+
+[DOI](https://doi.org/10.1109/ICHQP61174.2024.10768808){.btn .btn-outline-primary .btn-sm}

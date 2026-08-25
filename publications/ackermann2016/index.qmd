@@ -1,0 +1,25 @@
+---
+title: Characterization of Harmonic Emission of Individual Wind Turbines and PV Inverters Based on Measurements - Part 1 - Photovoltaic Inverters
+author:
+- Florian Ackermann
+- Hasanali Moghadam
+- Jan Meyer
+- Sascha Mueller
+- Max Domagk
+- Fritz Santjer
+- Issam Athamna
+- Rainer Klosse
+date: '2016-11-01'
+description: 6th Solar Integration Workshop
+categories:
+- Conference paper
+url: https://windintegrationworkshop.org/proceedings/
+tags:
+- Harmonics
+- Modeling
+- Background Distortion
+- Network Harmonic Impedance
+- Inverter
+---
+
+[Link](https://windintegrationworkshop.org/proceedings/){.btn .btn-outline-primary .btn-sm}

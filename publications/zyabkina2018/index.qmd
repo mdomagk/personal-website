@@ -1,0 +1,21 @@
+---
+title: A Feature-Based Method for Automatic Anomaly Identification in Power Quality Measurements
+author:
+- Olga Zyabkina
+- Max Domagk
+- Jan Meyer
+- Peter Schegner
+date: '2018-06-01'
+description: 2018 IEEE International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)
+categories:
+- Conference paper
+doi: 10.1109/PMAPS.2018.8440460
+tags:
+- Power Quality
+- Time Series Analysis
+- Data Mining
+- Anomaly Detection
+- Classification
+---
+
+[DOI](https://doi.org/10.1109/PMAPS.2018.8440460){.btn .btn-outline-primary .btn-sm}

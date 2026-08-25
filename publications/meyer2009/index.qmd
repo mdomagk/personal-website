@@ -1,0 +1,16 @@
+---
+title: Automated Test System for Accuracy Verification of Power Quality Measurement Instruments
+author:
+- Jan Meyer
+- Peter Schegner
+- Max Domagk
+- Reinhard Kuntner
+- Franz Hillenbrand
+date: '2009-06-01'
+description: 20th International Conference and Exhibition on Electricity Distribution (CIRED 2009)
+categories:
+- Conference paper
+doi: 10.1049/cp.2009.0913
+---
+
+[DOI](https://doi.org/10.1049/cp.2009.0913){.btn .btn-outline-primary .btn-sm}

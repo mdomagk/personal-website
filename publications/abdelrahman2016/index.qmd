@@ -1,0 +1,21 @@
+---
+title: Assessment of Power Quality Performance in Distribution Networks Part II - Performance Indices and Ranking of Network Buses
+author:
+- Sami Abdelrahman
+- Huilian Liao
+- Jovica V. Milanovic
+- Etienne Gasch
+- Max Domagk
+- Jan Meyer
+date: '2016-10-01'
+description: 2016 17th International Conference on Harmonics and Quality of Power (ICHQP)
+categories:
+- Conference paper
+doi: 10.1109/ICHQP.2016.7783326
+tags:
+- Power Quality
+- Indices
+- Measurement Campaign
+---
+
+[DOI](https://doi.org/10.1109/ICHQP.2016.7783326){.btn .btn-outline-primary .btn-sm}

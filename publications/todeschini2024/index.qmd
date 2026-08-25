@@ -1,0 +1,22 @@
+---
+title: Sensitivity Analysis of Distribution System Harmonic Impedance and Impact on Transmission System
+author:
+- Grazia Todeschini
+- Omowumi Grace Olasunkanmi
+- Stephan Scholtz
+- Max Domagk
+- Ana Maria Blanco
+- Jan Meyer
+date: '2024-10-15'
+description: 2024 21st International Conference on Harmonics & Quality of Power (ICHQP)
+categories:
+- Conference paper
+doi: 10.1109/ICHQP61174.2024.10768833
+tags:
+- Power Quality
+- Network Harmonic Impedance
+- Sensitivity Analysis
+- Modeling
+---
+
+[DOI](https://doi.org/10.1109/ICHQP61174.2024.10768833){.btn .btn-outline-primary .btn-sm}

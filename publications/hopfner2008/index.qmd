@@ -1,0 +1,12 @@
+---
+title: Methodical Simulation of Single-Phase-To-Ground Arc Faults in Resonant Earthed Networks under Consideration of Harmonics
+author:
+- Sven Hoepfner
+- Max Domagk
+date: '2008-09-01'
+description: EEUG 2008 European EMTP-ATP Conference
+categories:
+- Conference paper
+---
+
+

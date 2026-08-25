@@ -1,0 +1,22 @@
+---
+title: Preprocessing Techniques Considering Trends and Seasonality to Improve Probabilistic Short-Term Harmonic Forecasting
+author:
+- Antonio Bracale
+- Pierluigi Caramia
+- Pasquale De Falco
+- Max Domagk
+- Jan Meyer
+date: '2026-03-13'
+description: Preprint
+categories:
+- Preprint
+tags:
+- Power Quality
+- Harmonic Distortion
+- Time Series Decomposition
+- Detrending Techniques
+- Probabilistic Forecasting
+- Clustering
+---
+
+

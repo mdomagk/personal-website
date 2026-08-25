@@ -7,7 +7,6 @@ author:
   - Peter Schegner
 date: 2021-04-01
 description: "Applied Sciences"
-pubtype: "Journal article"
 doi: "10.3390/app11083598"
 categories:
   - Journal article

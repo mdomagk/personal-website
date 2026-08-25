@@ -1,0 +1,22 @@
+---
+title: Impact of Discontinuous Measurements on the Trend Analysis of Power Quality Parameters
+author:
+- Max Domagk
+- Jan Meyer
+- Karl Scheida
+- Rene Braunstein
+- Ewald Traxler
+- Roland Zoll
+date: '2023-06-12'
+description: 27th International Conference on Electricity Distribution (CIRED 2023)
+categories:
+- Conference paper
+doi: 10.1049/icp.2023.1082
+tags:
+- Power Quality
+- Time Series Analysis
+- Trend Identification
+- Limit Utilization
+---
+
+[DOI](https://doi.org/10.1049/icp.2023.1082){.btn .btn-outline-primary .btn-sm}

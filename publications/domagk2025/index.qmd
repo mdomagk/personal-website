@@ -1,0 +1,20 @@
+---
+title: Uncertainty in the Assessment of Harmonic Voltages and Currents in Sequence Domain
+author:
+- Max Domagk
+- Olga Zyabkina
+- Jan Meyer
+- Marco Lindner
+date: '2025-09-15'
+description: NEIS 2025; Conference on Sustainable Energy Supply and Energy Storage Systems
+categories:
+- Conference paper
+doi: 10.30420/566633014
+tags:
+- Measurements
+- Measurement Uncertainty
+- Harmonics
+- Power Quality
+---
+
+[DOI](https://doi.org/10.30420/566633014){.btn .btn-outline-primary .btn-sm}

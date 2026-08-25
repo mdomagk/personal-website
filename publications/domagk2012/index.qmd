@@ -1,0 +1,13 @@
+---
+title: Characterization of Public Low Voltage Grids by Clustering Time Series of Power Quality Parameters
+author:
+- Max Domagk
+- Jan Meyer
+- Peter Schegner
+date: '2012-06-01'
+description: 2012 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)
+categories:
+- Conference paper
+---
+
+

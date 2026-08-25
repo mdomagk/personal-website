@@ -1,0 +1,23 @@
+---
+title: Improved Procedures for Determining Harmonics - Findings of the German Research Project NetzHarmonie
+author:
+- Larissa Ziemann
+- Omid Edalati
+- Jens Rauch
+- Marko Muehlberg
+- Rainer Klosse
+- Farhad Safargholi
+- Max Hoven
+- Hendrik Vennegerts
+- Jan Meyer
+- Max Domagk
+- Kaveh Malekian
+- Fritz Santjer
+date: '2019-10-01'
+description: 18th Wind Integration Workshop
+categories:
+- Conference paper
+url: https://windintegrationworkshop.org/proceedings/
+---
+
+[Link](https://windintegrationworkshop.org/proceedings/){.btn .btn-outline-primary .btn-sm}

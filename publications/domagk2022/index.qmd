@@ -1,0 +1,25 @@
+---
+title: Trend Analysis for Power Quality Parameters Based on Long-Term Measurement Campaigns
+author:
+- Max Domagk
+- Jan Meyer
+- Tongxun Wang
+- Dandan Feng
+- Wei Huang
+- Heiko Mayer
+- Simon Wenig
+- Marco Lindner
+- Jan-Hendrik Amrhein
+date: '2022-05-01'
+description: 2022 20th International Conference on Harmonics & Quality of Power (ICHQP)
+categories:
+- Conference paper
+doi: 10.1109/ICHQP53011.2022.9808645
+tags:
+- Data Mining
+- Power Quality
+- Time Series Analysis
+- Trend Identification
+---
+
+[DOI](https://doi.org/10.1109/ICHQP53011.2022.9808645){.btn .btn-outline-primary .btn-sm}

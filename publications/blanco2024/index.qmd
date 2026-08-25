@@ -7,7 +7,6 @@ author:
   - Marco Lindner
 date: 2024-08-25
 description: "CIGRE Session 2024"
-pubtype: "Conference paper"
 pdf: "blanco2024_preprint.pdf"
 categories:
   - Conference paper

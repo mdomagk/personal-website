@@ -1,0 +1,23 @@
+---
+title: Probabilistic Comparison of Methods for Calculating Harmonic Current Emission Limits
+author:
+- Max Domagk
+- Jan Meyer
+- Max Hoven
+- Kaveh Malekian
+- Farhad Safargholi
+- Karsten Kuech
+date: '2017-06-01'
+description: 2017 IEEE Manchester PowerTech
+categories:
+- Conference paper
+doi: 10.1109/PTC.2017.7981206
+tags:
+- Harmonics
+- Harmonic Emission Limits
+- Network Harmonic Impedance
+- Standards
+- Survey
+---
+
+[DOI](https://doi.org/10.1109/PTC.2017.7981206){.btn .btn-outline-primary .btn-sm}

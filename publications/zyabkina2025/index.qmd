@@ -1,0 +1,26 @@
+---
+title: Detection and Characterisation of Atypical Harmonic Patterns in Big Power Quality Data
+author:
+- Olga Zyabkina
+- Max Domagk
+- Jan Meyer
+- Peter Schegner
+- Marco Lindner
+- Heiko Mayer
+- Christoph Butterer
+date: '2025-04-17'
+description: IET Generation, Transmission & Distribution (Open Access)
+categories:
+- Journal article
+doi: 10.1049/gtd2.70062
+tags:
+- Big Data
+- Data Mining
+- Feature Extraction
+- Pattern Recognition
+- Time Series Analysis
+- Power Quality
+- Harmonics
+---
+
+[DOI](https://doi.org/10.1049/gtd2.70062){.btn .btn-outline-primary .btn-sm}

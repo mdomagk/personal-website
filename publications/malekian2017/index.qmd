@@ -1,0 +1,17 @@
+---
+title: Characteristic Parameters and Reference Networks of German Distribution Grid (LV, MV, and HV) for Power System Studies
+author:
+- Kaveh Malekian
+- Farhad Safargholi
+- Karsten Kuech
+- Max Domagk
+- Jan Meyer
+- Max Hoven
+date: '2017-11-01'
+description: International ETG Congress 2017
+categories:
+- Conference paper
+url: https://ieeexplore.ieee.org/document/8278748
+---
+
+[Link](https://ieeexplore.ieee.org/document/8278748){.btn .btn-outline-primary .btn-sm}

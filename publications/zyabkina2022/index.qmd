@@ -1,0 +1,23 @@
+---
+title: Identification of Disturbance Patterns in Long-term Measurements of Power Quality Characteristics in Chinese Large Cities
+author:
+- Olga Zyabkina
+- Max Domagk
+- Elias Strunz
+- Jan Meyer
+- Tongxun Wang
+- Dandan Feng
+- Wei Huang
+date: '2022-08-01'
+description: CIRED 2022 Shanghai Workshop
+categories:
+- Conference paper
+doi: 10.1049/icp.2022.2152
+tags:
+- Data Mining
+- Power Quality
+- Time Series Analysis
+- Pattern Recognition
+---
+
+[DOI](https://doi.org/10.1049/icp.2022.2152){.btn .btn-outline-primary .btn-sm}

@@ -1,0 +1,20 @@
+---
+title: Assessment of Prevailing Harmonic Current Emission in Public Low-Voltage Networks
+author:
+- Jan Meyer
+- Ana-Maria Blanco
+- Max Domagk
+- Peter Schegner
+date: '2017-04-01'
+description: IEEE Transactions on Power Delivery
+categories:
+- Journal article
+doi: 10.1109/TPWRD.2016.2558187
+tags:
+- Power System Harmonics
+- Harmonic Phase Angle
+- Prevailing Harmonic Phasor
+- Public Low Voltage Network
+---
+
+[DOI](https://doi.org/10.1109/TPWRD.2016.2558187){.btn .btn-outline-primary .btn-sm}

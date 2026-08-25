@@ -1,0 +1,19 @@
+---
+title: Identification of Consumer Topologies in Low Voltage Grids by Time Series Analysis of Harmonic Currents
+author:
+- Max Domagk
+- Jan Meyer
+- Peter Schegner
+date: '2011-11-01'
+description: 11th International Conference on Electrical Power Quality and Utilisation
+categories:
+- Conference paper
+doi: 10.1109/EPQU.2011.6128844
+tags:
+- Power Quality
+- Harmonics
+- Time Series Analysis
+- Correlation
+---
+
+[DOI](https://doi.org/10.1109/EPQU.2011.6128844){.btn .btn-outline-primary .btn-sm}

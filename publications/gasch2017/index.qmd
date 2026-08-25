@@ -1,0 +1,21 @@
+---
+title: Uncertainty Evaluation for the Impact of Measurement Accuracy on Power Quality Parameters
+author:
+- Etienne Gasch
+- Max Domagk
+- Robert Stiegler
+- Jan Meyer
+date: '2017-09-01'
+description: 2017 IEEE International Workshop on Applied Measurements for Power Systems (AMPS)
+categories:
+- Conference paper
+doi: 10.1109/AMPS.2017.8078344
+tags:
+- Harmonics
+- Unbalance
+- Measurement accuracy
+- Uncertainty Propagation
+- Monte Carlo Simulation
+---
+
+[DOI](https://doi.org/10.1109/AMPS.2017.8078344){.btn .btn-outline-primary .btn-sm}

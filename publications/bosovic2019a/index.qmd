@@ -1,0 +1,18 @@
+---
+title: Deterministic Aggregated Harmonic Source Models for Harmonic Analysis of Large Medium Voltage Distribution Networks
+author:
+- Adnan Bosovic
+- Herwig Renner
+- Andreas Abart
+- Ewald Traxler
+- Jan Meyer
+- Max Domagk
+- Mustafa Music
+date: '2019-08-01'
+description: IET Generation, Transmission & Distribution
+categories:
+- Journal article
+doi: 10.1049/iet-gtd.2018.7120
+---
+
+[DOI](https://doi.org/10.1049/iet-gtd.2018.7120){.btn .btn-outline-primary .btn-sm}
