@@ -1,7 +1,7 @@
 ---
 title: "Analysis and Visualization of Large-Scale Power Quality Monitoring Campaigns"
 date: 2024-10-17
-description: "Panel Speaker on 'Power Quality Data Analysis' at ICHQP"
+description: "Panel speaker at ICHQP conference"
 image: featured.png
 event: "21st International Conference on Harmonics and Quality of Power (ICHQP)"
 event-url: "https://ichqp2024.org/"

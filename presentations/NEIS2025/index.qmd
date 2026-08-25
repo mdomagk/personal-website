@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty in the Assessment of Harmonic Voltages and Currents in Sequence Domain"
 date: 2025-09-16
-description: "Speaker at the NEIS conference"
+description: "Speaker at NEIS conference"
 image: featured.png
 event: "NEIS 2025 Conference on Sustainable Energy Supply and Energy Storage Systems"
 event-url: "https://neis-conference.com/"

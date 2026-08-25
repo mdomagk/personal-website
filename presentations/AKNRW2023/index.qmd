@@ -1,7 +1,7 @@
 ---
 title: "Prognose von Langzeitmessungen der Elektroenergiequalität"
 date: 2023-03-25
-description: "Speaker at the AK Netzrückwirkungen meeting"
+description: "Speaker at AK Netzrückwirkungen"
 image: featured.png
 event: "63. Sitzung AK Netzrückwirkungen"
 event-url: "https://www.vde-dresden.de/de"

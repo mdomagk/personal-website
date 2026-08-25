@@ -1,7 +1,7 @@
 ---
 title: "Trend Analysis for Power Quality Parameters based on Long-term Measurement Campaigns"
 date: 2022-05-01
-description: "Speaker at the Session on Analytics for Power Quality Problems at ICHQP"
+description: "Speaker at ICHQP conference"
 image: featured.png
 event: "20th International Conference on Harmonics and Quality of Power (ICHQP)"
 event-url: "https://ichqp2022.org/"

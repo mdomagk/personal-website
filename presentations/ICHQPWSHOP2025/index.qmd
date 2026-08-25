@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Voltage Harmonic Trends in the Estonian Transmission System"
 date: 2025-06-11
-description: "Poster presentation at the ICHQP Workshop"
+description: "Poster at ICHQP workshop"
 image: featured.png
 event: "1st ICHQP Workshop 2025 at King's College London"
 event-url: "https://ichqp-workshop.org/"

@@ -1,7 +1,7 @@
 ---
 title: "Determination of equivalent circuit models for the aggregated representation of downstream HV networks"
 date: 2023-11-08
-description: "Speaker at the transCampus Project Workshop"
+description: "Speaker at transCampus workshop, TU Dresden"
 image: featured.png
 event: "transCampus project workshop at TUD Dresden University of Technology"
 event-url: "https://transcampus.eu/"
