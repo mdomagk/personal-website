@@ -26,6 +26,15 @@ body.quarto-dark .quarto-about-jolla > .content strong {
   text-align: center;
 }
 
+/* Fliesstext-Links (Bootstrap-Default: text-decoration: underline) nur bei
+   Hover unterstreichen, wie die Icon-Links darunter. */
+.quarto-about-jolla > .content a {
+  text-decoration: none;
+}
+.quarto-about-jolla > .content a:hover {
+  text-decoration: underline;
+}
+
 div.quarto-about-jolla > .about-links {
   max-width: 34em;
   margin-left: auto;

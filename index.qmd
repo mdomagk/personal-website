@@ -40,4 +40,4 @@ I'm a [postdoctoral researcher](https://tu-dresden.de/ing/elektrotechnik/ieeh/ev
 at the Institute of Electrical Power Systems and High Voltage Engineering,
 TUD Dresden University of Technology, in the research group of
 [Prof. Jan Meyer](https://tu-dresden.de/ing/elektrotechnik/ieeh/ev/die-professur/mitarbeiter/jan-meyer).
-My research interests are **electrical power systems**, **power quality** and **data science**.
+My research interests are electrical power systems, power quality and data science.
