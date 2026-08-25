@@ -1,11 +1,14 @@
 ---
 title: "Max Domagk"
-subtitle: "Research Associate, TUD Dresden University of Technology"
+subtitle: |
+  Research Associate
+
+  TUD Dresden University of Technology
 image: images/avatar.jpg
 about:
-  template: trestles
+  template: jolla
   image-shape: round
-  image-width: 14em
+  image-width: 11em
   links:
     - icon: envelope
       text: E-Mail
@@ -16,33 +19,25 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/mdomagk
-    - text: ORCID
+    - icon: person-badge
+      text: ORCID
       href: https://orcid.org/0000-0001-5951-2033
-    - text: Google Scholar
+    - icon: mortarboard-fill
+      text: Google Scholar
       href: https://scholar.google.de/citations?user=Xe-wT38AAAAJ
-    - text: ResearchGate
+    - icon: diagram-3-fill
+      text: ResearchGate
       href: https://www.researchgate.net/profile/Max-Domagk
-    - text: IEEE Xplore
+    - icon: lightning-fill
+      text: IEEE Xplore
       href: https://ieeexplore.ieee.org/author/38108524500
-    - text: CV
+    - icon: file-earmark-person-fill
+      text: CV
       href: files/CV_Domagk_Max.pdf
 ---
 
-I work as a postdoctoral researcher at the
-[Institute of Electrical Power Systems and High Voltage Engineering](https://tu-dresden.de/ing/elektrotechnik/ieeh),
-TUD Dresden University of Technology, in the Power Quality research group of
+I'm a [postdoctoral researcher](https://tu-dresden.de/ing/elektrotechnik/ieeh/ev/die-professur/mitarbeiter/max-domagk)
+at the Institute of Electrical Power Systems and High Voltage Engineering,
+TUD Dresden University of Technology, in the research group of
 [Prof. Jan Meyer](https://tu-dresden.de/ing/elektrotechnik/ieeh/ev/die-professur/mitarbeiter/jan-meyer).
-
-My research interests include Data Mining and Power Quality.
-
-## Interests
-
-- Electrical Power Systems
-- Power Quality
-- Data Science & Data Mining
-- R
-
-## Recent
-
-See my [publications](publications/index.qmd), [presentations](presentations/index.qmd)
-and current [research projects](research/index.qmd).
+My research interests are **electrical power systems**, **power quality** and **data science**.

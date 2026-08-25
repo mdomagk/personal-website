@@ -1,0 +1,36 @@
+/* jolla-Vorlage: Icon-Reihe und Fliesstext (.content) sind von Quarto
+   ungebremst auf die volle Spaltenbreite gesetzt -- auf Lesebreite
+   begrenzen und mittig ausrichten. */
+.quarto-about-jolla > .content {
+  max-width: 34em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+/* Fett im Fliesstext gedaempft statt schwarz -- dieselbe graue Tonlage,
+   die Quarto schon fuer die about-Links verwendet, damit es nicht lauter
+   wirkt als die Links selbst. Im Dark Mode ergibt dasselbe Grau nur
+   ~2.65:1 Kontrast gegen den dunklen Hintergrund (WCAG-Minimum: 4.5:1) --
+   dort ein helleres Grau, das denselben Kontrast wie im Light Mode gibt. */
+.quarto-about-jolla > .content strong {
+  color: rgb(80, 91, 102);
+}
+body.quarto-dark .quarto-about-jolla > .content strong {
+  color: rgb(173, 181, 189);
+}
+
+/* Quartos eigene Zentrierung greift nur bei .description, unser
+   subtitle: liefert aber .subtitle -- dieselbe Regel hier nachziehen. */
+.quarto-about-jolla .quarto-title .subtitle {
+  text-align: center;
+}
+
+div.quarto-about-jolla > .about-links {
+  max-width: 34em;
+  margin-left: auto;
+  margin-right: auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 0.4rem;
+}

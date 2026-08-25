@@ -51,6 +51,7 @@ format:
     theme:
       light: [flatly, theme-light.scss]
       dark: [darkly, theme-dark.scss]
+    css: styles.css
     toc: false
     anchor-sections: false
     link-external-newwindow: true
