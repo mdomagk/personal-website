@@ -3,11 +3,10 @@ title: "Presentations"
 listing:
   id: presentations
   contents: "*/index.qmd"
-  type: default
-  image-align: left
+  template: pres-list.ejs.md
   sort: "date desc"
-  page-size: 30
-  fields: [image, title, description, location, date]
+  date-format: "MMM D, YYYY"
+  page-size: 100
 ---
 
 ::: {#presentations}
