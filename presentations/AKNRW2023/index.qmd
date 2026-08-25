@@ -10,10 +10,12 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Presenting methods and approaches to forecast long-term measurements of Power
-Quality parameters.
+Abstract
+: Presenting methods and approaches to forecast long-term measurements of Power
+  Quality parameters.
 
-[Slides](AKNRW2023_Domagk_Prognose.pdf){.btn .btn-outline-primary .btn-sm}
-[Event](https://www.vde-dresden.de/de){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Slides](AKNRW2023_Domagk_Prognose.pdf) [Event](https://www.vde-dresden.de/de)]{.pub-links}

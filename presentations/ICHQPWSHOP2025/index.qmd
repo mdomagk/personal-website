@@ -10,13 +10,13 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Presenting the analysis of long-term voltage harmonic trends in the Estonian
-transmission system, including compliance with planning limits and identified trend
-developments.
+Abstract
+: Presenting the analysis of long-term voltage harmonic trends in the Estonian
+  transmission system, including compliance with planning limits and identified trend
+  developments.
 
-[Poster](ICHQPWSHOP2025_Harmonic_Trends.pdf){.btn .btn-outline-primary .btn-sm}
-[Event](https://ichqp-workshop.org/){.btn .btn-outline-primary .btn-sm}
-[Program](ICHQPWSHOP2025_program.pdf){.btn .btn-outline-primary .btn-sm}
-[Blog](https://www.sprintresearch.co.uk/blog-14-23-07-2025){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Poster](ICHQPWSHOP2025_Harmonic_Trends.pdf) [Event](https://ichqp-workshop.org/) [Program](ICHQPWSHOP2025_program.pdf) [Blog](https://www.sprintresearch.co.uk/blog-14-23-07-2025)]{.pub-links}

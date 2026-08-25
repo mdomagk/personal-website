@@ -9,8 +9,11 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Presenting methods for Power Quality Data Analytics.
+Abstract
+: Presenting methods for Power Quality Data Analytics.
 
-[Flyer](ETFS2026_Flyer.pdf){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Flyer](ETFS2026_Flyer.pdf)]{.pub-links}

@@ -10,11 +10,12 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Presenting visualization techniques for analyzing correlations and propagation
-within large-scale Power Quality monitoring campaigns.
+Abstract
+: Presenting visualization techniques for analyzing correlations and propagation
+  within large-scale Power Quality monitoring campaigns.
 
-[Slides](ICHQP2024_Panel.pdf){.btn .btn-outline-primary .btn-sm}
-[Event](https://ichqp2024.org/){.btn .btn-outline-primary .btn-sm}
-[Photo](ICHQP2024_Panel.jpg){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Slides](ICHQP2024_Panel.pdf) [Event](https://ichqp2024.org/) [Photo](ICHQP2024_Panel.jpg)]{.pub-links}

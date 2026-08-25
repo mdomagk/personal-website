@@ -10,10 +10,12 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Presenting use cases for Power Quality data analysis with an example application for the
-Estonian transmission system.
+Abstract
+: Presenting use cases for Power Quality data analysis with an example application for the
+  Estonian transmission system.
 
-[Slides](ICHQP2024_Use-Cases-Elering.pdf){.btn .btn-outline-primary .btn-sm}
-[Event](https://ichqp2024.org/){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Slides](ICHQP2024_Use-Cases-Elering.pdf) [Event](https://ichqp2024.org/)]{.pub-links}

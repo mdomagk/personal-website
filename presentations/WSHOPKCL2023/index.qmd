@@ -10,12 +10,13 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Presenting the challenges of measurement-based determination of frequency-dependent
-impedance characteristics at a workshop on modelling of distribution systems for
-harmonic studies in transmission systems.
+Abstract
+: Presenting the challenges of measurement-based determination of frequency-dependent
+  impedance characteristics at a workshop on modelling of distribution systems for
+  harmonic studies in transmission systems.
 
-[Slides](WSHOPKCL2023_meas-based_determination.pdf){.btn .btn-outline-primary .btn-sm}
-[Event](https://transcampus.eu/){.btn .btn-outline-primary .btn-sm}
-[Blog](https://www.sprintresearch.co.uk/blog-3-08-06-2023){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Slides](WSHOPKCL2023_meas-based_determination.pdf) [Event](https://transcampus.eu/) [Blog](https://www.sprintresearch.co.uk/blog-3-08-06-2023)]{.pub-links}

@@ -9,8 +9,11 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Presenting the analysis of large-scale Power Quality measurement data.
+Abstract
+: Presenting the analysis of large-scale Power Quality measurement data.
 
-[Slides](OMICRON2025.pdf){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Slides](OMICRON2025.pdf)]{.pub-links}

@@ -10,11 +10,13 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Presenting a method to identify long-term trends in time series of continuous Power
-Quality parameters, which can support network operators with the early detection of
-fundamental changes in Power Quality levels.
+Abstract
+: Presenting a method to identify long-term trends in time series of continuous Power
+  Quality parameters, which can support network operators with the early detection of
+  fundamental changes in Power Quality levels.
 
-[Slides](ICHQP2022_Domagk_Trends.pdf){.btn .btn-outline-primary .btn-sm}
-[Event](https://ichqp2022.org/){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Slides](ICHQP2022_Domagk_Trends.pdf) [Event](https://ichqp2022.org/)]{.pub-links}

@@ -10,11 +10,12 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Presenting results from recent studies on voltage unbalance, harmonics and emissions
-from customer installations.
+Abstract
+: Presenting results from recent studies on voltage unbalance, harmonics and emissions
+  from customer installations.
 
-[Slides](VDETAGUNG2023.pdf){.btn .btn-outline-primary .btn-sm}
-[Event](https://www.vde-dresden.de/de){.btn .btn-outline-primary .btn-sm}
-[Flyer](VDETAGUNG2023_Flyer.pdf){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Slides](VDETAGUNG2023.pdf) [Event](https://www.vde-dresden.de/de) [Flyer](VDETAGUNG2023_Flyer.pdf)]{.pub-links}

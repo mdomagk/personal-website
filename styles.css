@@ -111,6 +111,25 @@ div.quarto-about-jolla > .about-links {
   font-size: 1rem;
 }
 
+/* Presentations-Detailseiten: Steckbrief-artige Fakten-Liste (Location,
+   Abstract, Materials) als Pandoc-Definitionsliste statt Fliesstext mit
+   Fettdruck und Gedankenstrich. */
+#quarto-document-content dl dt {
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: rgb(80, 91, 102);
+  margin-top: 1.2em;
+}
+body.quarto-dark #quarto-document-content dl dt {
+  color: rgb(173, 181, 189);
+}
+#quarto-document-content dl dd {
+  margin-left: 0;
+  margin-bottom: 0;
+}
+
 /* Publications: IEEE-artige Zitationsliste (eigenes ejs-Template
    pub-list.ejs.md statt Quartos Standard-Listing). Nummerierung zaehlt
    absteigend von der Gesamtzahl (counter-reset: pubnum <N> inline im

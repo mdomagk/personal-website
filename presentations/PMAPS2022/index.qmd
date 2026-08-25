@@ -10,10 +10,12 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Presenting a simulation framework and analysis results for the propagation of
-harmonics within transmissions systems of (extra) high voltage levels.
+Abstract
+: Presenting a simulation framework and analysis results for the propagation of
+  harmonics within transmissions systems of (extra) high voltage levels.
 
-[Slides](PMAPS2022_Domagk_ProbabilisticStudy.pdf){.btn .btn-outline-primary .btn-sm}
-[Event](https://www.pmaps2022.org/){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Slides](PMAPS2022_Domagk_ProbabilisticStudy.pdf) [Event](https://www.pmaps2022.org/)]{.pub-links}

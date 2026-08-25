@@ -10,11 +10,13 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Talk given by co-author René Braunstein. Presenting the analysis of the impact of
-discontinuous measurements on the assessment of long-term trends in time series of
-continuous Power Quality parameters.
+Abstract
+: Talk given by co-author René Braunstein. Presenting the analysis of the impact of
+  discontinuous measurements on the assessment of long-term trends in time series of
+  continuous Power Quality parameters.
 
-[Slides](CIRED2023_Discont_Meas_Trend.pdf){.btn .btn-outline-primary .btn-sm}
-[Event](https://www.cired2023.org/){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Slides](CIRED2023_Discont_Meas_Trend.pdf) [Event](https://www.cired2023.org/)]{.pub-links}

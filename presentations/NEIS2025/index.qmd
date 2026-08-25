@@ -10,10 +10,12 @@ categories:
   - Conference talk
 ---
 
-**{{< meta event >}}** — {{< meta location >}}
+Location
+: {{< meta location >}}
 
-Presenting the analysis of uncertainty propagation for harmonics from phase domain into
-sequence domain.
+Abstract
+: Presenting the analysis of uncertainty propagation for harmonics from phase domain into
+  sequence domain.
 
-[Slides](NEIS2025.pdf){.btn .btn-outline-primary .btn-sm}
-[Event](https://neis-conference.com/){.btn .btn-outline-primary .btn-sm}
+Materials
+: [[Slides](NEIS2025.pdf) [Event](https://neis-conference.com/)]{.pub-links}
