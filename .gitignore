@@ -7,3 +7,11 @@
 .RData
 
 **/*.quarto_ipynb
+
+# Fehlgeleitete Quarto-Ausgabe: "quarto render <datei>" rendert ausserhalb des
+# Projektkontexts und legt die Ausgabe neben die Quelle statt nach _site/.
+# Immer "quarto render" ohne Dateinamen aufrufen.
+*.html
+/site_libs/
+**/index-listing.json
+/search.json
