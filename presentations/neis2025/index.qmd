@@ -4,7 +4,6 @@ date: 2025-09-16
 description: "Speaker at NEIS conference"
 image: featured.png
 event: "NEIS 2025 Conference on Sustainable Energy Supply and Energy Storage Systems"
-event-url: "https://neis-conference.com/"
 location: "Hamburg, Germany"
 ---
 
@@ -16,4 +15,4 @@ Abstract
   sequence domain.
 
 Materials
-: [[Slides](neis2025.pdf) [Event](https://neis-conference.com/)]{.pub-links}
+: [[Slides](neis2025.pdf)]{.pub-links}

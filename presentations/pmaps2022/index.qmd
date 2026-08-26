@@ -4,7 +4,6 @@ date: 2022-06-01
 description: "Invited speaker at PMAPS conference"
 image: featured.png
 event: "17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)"
-event-url: "https://www.pmaps2022.org/"
 location: "Manchester, United Kingdom (online)"
 ---
 
@@ -16,4 +15,4 @@ Abstract
   harmonics within transmissions systems of (extra) high voltage levels.
 
 Materials
-: [[Slides](pmaps2022_domagk_probabilisticstudy.pdf) [Event](https://www.pmaps2022.org/)]{.pub-links}
+: [[Slides](pmaps2022_domagk_probabilisticstudy.pdf)]{.pub-links}

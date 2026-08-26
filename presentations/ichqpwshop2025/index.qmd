@@ -4,7 +4,6 @@ date: 2025-06-11
 description: "Poster at ICHQP workshop"
 image: featured.png
 event: "1st ICHQP Workshop 2025 at King's College London"
-event-url: "https://ichqp-workshop.org/"
 location: "London, United Kingdom"
 ---
 
@@ -17,4 +16,4 @@ Abstract
   developments.
 
 Materials
-: [[Poster](ichqpwshop2025_harmonic_trends.pdf) [Event](https://ichqp-workshop.org/) [Program](ichqpwshop2025_program.pdf) [Blog](https://www.sprintresearch.co.uk/blog-14-23-07-2025)]{.pub-links}
+: [[Poster](ichqpwshop2025_harmonic_trends.pdf) [Program](ichqpwshop2025_program.pdf) [Blog](https://www.sprintresearch.co.uk/blog-14-23-07-2025)]{.pub-links}

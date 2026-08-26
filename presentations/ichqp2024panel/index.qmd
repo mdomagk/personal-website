@@ -4,7 +4,6 @@ date: 2024-10-17
 description: "Panel speaker at ICHQP conference"
 image: featured.png
 event: "21st International Conference on Harmonics and Quality of Power (ICHQP)"
-event-url: "https://ichqp2024.org/"
 location: "Chengdu, China"
 ---
 
@@ -16,4 +15,4 @@ Abstract
   within large-scale Power Quality monitoring campaigns.
 
 Materials
-: [[Slides](ichqp2024_panel.pdf) [Event](https://ichqp2024.org/) [Photo](ichqp2024_panel.jpg)]{.pub-links}
+: [[Slides](ichqp2024_panel.pdf) [Photo](ichqp2024_panel.jpg)]{.pub-links}

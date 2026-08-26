@@ -5,6 +5,7 @@ author:
 date: 2015-10-19
 description: "Dissertation, Technische Universität Dresden"
 url: "https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-211866"
+urlLabel: "Qucosa"
 categories:
   - Thesis
 tags:
@@ -12,4 +13,4 @@ tags:
   - Time Series Analysis
 ---
 
-[Full text](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-211866){.btn .btn-outline-primary .btn-sm}
+[Qucosa](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-211866){.btn .btn-outline-primary .btn-sm}

@@ -4,7 +4,6 @@ date: 2022-05-01
 description: "Speaker at ICHQP conference"
 image: featured.png
 event: "20th International Conference on Harmonics and Quality of Power (ICHQP)"
-event-url: "https://ichqp2022.org/"
 location: "Naples, Italy"
 ---
 
@@ -17,4 +16,4 @@ Abstract
   fundamental changes in Power Quality levels.
 
 Materials
-: [[Slides](ichqp2022_domagk_trends.pdf) [Event](https://ichqp2022.org/)]{.pub-links}
+: [[Slides](ichqp2022_domagk_trends.pdf)]{.pub-links}

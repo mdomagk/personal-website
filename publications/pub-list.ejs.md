@@ -22,7 +22,7 @@
       <% if (item.doi) { %><a href="https://doi.org/<%= item.doi %>" target="_blank" rel="noopener">DOI</a><% } %>
       <% if (item.pdf) { %><a href="<%- folder %><%= item.pdf %>">PDF</a><% } %>
       <% if (item.arxiv) { %><a href="https://doi.org/10.48550/arXiv.<%= item.arxiv %>" target="_blank" rel="noopener">arXiv</a><% } %>
-      <% if (item.url) { %><a href="<%= item.url %>" target="_blank" rel="noopener">Link</a><% } %>
+      <% if (item.url) { %><a href="<%= item.url %>" target="_blank" rel="noopener"><%= item.urlLabel || 'Link' %></a><% } %>
       </span>
     </div>
   </span>

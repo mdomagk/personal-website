@@ -4,7 +4,6 @@ date: 2023-09-21
 description: "Speaker at VDE Fachtagung Netzrückwirkungen"
 image: featured.png
 event: "VDE Fachtagung Netzrückwirkungen"
-event-url: "https://www.vde-dresden.de/de"
 location: "Dresden, Germany"
 ---
 
@@ -16,4 +15,4 @@ Abstract
   from customer installations.
 
 Materials
-: [[Slides](vdetagung2023.pdf) [Event](https://www.vde-dresden.de/de) [Flyer](vdetagung2023_flyer.pdf)]{.pub-links}
+: [[Slides](vdetagung2023.pdf) [Flyer](vdetagung2023_flyer.pdf)]{.pub-links}

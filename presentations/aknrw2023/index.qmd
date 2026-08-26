@@ -4,7 +4,6 @@ date: 2023-03-25
 description: "Speaker at AK Netzrückwirkungen"
 image: featured.png
 event: "63. Sitzung AK Netzrückwirkungen"
-event-url: "https://www.vde-dresden.de/de"
 location: "Schmalkalden, Germany"
 ---
 
@@ -16,4 +15,4 @@ Abstract
   Quality parameters.
 
 Materials
-: [[Slides](aknrw2023_domagk_prognose.pdf) [Event](https://www.vde-dresden.de/de)]{.pub-links}
+: [[Slides](aknrw2023_domagk_prognose.pdf)]{.pub-links}
