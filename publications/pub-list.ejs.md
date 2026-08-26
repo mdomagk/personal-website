@@ -1,5 +1,5 @@
 ```{=html}
-<input type="search" id="pub-search" class="form-control pub-search-input" placeholder="Filter by author, title, venue…" autocomplete="off">
+<input type="search" id="pub-search" class="form-control pub-search-input" placeholder="Filter by author, title, year…" autocomplete="off">
 <ol class="pub-list list" style="counter-reset: pubnum <%= items.length + 1 %>;">
 <% for (const item of items) { %>
 <% const authors = Array.isArray(item.author) ? item.author : [item.author]; %>
