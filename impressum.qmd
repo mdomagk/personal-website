@@ -10,7 +10,7 @@ Max Domagk\
 c/o Technische Universität Dresden\
 Fakultät Elektrotechnik und Informationstechnik\
 Institut für Elektrische Energieversorgung und Hochspannungstechnik (IEEH)\
-Professur für Elektroenergieversorgung\
+Professur für Vernetzte Energiesysteme\
 Mommsenstr. 12\
 D-01069 Dresden
 
@@ -25,6 +25,6 @@ Max Domagk\
 c/o Technische Universität Dresden\
 Fakultät Elektrotechnik und Informationstechnik\
 Institut für Elektrische Energieversorgung und Hochspannungstechnik (IEEH)\
-Professur für Elektroenergieversorgung\
+Professur für Vernetzte Energiesysteme\
 Mommsenstr. 12\
 D-01069 Dresden
