@@ -81,6 +81,15 @@ div.quarto-about-jolla .about-link:hover {
 #projects .thumbnail {
   flex-basis: 45%;
 }
+/* Logos/Banner der Projekte haben stark unterschiedliche Seitenverhaeltnisse
+   (DFG-Banner 2.7:1 breit, GridData-Logo 1.7:1 quadratischer) -- ohne
+   Hoehenbegrenzung zieht sich das GridData-Logo bei gleicher Spaltenbreite
+   deutlich hoeher. object-fit: contain statt Quartos Default (cover), sonst
+   wuerde das schmalere DFG-Banner angeschnitten. */
+#projects .thumbnail img {
+  height: 6rem;
+  object-fit: contain;
+}
 
 /* Presentations-Listing: Quartos default-Listing setzt die Bildspalte auf
    30% der Zeilenbreite -- fuer die kleinen Vortrags-Vorschaubilder noch zu
