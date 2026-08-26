@@ -1,6 +1,6 @@
 ---
 title: "Multivariate Methods"
-description: "Project on new methods for multivariate analysis of Power Quality measurements"
+description: "New methods for multivariate analysis of Power Quality measurements"
 sort-date: 2024-01-01
 image: featured.jpg
 categories:
