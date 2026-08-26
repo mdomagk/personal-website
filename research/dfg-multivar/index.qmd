@@ -1,7 +1,7 @@
 ---
 title: "Multivariate Methods"
 description: "Project on new methods for multivariate analysis of Power Quality measurements"
-date: 2024-01-01
+sort-date: 2024-01-01
 image: featured.jpg
 categories:
   - Data Mining
@@ -10,5 +10,8 @@ categories:
   - Power Quality
   - Measurement
 ---
+
+Duration
+: 2024&ndash;2026
 
 [Project details (GEPRIS)](https://gepris.dfg.de/gepris/projekt/521923789?language=en){.btn .btn-outline-primary .btn-sm}
