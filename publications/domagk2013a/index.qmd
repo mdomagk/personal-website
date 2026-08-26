@@ -10,8 +10,6 @@ description: 22nd International Conference and Exhibition on Electricity Distrib
 categories:
 - Conference paper
 doi: 10.1049/cp.2013.1104
-url: https://ieeexplore.ieee.org/document/6683707?arnumber=6683707
 ---
 
 [DOI](https://doi.org/10.1049/cp.2013.1104){.btn .btn-outline-primary .btn-sm}
-[Link](https://ieeexplore.ieee.org/document/6683707?arnumber=6683707){.btn .btn-outline-primary .btn-sm}

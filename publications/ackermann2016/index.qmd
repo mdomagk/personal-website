@@ -13,7 +13,7 @@ date: '2016-11-01'
 description: 6th Solar Integration Workshop
 categories:
 - Conference paper
-url: https://windintegrationworkshop.org/proceedings/
+doi: 10.24406/publica-fhg-408356
 tags:
 - Harmonics
 - Modeling
@@ -22,4 +22,4 @@ tags:
 - Inverter
 ---
 
-[Link](https://windintegrationworkshop.org/proceedings/){.btn .btn-outline-primary .btn-sm}
+[DOI](https://doi.org/10.24406/publica-fhg-408356){.btn .btn-outline-primary .btn-sm}

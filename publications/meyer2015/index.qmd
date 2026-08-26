@@ -10,7 +10,8 @@ date: '2015-06-01'
 description: 23rd International Conference on Electricity Distribution
 categories:
 - Conference paper
-url: http://cired.net/publications/cired2015/papers/CIRED2015_1407_final.pdf
+url: http://web.archive.org/web/20241012132655/http://cired.net/publications/cired2015/papers/CIRED2015_1407_final.pdf
+urlLabel: "PDF"
 ---
 
-[Link](http://cired.net/publications/cired2015/papers/CIRED2015_1407_final.pdf){.btn .btn-outline-primary .btn-sm}
+[PDF](http://web.archive.org/web/20241012132655/http://cired.net/publications/cired2015/papers/CIRED2015_1407_final.pdf){.btn .btn-outline-primary .btn-sm}
