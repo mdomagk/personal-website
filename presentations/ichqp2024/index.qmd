@@ -11,7 +11,7 @@ Location
 : {{< meta location >}}
 
 Abstract
-: Presenting use cases for Power Quality data analysis with an example application for the
+: Presenting use cases for power quality data analysis with an example application for the
   Estonian transmission system.
 
 Materials

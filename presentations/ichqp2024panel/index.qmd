@@ -12,7 +12,7 @@ Location
 
 Abstract
 : Presenting visualization techniques for analyzing correlations and propagation
-  within large-scale Power Quality monitoring campaigns.
+  within large-scale power quality monitoring campaigns.
 
 Materials
 : [[Slides](ichqp2024_panel.pdf) [Photo](ichqp2024_panel.jpg)]{.pub-links}

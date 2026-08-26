@@ -11,7 +11,7 @@ Location
 : {{< meta location >}}
 
 Abstract
-: Presenting methods for Power Quality Data Analytics.
+: Presenting methods for power quality data analytics.
 
 Materials
 : [[Flyer](etfs2026_flyer.pdf)]{.pub-links}

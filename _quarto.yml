@@ -12,7 +12,7 @@ project:
 
 website:
   title: "Max Domagk"
-  description: "Power Quality, data mining and electrical power systems research at TUD Dresden University of Technology."
+  description: "Power quality, data mining and electrical power systems research at TUD Dresden University of Technology."
   site-url: https://maxdomagk.de
   favicon: images/icon.png
   open-graph: true

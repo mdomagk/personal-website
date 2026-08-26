@@ -11,7 +11,7 @@ Location
 : {{< meta location >}}
 
 Abstract
-: Presenting the analysis of large-scale Power Quality measurement data.
+: Presenting the analysis of large-scale power quality measurement data.
 
 Materials
 : [[Slides](omicron2025.pdf)]{.pub-links}

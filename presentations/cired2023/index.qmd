@@ -13,7 +13,7 @@ Location
 Abstract
 : Talk given by co-author René Braunstein. Presenting the analysis of the impact of
   discontinuous measurements on the assessment of long-term trends in time series of
-  continuous Power Quality parameters.
+  continuous power quality parameters.
 
 Materials
 : [[Slides](cired2023_discont_meas_trend.pdf)]{.pub-links}

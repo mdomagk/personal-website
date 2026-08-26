@@ -11,9 +11,9 @@ Location
 : {{< meta location >}}
 
 Abstract
-: Presenting a method to identify long-term trends in time series of continuous Power
-  Quality parameters, which can support network operators with the early detection of
-  fundamental changes in Power Quality levels.
+: Presenting a method to identify long-term trends in time series of continuous power
+  quality parameters, which can support network operators with the early detection of
+  fundamental changes in power quality levels.
 
 Materials
 : [[Slides](ichqp2022_domagk_trends.pdf)]{.pub-links}
