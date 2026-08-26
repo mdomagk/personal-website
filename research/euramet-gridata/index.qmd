@@ -1,0 +1,17 @@
+---
+title: "GridData"
+description: "Metrology for reliable power grid data analytics"
+sort-date: 2025-01-01
+image: featured.png
+categories:
+  - Metrology
+  - Measurement Uncertainty
+  - Power Quality
+  - Anomaly Detection
+  - Machine Learning
+---
+
+Duration
+: 2025&ndash;2027
+
+[Project website](https://griddata.inrim.it/griddata){.btn .btn-outline-primary .btn-sm}
