@@ -4,7 +4,7 @@ listing:
   id: projects
   contents: "*/index.qmd"
   type: default
-  sort: "date desc"
+  sort: "sort-date desc"
   fields: [image, title, description]
 ---
 
