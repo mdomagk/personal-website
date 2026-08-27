@@ -169,6 +169,17 @@ body.quarto-dark #quarto-document-content dl dt {
   margin-bottom: 0;
 }
 
+/* Publications-Detailseiten: Quarto rendert bei vorhandenem doi:-Feld
+   automatisch einen eigenen "Doi"-Block im Titel-Meta-Bereich (fest im
+   Pandoc-Template verankert, nicht per YAML abschaltbar) -- zusaetzlich zum
+   eigenen "Links"-Eintrag der Steckbrief-Liste. Ohne dieses Ausblenden
+   haetten nur DOI-Publikationen einen Link oben UND unten, alle anderen
+   Typen (arXiv, PDF, URL) nur unten -- hier vereinheitlicht auf "genau ein
+   Link, immer im Steckbrief". */
+#quarto-document-content .quarto-title-meta > div:has(> .quarto-title-meta-contents > p.doi) {
+  display: none;
+}
+
 /* Publications: IEEE-artige Zitationsliste (eigenes ejs-Template
    pub-list.ejs.md statt Quartos Standard-Listing). Nummerierung zaehlt
    absteigend von der Gesamtzahl (counter-reset: pubnum <N> inline im
