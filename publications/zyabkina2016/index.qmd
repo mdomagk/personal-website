@@ -17,6 +17,9 @@ tags:
 - Anomaly Detection
 ---
 
+Location
+: Ljubljana, Slovenia
+
 Links
 : [DOI](https://doi.org/10.1109/ISGTEurope.2016.7856290){.btn .btn-outline-primary .btn-sm}
 

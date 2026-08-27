@@ -17,6 +17,9 @@ tags:
 - Consumer Behavior
 ---
 
+Location
+: Wollongong, Australia
+
 Links
 : [DOI](https://doi.org/10.1109/PTC.2015.7232396){.btn .btn-outline-primary .btn-sm}
 

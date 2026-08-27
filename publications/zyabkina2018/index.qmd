@@ -18,6 +18,9 @@ tags:
 - Classification
 ---
 
+Location
+: Boise, USA
+
 Links
 : [DOI](https://doi.org/10.1109/PMAPS.2018.8440460){.btn .btn-outline-primary .btn-sm}
 

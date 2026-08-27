@@ -20,6 +20,9 @@ categories:
 url: https://windintegrationworkshop.org/proceedings/
 ---
 
+Location
+: Dublin, Ireland
+
 Links
 : [Link](https://windintegrationworkshop.org/proceedings/){.btn .btn-outline-primary .btn-sm}
 

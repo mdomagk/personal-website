@@ -19,6 +19,9 @@ tags:
   - Transmission Line Modeling
 ---
 
+Location
+: Paris, France
+
 Links
 : [Preprint (PDF)](blanco2024_preprint.pdf){.btn .btn-outline-primary .btn-sm}
 

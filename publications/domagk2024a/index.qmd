@@ -18,6 +18,9 @@ tags:
 - Harmonics
 ---
 
+Location
+: Chengdu, China
+
 Links
 : [DOI](https://doi.org/10.1109/ICHQP61174.2024.10768779){.btn .btn-outline-primary .btn-sm}
 

@@ -13,6 +13,9 @@ categories:
 doi: 10.1049/cp.2009.0913
 ---
 
+Location
+: Prague, Czech Republic
+
 Links
 : [DOI](https://doi.org/10.1049/cp.2009.0913){.btn .btn-outline-primary .btn-sm}
 

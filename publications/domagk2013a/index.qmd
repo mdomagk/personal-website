@@ -12,6 +12,9 @@ categories:
 doi: 10.1049/cp.2013.1104
 ---
 
+Location
+: Stockholm, Sweden
+
 Links
 : [DOI](https://doi.org/10.1049/cp.2013.1104){.btn .btn-outline-primary .btn-sm}
 

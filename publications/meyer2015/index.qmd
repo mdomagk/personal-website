@@ -14,6 +14,9 @@ url: http://web.archive.org/web/20241012132655/http://cired.net/publications/cir
 urlLabel: "PDF"
 ---
 
+Location
+: Lyon, France
+
 Links
 : [PDF](http://web.archive.org/web/20241012132655/http://cired.net/publications/cired2015/papers/CIRED2015_1407_final.pdf){.btn .btn-outline-primary .btn-sm}
 

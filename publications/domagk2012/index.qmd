@@ -10,5 +10,8 @@ categories:
 - Conference paper
 ---
 
+Location
+: Istanbul, Turkey
+
 Abstract
 : Power quality levels in public low voltage grids are mainly influenced by impact factors which can either be assigned to the electrical environment or to the non-electrical environment of the measurement site. The electrical environment, for example, includes the connected consumers (consumer topology) which are expected to have a high influence on power quality (PQ) levels. Continuous phenomena like harmonics are closely linked to an one-day-cycle, which implies a more or less periodic behavior of the continuous power quality parameters. Consumer topologies such as office buildings or residential areas differ in their use of equipment. Time series analysis is used to distinguish between different consumer topologies and to identify characteristic weeks. Clustering of one-day time series is applied to identify characteristic days within the weeks of certain topologies. This paper starts with an introducing of the relevant factors influencing power quality. It furthermore describes the pattern ratio which allows to distinguish between different consumer topologies. The pattern ratio is applied to several measurement sites to identify the characteristic weeks. Afterwards, the paper introduces the clustering of time series using the dynamic time warping (DTW) distance to obtain the typical one-day time series within a week. The suitability of the methods is presented by example applications.

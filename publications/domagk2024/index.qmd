@@ -7,7 +7,6 @@ author:
   - Grazia Todeschini
 date: 2024-10-15
 description: "2024 21st International Conference on Harmonics & Quality of Power (ICHQP)"
-location: "Chengdu, China"
 doi: "10.1109/ICHQP61174.2024.10768797"
 categories:
   - Conference paper
@@ -18,6 +17,9 @@ tags:
   - Network Harmonic Impedance
   - Power Quality
 ---
+
+Location
+: Chengdu, China
 
 Links
 : [DOI](https://doi.org/10.1109/ICHQP61174.2024.10768797){.btn .btn-outline-primary .btn-sm}

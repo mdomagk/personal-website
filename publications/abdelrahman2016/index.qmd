@@ -18,6 +18,9 @@ tags:
 - Measurement Campaign
 ---
 
+Location
+: Belo Horizonte, Brazil
+
 Links
 : [DOI](https://doi.org/10.1109/ICHQP.2016.7783326){.btn .btn-outline-primary .btn-sm}
 

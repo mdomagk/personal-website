@@ -22,6 +22,9 @@ tags:
 - Trend Identification
 ---
 
+Location
+: Naples, Italy
+
 Links
 : [DOI](https://doi.org/10.1109/ICHQP53011.2022.9808645){.btn .btn-outline-primary .btn-sm}
 

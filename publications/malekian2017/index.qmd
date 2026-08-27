@@ -14,6 +14,9 @@ categories:
 url: https://ieeexplore.ieee.org/document/8278748
 ---
 
+Location
+: Bonn, Germany
+
 Links
 : [Link](https://ieeexplore.ieee.org/document/8278748){.btn .btn-outline-primary .btn-sm}
 

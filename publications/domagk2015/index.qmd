@@ -18,6 +18,9 @@ tags:
 - Trend Analysis
 ---
 
+Location
+: Eindhoven, Netherlands
+
 Links
 : [DOI](https://doi.org/10.1109/AUPEC.2015.7324851){.btn .btn-outline-primary .btn-sm}
 

@@ -28,6 +28,9 @@ tags:
 - Phase Angle
 ---
 
+Location
+: Vienna, Austria
+
 Links
 : [Link](https://windintegrationworkshop.org/proceedings/){.btn .btn-outline-primary .btn-sm}
 

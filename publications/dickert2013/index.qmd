@@ -16,6 +16,9 @@ tags:
 - Multivariate Methods
 ---
 
+Location
+: Grenoble, France
+
 Links
 : [DOI](https://doi.org/10.1109/PTC.2013.6652250){.btn .btn-outline-primary .btn-sm}
 

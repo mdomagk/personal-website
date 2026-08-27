@@ -21,6 +21,9 @@ categories:
 doi: 10.34890/814
 ---
 
+Location
+: Madrid, Spain
+
 Links
 : [DOI](https://doi.org/10.34890/814){.btn .btn-outline-primary .btn-sm}
 
