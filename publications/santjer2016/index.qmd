@@ -28,8 +28,11 @@ tags:
 - Phase Angle
 ---
 
-**Abstract:** The harmonic emission of wind turbines and PV inverters is usually measured in the field. Consequently it is influenced by several external factors like background distortion and grid impedance resonances. Within the framework of the research project "NetzHarmonie", which is funded by the German government, new methods to evaluate harmonic emission in the grid are explored. This paper presents measurement campaigns and new analysis methods.
+Links
+: [Link](https://windintegrationworkshop.org/proceedings/){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Harmonics, Modeling, Measurement, Evaluation Method, Network Harmonic Impedance, Phase Angle
+Keywords
+: Harmonics, Modeling, Measurement, Evaluation Method, Network Harmonic Impedance, Phase Angle
 
-[Link](https://windintegrationworkshop.org/proceedings/){.btn .btn-outline-primary .btn-sm}
+Abstract
+: The harmonic emission of wind turbines and PV inverters is usually measured in the field. Consequently it is influenced by several external factors like background distortion and grid impedance resonances. Within the framework of the research project "NetzHarmonie", which is funded by the German government, new methods to evaluate harmonic emission in the grid are explored. This paper presents measurement campaigns and new analysis methods.

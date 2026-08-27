@@ -18,8 +18,11 @@ tags:
 - Modeling
 ---
 
-**Abstract:** This paper presents the estimation of equivalent electric circuit models for the downstream impedance of public German LV grids. These circuit models can be used for the Norton approach of modeling general LV grids in harmonic power system studies. The measurement setup is introduced including the measurement principle and the measurement algorithm. Different circuit topologies are analyzed in order to select the most suitable one. The actual parameter values are determined by using the well-known nonlinear least squares algorithm. The estimated models are evaluated for selected example measurements. A simple approach is introduced in order to increase the sample size of equivalent circuit models based on the measured impedances as well as to estimation of the positive sequence impedances based on the identified circuit parameters.
+Links
+: [DOI](https://doi.org/10.1109/PTC.2019.8810496){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Harmonics, Network Harmonic Impedance, Norton Model, Equivalent Circuit Model, Low Voltage Grid, Modeling
+Keywords
+: Harmonics, Network Harmonic Impedance, Norton Model, Equivalent Circuit Model, Low Voltage Grid, Modeling
 
-[DOI](https://doi.org/10.1109/PTC.2019.8810496){.btn .btn-outline-primary .btn-sm}
+Abstract
+: This paper presents the estimation of equivalent electric circuit models for the downstream impedance of public German LV grids. These circuit models can be used for the Norton approach of modeling general LV grids in harmonic power system studies. The measurement setup is introduced including the measurement principle and the measurement algorithm. Different circuit topologies are analyzed in order to select the most suitable one. The actual parameter values are determined by using the well-known nonlinear least squares algorithm. The estimated models are evaluated for selected example measurements. A simple approach is introduced in order to increase the sample size of equivalent circuit models based on the measured impedances as well as to estimation of the positive sequence impedances based on the identified circuit parameters.

@@ -18,8 +18,11 @@ tags:
 - Probabilistic Forecasting
 ---
 
-**Abstract:** Power Quality (PQ) disturbances have an impact on electrical installations and equipment. Waveform distortions like harmonics create additional losses and reduce the efficiency of the power converter controls, and therefore should be kept below admissible limits to cope with Standards and regulatory schemes. Relying on accurate predictions of the future values of harmonics can help distribution system operators and clients in taking timely actions to comply with the admissible limits. This paper provides probabilistic methodologies to forecast current harmonics in short-term horizons. The methodologies are based on Quantile Regression (QR) models and are diversified based on the forecasting task: disaggregated forecasts of harmonics at each time interval are provided through a direct approach while daily or weekly percentile aggregated forecasts are provided through either a direct or an indirect approach. The proposed methodologies are applied on actual data collected from Low-Voltage (LV) installations to evaluate their predictive performance. The methodologies improve the performance from 22% to 43%, compared to a naïve persistence benchmark.
+Links
+: [DOI](https://doi.org/10.1109/ISGTEUROPE56780.2023.10407588){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Power Quality, Current Distortion, Time Series Analysis, Probabilistic Forecasting
+Keywords
+: Power Quality, Current Distortion, Time Series Analysis, Probabilistic Forecasting
 
-[DOI](https://doi.org/10.1109/ISGTEUROPE56780.2023.10407588){.btn .btn-outline-primary .btn-sm}
+Abstract
+: Power Quality (PQ) disturbances have an impact on electrical installations and equipment. Waveform distortions like harmonics create additional losses and reduce the efficiency of the power converter controls, and therefore should be kept below admissible limits to cope with Standards and regulatory schemes. Relying on accurate predictions of the future values of harmonics can help distribution system operators and clients in taking timely actions to comply with the admissible limits. This paper provides probabilistic methodologies to forecast current harmonics in short-term horizons. The methodologies are based on Quantile Regression (QR) models and are diversified based on the forecasting task: disaggregated forecasts of harmonics at each time interval are provided through a direct approach while daily or weekly percentile aggregated forecasts are provided through either a direct or an indirect approach. The proposed methodologies are applied on actual data collected from Low-Voltage (LV) installations to evaluate their predictive performance. The methodologies improve the performance from 22% to 43%, compared to a naïve persistence benchmark.

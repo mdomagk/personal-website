@@ -16,8 +16,11 @@ tags:
 - Correlation
 ---
 
-**Abstract:** Power quality levels in public Low Voltage (LV) grids are mainly influenced by the network, connected consumers, the connected generating installations and climatic conditions. The connected consumers (consumer topology) are expected to have a high influence on power quality (PQ) levels. Continuous phenomena like harmonics are closely linked to a one-day-cycle, which means a more or less periodic behavior of the continuous PQ parameters. Consumer topologies like office buildings or residential areas differ in their harmonic emitting behavior. Therefore, time series analysis is a suitable tool to derive factors which allow distinguishing between different consumer topologies. The paper starts with an explanation of relevant factors influencing power quality. It furthermore describes the extensive measurement campaign, set up in order to get the necessary power quality data for the identification of the correlations. Afterwards, the paper introduces a method based on the additive component model to distinguish between different consumer topologies. Finally, the suitability of the method is presented by several example applications.
+Links
+: [DOI](https://doi.org/10.1109/EPQU.2011.6128844){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Power Quality, Harmonics, Time Series Analysis, Correlation
+Keywords
+: Power Quality, Harmonics, Time Series Analysis, Correlation
 
-[DOI](https://doi.org/10.1109/EPQU.2011.6128844){.btn .btn-outline-primary .btn-sm}
+Abstract
+: Power quality levels in public Low Voltage (LV) grids are mainly influenced by the network, connected consumers, the connected generating installations and climatic conditions. The connected consumers (consumer topology) are expected to have a high influence on power quality (PQ) levels. Continuous phenomena like harmonics are closely linked to a one-day-cycle, which means a more or less periodic behavior of the continuous PQ parameters. Consumer topologies like office buildings or residential areas differ in their harmonic emitting behavior. Therefore, time series analysis is a suitable tool to derive factors which allow distinguishing between different consumer topologies. The paper starts with an explanation of relevant factors influencing power quality. It furthermore describes the extensive measurement campaign, set up in order to get the necessary power quality data for the identification of the correlations. Afterwards, the paper introduces a method based on the additive component model to distinguish between different consumer topologies. Finally, the suitability of the method is presented by several example applications.

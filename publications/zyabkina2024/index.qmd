@@ -19,8 +19,11 @@ tags:
 - Time Series Analysis
 ---
 
-**Abstract:** Power grids are undergoing significant changes, such as the increase in renewable energy sources and the large-scale introduction of electric vehicles. These changes have a substantial impact on Power Quality, particularly regarding harmonic distortion. Consequently, network operators conduct extensive measurement campaigns, resulting in vast amounts of data. This data contains highly valuable information about disturbance characteristics. One possibility to extract this information efficiently is the application of machine learning methods. This paper presents a method for identifying prevailing harmonic patterns in long-term measurements. By applying a clustering method combined with Principal Component Analysis (PCA), the proposed approach identifies prevailing harmonic patterns and highlights measurement sites that deviate from these patterns. Understanding these variations can help network operators gain better insights into their networks, optimize the number of PQ monitoring points, and identify sites with unique harmonic behavior. The proposed method is applied to long-term field measurements recorded at various sites within 110-kV networks supplying large cities in China.
+Links
+: [DOI](https://doi.org/10.1109/ICHQP61174.2024.10768808){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Data Mining, Machine Learning, Power Quality, Time Series Analysis
+Keywords
+: Data Mining, Machine Learning, Power Quality, Time Series Analysis
 
-[DOI](https://doi.org/10.1109/ICHQP61174.2024.10768808){.btn .btn-outline-primary .btn-sm}
+Abstract
+: Power grids are undergoing significant changes, such as the increase in renewable energy sources and the large-scale introduction of electric vehicles. These changes have a substantial impact on Power Quality, particularly regarding harmonic distortion. Consequently, network operators conduct extensive measurement campaigns, resulting in vast amounts of data. This data contains highly valuable information about disturbance characteristics. One possibility to extract this information efficiently is the application of machine learning methods. This paper presents a method for identifying prevailing harmonic patterns in long-term measurements. By applying a clustering method combined with Principal Component Analysis (PCA), the proposed approach identifies prevailing harmonic patterns and highlights measurement sites that deviate from these patterns. Understanding these variations can help network operators gain better insights into their networks, optimize the number of PQ monitoring points, and identify sites with unique harmonic behavior. The proposed method is applied to long-term field measurements recorded at various sites within 110-kV networks supplying large cities in China.

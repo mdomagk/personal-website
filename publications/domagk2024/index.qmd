@@ -19,8 +19,11 @@ tags:
   - Power Quality
 ---
 
-**Abstract:** This paper addresses the challenge of modeling the frequency-dependent network impedance of downstream high voltage (HV) networks for accurate harmonic studies in extra high voltage (EHV) transmission systems. With the increasing integration of renewable energy sources, HVDC stations, and Flexible AC Transmission Systems (FACTS), the accurate assessment of harmonic levels within transmission systems has become crucial. The paper proposes a two-step modeling process, beginning with the determination of frequency-dependent impedance characteristics by field measurements or detailed network simulations. These characteristics are then used to fit generic equivalent circuit (EC) models, allowing for the representation of a wide range of typical impedance characteristics. Challenges encountered in the application of this framework, such as the selection of circuit topologies and parameter estimation methods, are discussed. The paper concludes with a demonstration of the suitability of various circuit models and outlines future research directions.
+Links
+: [DOI](https://doi.org/10.1109/ICHQP61174.2024.10768797){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Equivalent Circuit Model, Harmonics, Modeling, Network Harmonic Impedance, Power Quality
+Keywords
+: Equivalent Circuit Model, Harmonics, Modeling, Network Harmonic Impedance, Power Quality
 
-[DOI](https://doi.org/10.1109/ICHQP61174.2024.10768797){.btn .btn-outline-primary .btn-sm}
+Abstract
+: This paper addresses the challenge of modeling the frequency-dependent network impedance of downstream high voltage (HV) networks for accurate harmonic studies in extra high voltage (EHV) transmission systems. With the increasing integration of renewable energy sources, HVDC stations, and Flexible AC Transmission Systems (FACTS), the accurate assessment of harmonic levels within transmission systems has become crucial. The paper proposes a two-step modeling process, beginning with the determination of frequency-dependent impedance characteristics by field measurements or detailed network simulations. These characteristics are then used to fit generic equivalent circuit (EC) models, allowing for the representation of a wide range of typical impedance characteristics. Challenges encountered in the application of this framework, such as the selection of circuit topologies and parameter estimation methods, are discussed. The paper concludes with a demonstration of the suitability of various circuit models and outlines future research directions.

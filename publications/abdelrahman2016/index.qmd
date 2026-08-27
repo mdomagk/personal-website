@@ -18,8 +18,11 @@ tags:
 - Measurement Campaign
 ---
 
-**Abstract:** Power Quality has become one of the main measures of distribution network operation evaluation. Utilities and customers monitor the different PQ aspects for benchmarking and compatibility check. This is a second part of a paper that investigates a long term PQ measurement campaign. In this part, global PQ indices are applied to combine a number of PQ phenomena indices into one number that represents the PQ performance of a site. Two global PQ indices are applied on 64-week PQ measurements of 8 sites. The indices are compared in terms of the final rank of sites. Different levels of flexibility are introduced to the indices to consider a variable importance or priority of the phenomena and sites.
+Links
+: [DOI](https://doi.org/10.1109/ICHQP.2016.7783326){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Power Quality, Indices, Measurement Campaign
+Keywords
+: Power Quality, Indices, Measurement Campaign
 
-[DOI](https://doi.org/10.1109/ICHQP.2016.7783326){.btn .btn-outline-primary .btn-sm}
+Abstract
+: Power Quality has become one of the main measures of distribution network operation evaluation. Utilities and customers monitor the different PQ aspects for benchmarking and compatibility check. This is a second part of a paper that investigates a long term PQ measurement campaign. In this part, global PQ indices are applied to combine a number of PQ phenomena indices into one number that represents the PQ performance of a site. Two global PQ indices are applied on 64-week PQ measurements of 8 sites. The indices are compared in terms of the final rank of sites. Different levels of flexibility are introduced to the indices to consider a variable importance or priority of the phenomena and sites.

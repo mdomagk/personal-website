@@ -22,8 +22,11 @@ tags:
 - Trend Identification
 ---
 
-**Abstract:** Power grids face significant changes, like increase of renewables or large-scale introduction of electric vehicles. This has a significant impact on Power Quality and consequently network operators install an increasing number of Power Quality instruments to monitor their networks. To analyse these large amounts of data in an efficient way, automatic data mining methods are required. This paper presents a method to identify long-term trends in time series of continuous Power Quality parameters, which can support network operators with the early detection of fundamental changes in Power Quality levels. This information can e.g. support the asset management or network planning in optimizing the costs for managing Power Quality levels. The method is applied to field measurements (3 years at 24 sites) taken from Chinese and German 110-kV-network.
+Links
+: [DOI](https://doi.org/10.1109/ICHQP53011.2022.9808645){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Data Mining, Power Quality, Time Series Analysis, Trend Identification
+Keywords
+: Data Mining, Power Quality, Time Series Analysis, Trend Identification
 
-[DOI](https://doi.org/10.1109/ICHQP53011.2022.9808645){.btn .btn-outline-primary .btn-sm}
+Abstract
+: Power grids face significant changes, like increase of renewables or large-scale introduction of electric vehicles. This has a significant impact on Power Quality and consequently network operators install an increasing number of Power Quality instruments to monitor their networks. To analyse these large amounts of data in an efficient way, automatic data mining methods are required. This paper presents a method to identify long-term trends in time series of continuous Power Quality parameters, which can support network operators with the early detection of fundamental changes in Power Quality levels. This information can e.g. support the asset management or network planning in optimizing the costs for managing Power Quality levels. The method is applied to field measurements (3 years at 24 sites) taken from Chinese and German 110-kV-network.

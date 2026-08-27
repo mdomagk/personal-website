@@ -18,8 +18,11 @@ tags:
 - Multidimensional Scaling
 ---
 
-**Abstract:** Large-scale power quality (PQ) measurement campaigns generate vast amounts of multivariate data, in which systematic dependencies are difficult to identify using conventional analysis techniques. This paper presents a methodology for the automated analysis and visualization of correlation structures in large PQ datasets. Building on an existing framework, the approach is adapted for shorter observation periods and enhanced with aggregation and distance-based visualization techniques. Daily Spearman correlation coefficients are averaged via Fisher's z-transformation and aggregated across phases, parameters, and sites. The resulting correlation structures are visualized using hierarchical clustering and multidimensional scaling to reveal consistent and recurring relationships. The methodology is demonstrated using data from 85 measurement sites within the German transmission system.
+Links
+: [arXiv](https://doi.org/10.48550/arXiv.2603.12948){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Power Quality, Correlation Analysis, Harmonics, Data Visualization, Clustering, Multidimensional Scaling
+Keywords
+: Power Quality, Correlation Analysis, Harmonics, Data Visualization, Clustering, Multidimensional Scaling
 
-[arXiv](https://doi.org/10.48550/arXiv.2603.12948){.btn .btn-outline-primary .btn-sm}
+Abstract
+: Large-scale power quality (PQ) measurement campaigns generate vast amounts of multivariate data, in which systematic dependencies are difficult to identify using conventional analysis techniques. This paper presents a methodology for the automated analysis and visualization of correlation structures in large PQ datasets. Building on an existing framework, the approach is adapted for shorter observation periods and enhanced with aggregation and distance-based visualization techniques. Daily Spearman correlation coefficients are averaged via Fisher's z-transformation and aggregated across phases, parameters, and sites. The resulting correlation structures are visualized using hierarchical clustering and multidimensional scaling to reveal consistent and recurring relationships. The methodology is demonstrated using data from 85 measurement sites within the German transmission system.

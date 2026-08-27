@@ -19,8 +19,11 @@ tags:
 - Limit Utilization
 ---
 
-**Abstract:** In the last decades, the distribution grids have faced new and fundamental changes (e.g. increasing number of modern power electronics), which are expected to have also a significant impact on Power Quality levels. Consequently, grid operators implement large Power Quality monitoring systems and carry out campaigns to improve the observability of their networks, i.e. to identify increasing trends. Measurements are implemented either as permanent measurements or temporary, often yearly repeated. The analysis of trends is commonly based on permanent measurements over multiple years. In Austria, however, the assessment of Power Quality legally requires temporary measurements, which are yearly repeated and continuous measurements of voltage events in all substations. This paper analyses, if reliable trend estimations are possible based on the temporary measurements that are, yearly repeated. The analysis of 23 Austrian medium-voltage measurement sites over 6 years proofs the general validity of this approach, if some particularities are considered. Recommendations for the practical implementation are provided.
+Links
+: [DOI](https://doi.org/10.1049/icp.2023.1082){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Power Quality, Time Series Analysis, Trend Identification, Limit Utilization
+Keywords
+: Power Quality, Time Series Analysis, Trend Identification, Limit Utilization
 
-[DOI](https://doi.org/10.1049/icp.2023.1082){.btn .btn-outline-primary .btn-sm}
+Abstract
+: In the last decades, the distribution grids have faced new and fundamental changes (e.g. increasing number of modern power electronics), which are expected to have also a significant impact on Power Quality levels. Consequently, grid operators implement large Power Quality monitoring systems and carry out campaigns to improve the observability of their networks, i.e. to identify increasing trends. Measurements are implemented either as permanent measurements or temporary, often yearly repeated. The analysis of trends is commonly based on permanent measurements over multiple years. In Austria, however, the assessment of Power Quality legally requires temporary measurements, which are yearly repeated and continuous measurements of voltage events in all substations. This paper analyses, if reliable trend estimations are possible based on the temporary measurements that are, yearly repeated. The analysis of 23 Austrian medium-voltage measurement sites over 6 years proofs the general validity of this approach, if some particularities are considered. Recommendations for the practical implementation are provided.

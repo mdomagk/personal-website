@@ -19,8 +19,11 @@ tags:
   - Ensemble Forecasting
 ---
 
-**Abstract:** The growing integration of power electronic-based technologies has increased the necessity of power quality (PQ) monitoring in transmission systems. Although large datasets are collected by operators, their use is typically limited to compliance assessment. Medium- to long-term forecasting can enhance the value of these datasets by enabling proactive asset management and trend detection, despite challenges related to data heterogeneity and seasonality. This paper systematically evaluates individual and ensemble forecasting approaches for PQ parameters in transmission systems. More than 700 weekly time series from measurement campaigns in Germany and Estonia are analysed to assess various models and aggregation strategies within a structured ensemble framework. The results show that ensemble forecasts consistently outperform individual models in terms of accuracy and robustness, achieving significant improvements over seasonal naive benchmarks and the best-performing single models. Ensemble forecasting is therefore confirmed as a robust and scalable approach for long-term PQ prediction in transmission systems.
+Links
+: [arXiv](https://doi.org/10.48550/arXiv.2603.02706){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Power Quality, Transmission Systems, Time Series Analysis, Long-term Forecasting, Ensemble Forecasting
+Keywords
+: Power Quality, Transmission Systems, Time Series Analysis, Long-term Forecasting, Ensemble Forecasting
 
-[arXiv](https://doi.org/10.48550/arXiv.2603.02706){.btn .btn-outline-primary .btn-sm}
+Abstract
+: The growing integration of power electronic-based technologies has increased the necessity of power quality (PQ) monitoring in transmission systems. Although large datasets are collected by operators, their use is typically limited to compliance assessment. Medium- to long-term forecasting can enhance the value of these datasets by enabling proactive asset management and trend detection, despite challenges related to data heterogeneity and seasonality. This paper systematically evaluates individual and ensemble forecasting approaches for PQ parameters in transmission systems. More than 700 weekly time series from measurement campaigns in Germany and Estonia are analysed to assess various models and aggregation strategies within a structured ensemble framework. The results show that ensemble forecasts consistently outperform individual models in terms of accuracy and robustness, achieving significant improvements over seasonal naive benchmarks and the best-performing single models. Ensemble forecasting is therefore confirmed as a robust and scalable approach for long-term PQ prediction in transmission systems.

@@ -20,8 +20,11 @@ tags:
   - Support Vector Machines
 ---
 
-**Abstract:** Power quality (PQ) is an increasing concern in the distribution networks of modern industrialized countries. The PQ monitoring activities of distribution system operators (DSO), and consequently the amount of PQ measurement data, continuously increase, and consequently new and automated tools are required for efficient PQ analysis. Time characteristics of PQ parameters (e.g., harmonics) usually show characteristic daily and weekly cycles, mainly caused by the usage behaviour of electric devices. In this paper, methods are proposed for the classification of harmonic emission profiles for typical consumer configurations in public low voltage (LV) networks using a binary decision tree in combination with support vector machines. The performance of the classification was evaluated based on 40 different measurement sites in German public LV grids. This method can support network operators in the identification of consumer configurations and the early detection of fundamental changes in harmonic emission behaviour. This enables, for example, assistance in resolving customer complaints or supporting network planning by managing PQ levels using typical harmonic emission profiles.
+Links
+: [DOI](https://doi.org/10.3390/app11083598){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Power System Harmonics, Harmonic Current Emission, Public Low Voltage Network, Time Series Analysis, Machine Learning, Classification, Support Vector Machines
+Keywords
+: Power System Harmonics, Harmonic Current Emission, Public Low Voltage Network, Time Series Analysis, Machine Learning, Classification, Support Vector Machines
 
-[DOI](https://doi.org/10.3390/app11083598){.btn .btn-outline-primary .btn-sm}
+Abstract
+: Power quality (PQ) is an increasing concern in the distribution networks of modern industrialized countries. The PQ monitoring activities of distribution system operators (DSO), and consequently the amount of PQ measurement data, continuously increase, and consequently new and automated tools are required for efficient PQ analysis. Time characteristics of PQ parameters (e.g., harmonics) usually show characteristic daily and weekly cycles, mainly caused by the usage behaviour of electric devices. In this paper, methods are proposed for the classification of harmonic emission profiles for typical consumer configurations in public low voltage (LV) networks using a binary decision tree in combination with support vector machines. The performance of the classification was evaluated based on 40 different measurement sites in German public LV grids. This method can support network operators in the identification of consumer configurations and the early detection of fundamental changes in harmonic emission behaviour. This enables, for example, assistance in resolving customer complaints or supporting network planning by managing PQ levels using typical harmonic emission profiles.

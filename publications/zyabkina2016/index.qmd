@@ -17,8 +17,11 @@ tags:
 - Anomaly Detection
 ---
 
-**Abstract:** The number of devices capable to measure Power Quality (PQ) parameters is increasing continuously in all voltage levels. Consequently, the amount of available PQ data is also growing very fast. These data contains a lot of valuable information about the behavior of PQ, but up to now it is in most cases used only to assess compliance with limits (e.g. EN 50160 in Europe). Beside long-term characteristics (trends) and medium-term characteristics (seasonal effects) in particular the analysis of short-term characteristics can provide useful information about deviations from a "typical" behavior, which are usually caused by significant changes in the customer or network behavior (e.g. connection of new disturbing equipment). As manual screening of the data is not feasible, automated methods to identify such "anomalies" are required. After a short description of typical variations in PQ datasets the paper classifies different types of anomalies in PQ time series and presents a new method in order to identify them. Finally the performance of the method is discussed based on examples.
+Links
+: [DOI](https://doi.org/10.1109/ISGTEurope.2016.7856290){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Time Series Analysis, Power Quality, Data Mining, Anomaly Detection
+Keywords
+: Time Series Analysis, Power Quality, Data Mining, Anomaly Detection
 
-[DOI](https://doi.org/10.1109/ISGTEurope.2016.7856290){.btn .btn-outline-primary .btn-sm}
+Abstract
+: The number of devices capable to measure Power Quality (PQ) parameters is increasing continuously in all voltage levels. Consequently, the amount of available PQ data is also growing very fast. These data contains a lot of valuable information about the behavior of PQ, but up to now it is in most cases used only to assess compliance with limits (e.g. EN 50160 in Europe). Beside long-term characteristics (trends) and medium-term characteristics (seasonal effects) in particular the analysis of short-term characteristics can provide useful information about deviations from a "typical" behavior, which are usually caused by significant changes in the customer or network behavior (e.g. connection of new disturbing equipment). As manual screening of the data is not feasible, automated methods to identify such "anomalies" are required. After a short description of typical variations in PQ datasets the paper classifies different types of anomalies in PQ time series and presents a new method in order to identify them. Finally the performance of the method is discussed based on examples.

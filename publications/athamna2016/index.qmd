@@ -25,8 +25,11 @@ tags:
 - Active Harmonic Compensation
 ---
 
-**Abstract:** With the increase of renewable energy resources, the share of power electronic increases in the public grid. These power electronics produce harmonic currents and inject them into the grid. This causes distortion of voltage, which has significant influence on the power quality in the grid. Existing standards define harmonic current emission limits, which might be unnecessarily strict and consequently do not effectively utilize the hosting capacity of the grid in terms of harmonics. Within the framework of the research project "NetzHarmonie", which is funded by the German government, new methods to evaluate harmonic emission in the grid are explored.
+Links
+: [Link](https://windintegrationworkshop.org/proceedings/){.btn .btn-outline-primary .btn-sm}
 
-**Keywords:** Harmonics, Modeling, Measurement, Evaluation, Active Harmonic Compensation
+Keywords
+: Harmonics, Modeling, Measurement, Evaluation, Active Harmonic Compensation
 
-[Link](https://windintegrationworkshop.org/proceedings/){.btn .btn-outline-primary .btn-sm}
+Abstract
+: With the increase of renewable energy resources, the share of power electronic increases in the public grid. These power electronics produce harmonic currents and inject them into the grid. This causes distortion of voltage, which has significant influence on the power quality in the grid. Existing standards define harmonic current emission limits, which might be unnecessarily strict and consequently do not effectively utilize the hosting capacity of the grid in terms of harmonics. Within the framework of the research project "NetzHarmonie", which is funded by the German government, new methods to evaluate harmonic emission in the grid are explored.
