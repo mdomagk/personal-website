@@ -3,15 +3,21 @@ title: "GridData"
 description: "Metrology for reliable power grid data analytics"
 sort-date: 2025-01-01
 image: featured.png
-categories:
-  - Metrology
-  - Measurement Uncertainty
-  - Power Quality
-  - Anomaly Detection
-  - Machine Learning
 ---
 
-Duration
-: 2025&ndash;2027
+**Description:** GridData is a European metrology project aimed at making data-driven analysis of power
+grids more trustworthy. It develops ways to assess the reliability of voltage and current
+measurements from existing grid sensor networks, including machine-learning methods for
+flagging faulty readings, and builds reference datasets and digital-twin models
+of real grids to test these methods under realistic conditions. Building on this foundation,
+the project develops and benchmarks AI-based techniques for detecting abnormal grid events,
+such as frequency deviations, sub-synchronous oscillations, power quality disturbances and
+equipment faults, together with quantified uncertainty, and produces forecasting methods and
+good-practice guidance to help metrology institutes, standards bodies and grid operators
+adopt these approaches.
+
+**Duration:** 06/2025&ndash;05/2028
+
+**Keywords:** Metrology, Measurement Uncertainty, Power Quality, Anomaly Detection, Machine Learning
 
 [Project website](https://griddata.inrim.it/griddata){.btn .btn-outline-primary .btn-sm}

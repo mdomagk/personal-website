@@ -3,15 +3,20 @@ title: "Multivariate Methods"
 description: "New methods for multivariate analysis of power quality measurements"
 sort-date: 2024-01-01
 image: featured.jpg
-categories:
-  - Data Mining
-  - Time Series Analysis
-  - Indices
-  - Power Quality
-  - Measurement
 ---
 
-Duration
-: 2024&ndash;2026
+**Description:** Power-quality monitoring in modern grids produces far more measurement data than current
+evaluation practice makes use of: analyses today are mostly limited to simple weekly
+pass/fail checks against fixed limit values, leaving most of the information about how
+quality parameters actually behave over time unused. This project develops multivariate
+analysis methods that go beyond that, identifying similarities in the shape of quality-parameter
+time series and quantifying correlations between parameters, measurement sites and evaluation
+periods. The resulting indices aim to reveal patterns and trends in power quality that
+standard evaluations currently miss, supporting earlier detection of emerging issues, better
+planning of measurement campaigns, and more well-founded future standards.
+
+**Duration:** 01/2024&ndash;12/2026
+
+**Keywords:** Data Mining, Time Series Analysis, Indices, Power Quality, Measurement
 
 [Project details (GEPRIS)](https://gepris.dfg.de/gepris/projekt/521923789?language=en){.btn .btn-outline-primary .btn-sm}
