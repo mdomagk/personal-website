@@ -23,6 +23,9 @@ tags:
 - Harmonics
 ---
 
+Location
+: Hamburg, Germany
+
 Links
 : [DOI](https://doi.org/10.1049/gtd2.70062){.btn .btn-outline-primary .btn-sm}
 
