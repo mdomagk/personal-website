@@ -18,4 +18,8 @@ tags:
 - Classification
 ---
 
+**Abstract:** The number of devices capable to measure Power Quality (PQ) parameters has continuously been increasing in all voltage levels. Consequently, the amount of available PQ data is also growing very fast. This data contain a lot of valuable information about the behaviour of PQ, but up to now, it is mostly used only to assess compliance with limits (e.g. EN 50160 in Europe). Beside long-term characteristics (trends) and medium-term characteristics (seasonal effects), in particular the analysis of short-term characteristics can provide useful information about deviations from a "typical" behaviour, which are usually caused by significant changes in customer or network behaviour (e.g. connection of new disturbing equipment). As manual screening of the data is not feasible, automated methods to identify such "anomalies" are required. A classification scheme of anomalies in PQ measurements is introduced and applied for selected examples. In order to identify anomaly consisting of multiple values new method is presented. Finally, performance of the method is assessed and anomalous days are classified according to introduced scheme.
+
+**Keywords:** Power Quality, Time Series Analysis, Data Mining, Anomaly Detection, Classification
+
 [DOI](https://doi.org/10.1109/PMAPS.2018.8440460){.btn .btn-outline-primary .btn-sm}

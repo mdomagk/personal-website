@@ -18,4 +18,8 @@ tags:
 - Correlation Analysis
 ---
 
+**Abstract:** Distribution networks face significant changes, like increase of renewables or large-scale introduction of electric vehicles. This has a significant impact on Power Quality (PQ) and consequently network operators install an increasing number of PQ instruments to monitor their networks. To analyse these large amounts of data in an efficient way, automatic data mining methods are required. This paper presents a method to identify correlations in the trend of different power quality parameters at the same or different sites. Such correlations can be used to identify general trends or causes of an observed behaviour. The method is applied to field measurements (3 years at 21 sites) taken in the network of State grid, one of the major Chinese network operators. The results show that similarity in trends does rarely exist between PQ parameters and between measurement sites.
+
+**Keywords:** Power Quality, Time Series Analysis, Data Mining, Correlation Analysis
+
 [DOI](https://doi.org/10.1049/icp.2021.1489){.btn .btn-outline-primary .btn-sm}

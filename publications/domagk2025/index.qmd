@@ -17,4 +17,8 @@ tags:
 - Power Quality
 ---
 
+**Abstract:** The growing complexity of modern power transmission networks and widespread use of non-linear loads and power-electronic have intensified the need for comprehensive Power Quality (PQ) measurement campaigns. These measurements are essential for assessing harmonic emission levels, characterizing harmonic unbalance, and improving harmonic propagation models and simulations. This study investigates the critical role of measurement uncertainty, particularly how uncertainties in the phase domain propagate into the sequence domain and may affect the analysis of harmonic unbalance. Non-characteristic sequence components with small magnitudes are especially susceptible to high uncertainty, compromising the harmonic assessment accuracy. A relative unbalance level (RUL) is used to identify magnitudes, below which sequence components should be excluded from further analysis. These findings support the application of uncertainty-aware data filtering to enhance the reliability of harmonic evaluations. This is demonstrated in a practical case study.
+
+**Keywords:** Measurements, Measurement Uncertainty, Harmonics, Power Quality
+
 [DOI](https://doi.org/10.30420/566633014){.btn .btn-outline-primary .btn-sm}

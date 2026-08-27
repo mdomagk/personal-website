@@ -20,4 +20,8 @@ tags:
 - Survey
 ---
 
+**Abstract:** The limitation of harmonic currents emitted by individual equipment and customer installations is essential in order to maintain harmonic voltages below compatibility or planning levels and consequently to ensure Electromagnetic Compatibility (EMC). At present, a large variety of methods exists worldwide for calculating harmonic emission limits, majorly expressed as harmonic currents. A systematic search on available methods has been performed for more than 70 countries from all over the world. Finally 16 individual methods for low voltage (LV), medium voltage (MV) and high voltage (HV) networks have been selected for a detailed quantitative comparison based on a probabilistic approach. This paper compares harmonic emission limits of the different methods for individual customer installation and is focused on generating installations. The first part provides details about the framework of comparison; the second part summarizes the results for the different voltage levels.
+
+**Keywords:** Harmonics, Harmonic Emission Limits, Network Harmonic Impedance, Standards, Survey
+
 [DOI](https://doi.org/10.1109/PTC.2017.7981206){.btn .btn-outline-primary .btn-sm}

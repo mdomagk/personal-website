@@ -20,4 +20,8 @@ tags:
 - Modeling
 ---
 
+**Abstract:** Harmonic voltages are important voltage quality parameters defined in EN 50160. For harmonic voltage studies in electricity networks, harmonic emission of loads is often modelled as harmonic current source. In this paper harmonic current sources were parameterised on the basis of measurements of total harmonic current emission of several different low voltage networks. Measurements from low voltage networks with different typical customer configurations were used: residential, offices and PV. A real medium voltage electricity distribution network of an Austrian distribution system operator, with significant consumption of residential and office customers, was chosen for this analysis. In order to automate the harmonic load flow calculations in DIgSILENT PowerFactory for every 10-minute interval of one week, a script in DIgSILENT Programming Language - DPL was developed. Harmonic voltage results from the harmonic load flow simulation are compared with the results of harmonic voltage measurements from power quality monitoring system installed in this network. The goal of this paper is to assess the suitability of the approach, where only background harmonics and key harmonic current sources are modelled. Since the approach provided good results, it can be used in future work as a basis for optimising the number and locations of power quality monitors in electricity distribution networks.
+
+**Keywords:** Harmonics, Power Quality, Measurement, Modeling
+
 [DOI](https://doi.org/10.1109/PQ.2016.7724093){.btn .btn-outline-primary .btn-sm}

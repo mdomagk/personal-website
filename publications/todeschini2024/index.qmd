@@ -19,4 +19,8 @@ tags:
 - Modeling
 ---
 
+**Abstract:** A recent collaboration between the TUD Dresden University of Technology and King's College London explored the challenges associated with modeling the harmonic impedance of distribution systems and assessing its effects at higher voltage levels. Two network models, incorporating both transmission and distribution system representations, were utilized. For each model, different parameters were considered for sensitivity studies, and the harmonic impedance at the transmission level was computed for each scenario. The findings indicate that some of the parameters result in notable effects only locally, while others impact impedance at the transmission system buses. Common parameters that affect both networks are identified, and future work is outlined.
+
+**Keywords:** Power Quality, Network Harmonic Impedance, Sensitivity Analysis, Modeling
+
 [DOI](https://doi.org/10.1109/ICHQP61174.2024.10768833){.btn .btn-outline-primary .btn-sm}

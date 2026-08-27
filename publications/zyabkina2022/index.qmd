@@ -20,4 +20,8 @@ tags:
 - Pattern Recognition
 ---
 
+**Abstract:** Power grids face significant changes, like increase of renewables or large-scale introduction of electric vehicles. This has a significant impact on Power Quality. Consequently, network operators conduct extensive measurement campaigns that result in large amount of data. This data contain information about the disturbance characteristics that can be extracted using machine learning methods. This paper present a method to identify typical disturbance patterns in daily time series of Power Quality parameters. The recognition of patterns can be used to study similarities or differences between measurement sites, monitor the Power Quality conditions of a particular site and to detect the change in emission behaviour over time. All this information enables a more pointed Power Quality management for the network operator, e.g. to react as early as possible to changes in disturbance patterns. The proposed method is applied to long-term field measurements recorded at different 110-kV-network supplying large cities in China.
+
+**Keywords:** Data Mining, Power Quality, Time Series Analysis, Pattern Recognition
+
 [DOI](https://doi.org/10.1049/icp.2022.2152){.btn .btn-outline-primary .btn-sm}

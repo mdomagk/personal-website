@@ -22,4 +22,8 @@ tags:
 - Inverter
 ---
 
+**Abstract:** The harmonic emission of wind turbines and PV inverters is usually determined by field measurements. Consequently it is influenced by several external factors like supply voltage, the network impedeance or the point of operation. Within the framework of the research project "NetzHarmonie", which is funded by the German government, new methods to evaluate harmonic emission in the grid are explored. This paper is the first part of a publication presenting measurement results from field tests and test benches. This paper paper focuses on tests that were performed in order to analyze the response of PV inverters for specific external factors.
+
+**Keywords:** Harmonics, Modeling, Background Distortion, Network Harmonic Impedance, Inverter
+
 [DOI](https://doi.org/10.24406/publica-fhg-408356){.btn .btn-outline-primary .btn-sm}

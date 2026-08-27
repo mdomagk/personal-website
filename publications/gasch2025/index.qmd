@@ -18,4 +18,8 @@ tags:
 - Probabilistic Assessment
 ---
 
+**Abstract:** Conducting voltage quality surveys in electric power systems can be particularly challenging, especially in medium voltage or low voltage grids, where the number of potential measurement sites can potentially reach up to several ten thousand or even more. Measuring voltage quality at every site is not feasible due to high effort and costs of installing and managing the measurement devices as well as the generated amount of data. Consequently, the number of measurement sites should be limited to a reasonable number. This paper analyses suitable approaches for reducing the number of measurement sites based on real measurement data. It focuses on determining the number of sites needed to determine the voltage quality of the grid according to EN 50160 with reasonable confidence. For this task two sets of measurement data are used. One dataset is obtained from the MV network of one grid operator with a large amount of measured sites. The second dataset is collected from MV networks of six different grid operators, each with fewer available measurements sites. From the results it can be observed that approximately 200 measurement sites result in a reasonable confidence that does increase only minimal beyond 200 measurement sites. Increasing the number of measurement sites consequently does not significantly improve results.
+
+**Keywords:** Power Quality, Voltage Quality, Monitoring Campaign, Probabilistic Assessment
+
 [DOI](https://doi.org/10.1049/icp.2025.2150){.btn .btn-outline-primary .btn-sm}

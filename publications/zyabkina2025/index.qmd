@@ -23,4 +23,8 @@ tags:
 - Harmonics
 ---
 
+**Abstract:** With the proliferation of harmonic sources, network operators face significant challenges in identifying and interpreting sudden changes in harmonic emission behaviour due to the large volume of power quality data and the lack of automated analysis tools. This article introduces a novel algorithm that detects and characterises atypical harmonic emission patterns based on a comprehensive framework that includes data preparation, anomaly detection, and knowledge acquisition stages. By employing context-based features, the underlying data properties of both typical and atypical patterns are captured effectively. Sliding-window thresholds enable a flexible adaption of the algorithm to variations caused by seasonality and trends. In the knowledge acquisition stage, the significance and properties of atypical patterns are summarised using aggregated anomaly scores, significance categories, and a classification scheme. The algorithm's effectiveness is demonstrated through its application to over 5000 harmonic time series collected in the transmission system in Germany.
+
+**Keywords:** Big Data, Data Mining, Feature Extraction, Pattern Recognition, Time Series Analysis, Power Quality, Harmonics
+
 [DOI](https://doi.org/10.1049/gtd2.70062){.btn .btn-outline-primary .btn-sm}

@@ -17,4 +17,8 @@ tags:
 - Public Low Voltage Network
 ---
 
+**Abstract:** The total harmonic current emission in a public low-voltage (LV) network is mainly determined by the large number of electronic devices, which use different circuit topologies with different harmonic emission characteristics. Consequently, the total harmonic current measured at the LV busbar can provide valuable qualitative information, for example, about dominating circuit topologies. This paper describes and applies a methodology to characterize the harmonic current emission of an LV network by a prevailing phasor. Using measurements from 130 German public LV networks, the "prevailing" location of 3rd and 5th harmonic current is analyzed with respect to different types of consumers. The results are compared with initial measurements received from other countries. Based on the prevailing phasor, a simplified method for an approximate estimation of the impact (cancellation potential) of a particular LV network or a new equipment technology (e.g., electric-vehicle charging) on the harmonic levels in a public distribution network is proposed.
+
+**Keywords:** Power System Harmonics, Harmonic Phase Angle, Prevailing Harmonic Phasor, Public Low Voltage Network
+
 [DOI](https://doi.org/10.1109/TPWRD.2016.2558187){.btn .btn-outline-primary .btn-sm}

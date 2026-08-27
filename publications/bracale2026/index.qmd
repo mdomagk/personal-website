@@ -19,4 +19,7 @@ tags:
 - Clustering
 ---
 
+**Abstract:** Current and voltage harmonic forecasts are expected to find applications in novel management strategies of power systems. By identifying shared characteristics within harmonic patterns through an input data preprocessing stage, specialized forecasting models can be tailored to each time series object resulting from the preprocessing stage. However, the diversified nature of patterns, which can be representative of weekly periodicities, long-term trends, and winter/summer seasonalities, may affect the forecast accuracy. This paper develops and compares three preprocessing techniques, including clustering, detrending and decomposition, designed to capture these temporal characteristics of harmonic emission time series. The forecasting methodology applies Quantile Regression (QR) models to the preprocessed time series objects to build individual probabilistic predictions, and a Beta-transformed Linear Pooling (BLP) to eventually reconstruct the prediction of the target harmonic. Numerical experiments based on actual harmonic field data demonstrate that the preprocessing stage improves performance by 37% to 41% relative to a persistence benchmark.
+
+**Keywords:** Power Quality, Harmonic Distortion, Time Series Decomposition, Detrending Techniques, Probabilistic Forecasting, Clustering
 

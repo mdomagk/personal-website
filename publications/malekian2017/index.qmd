@@ -14,4 +14,6 @@ categories:
 url: https://ieeexplore.ieee.org/document/8278748
 ---
 
+**Abstract:** This paper presents the typical characteristic of German distribution grids (low, medium, and high voltage grids) based on a set of parameters. The main aim is to provide comprehensive input for the development of representative reference networks for power system studies, e.g. on harmonics. The input data is mainly based on a survey among German distribution system operators (DSO), but also based on experiences and previous studies of the authors. Probabilistic simulation are used to obtain realistic distributions for important grid-related parameters like short circuit power. The results are presented separately for the low voltage (LV), medium voltage (MV), and high voltage (HV) grids. Based on the results, a set of reference networks for German LV, MV, and HV grids is proposed.
+
 [Link](https://ieeexplore.ieee.org/document/8278748){.btn .btn-outline-primary .btn-sm}

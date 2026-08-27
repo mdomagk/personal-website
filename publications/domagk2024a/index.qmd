@@ -18,4 +18,8 @@ tags:
 - Harmonics
 ---
 
+**Abstract:** Recent developments, such as the increase in renewable energy sources or the large-scale introduction of electric vehicles, can have a significant impact on Power Quality. As a result, network operators are increasingly installing extensive measurement systems to closely monitor their networks. These systems generate vast amounts of data, which contains highly valuable information that is often underutilized. This paper presents a systematic overview of different use cases for Power Quality data analysis and their potential benefits for network operators. A case study on Estonian transmission system operator (TSO) measurements showcases the practical implementation of some use cases, namely compliance with planning levels, seasonal variations, and trend developments.
+
+**Keywords:** Power Quality, Data Mining, Measurement Campaign, Time Series Analysis, Harmonics
+
 [DOI](https://doi.org/10.1109/ICHQP61174.2024.10768779){.btn .btn-outline-primary .btn-sm}
