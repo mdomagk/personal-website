@@ -45,3 +45,6 @@ format:
     toc: false
     anchor-sections: false
     link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="format-detection" content="telephone=no">
