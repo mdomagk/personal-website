@@ -1,0 +1,17 @@
+---
+title: "Ensemble Forecasting of Power Quality Parameters"
+date: 2026-09-01
+description: "Speaker at ICHQP conference"
+image: featured.png
+event: "22nd International Conference on Harmonics and Quality of Power (ICHQP)"
+location: "Dresden, Germany"
+---
+
+Location
+: {{< meta location >}}
+
+Abstract
+: Presenting a systematic evaluation of individual and ensemble forecasts of power quality parameters.
+
+Materials
+: [[Slides](ICHQP2026_24_Ensemble_Domagk.pdf)]{.pub-links}

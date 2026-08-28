@@ -1,0 +1,17 @@
+---
+title: "Identification and Visualization of Correlation Structures in Large-Scale Power Quality Data"
+date: 2026-09-03
+description: "Speaker at ICHQP conference"
+image: featured.png
+event: "22nd International Conference on Harmonics and Quality of Power (ICHQP)"
+location: "Dresden, Germany"
+---
+
+Location
+: {{< meta location >}}
+
+Abstract
+: Presenting an automated analysis and visualization of correlation structures for large power quality measurement campaigns.
+
+Materials
+: [[Slides](ICHQP2026_50_Cor-Viz_Domagk.pdf)]{.pub-links} [[Poster](ICHQP2026_Poster_Cor-Viz_Domagk.pdf)]{.pub-links}
