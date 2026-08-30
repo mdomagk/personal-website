@@ -3,9 +3,11 @@ title: "Analyse großer Datenmengen der Elektroenergiequalität - Praxisbeispiel
 date: 2025-10-16
 description: "Speaker at OMICRON Fachtagung Diagnostik"
 image: featured.png
-event: "OMICRON Fachtagung Diagnostik"
 location: "Lindau, Germany"
 ---
+
+Event
+: OMICRON Fachtagung Diagnostik
 
 Location
 : {{< meta location >}}

@@ -3,9 +3,11 @@ title: "Ergebnisse aus aktuellen Studien - Unsymmetrie, Harmonische, Emissionen 
 date: 2023-09-21
 description: "Speaker at VDE Fachtagung Netzrückwirkungen"
 image: featured.png
-event: "VDE Fachtagung Netzrückwirkungen"
 location: "Dresden, Germany"
 ---
+
+Event
+: VDE Fachtagung Netzrückwirkungen
 
 Location
 : {{< meta location >}}

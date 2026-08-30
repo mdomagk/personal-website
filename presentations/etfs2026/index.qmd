@@ -3,9 +3,11 @@ title: "Große Power-Quality Messprogramme - Effiziente Implementierung, Visuali
 date: 2026-02-09
 description: "Speaker at ETFS gogreen Seminar"
 image: featured.png
-event: "ETFS gogreen Seminar"
 location: "Straubing, Germany"
 ---
+
+Event
+: ETFS gogreen Seminar
 
 Location
 : {{< meta location >}}

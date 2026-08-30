@@ -3,9 +3,11 @@ title: "Challenges of measurement-based determination of frequency-dependent imp
 date: 2023-05-31
 description: "Speaker at transCampus workshop, King's College London"
 image: featured.png
-event: "transCampus project workshop at King's College London"
 location: "London, United Kingdom"
 ---
+
+Event
+: transCampus project workshop at King's College London
 
 Location
 : {{< meta location >}}

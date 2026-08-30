@@ -3,9 +3,11 @@ title: "Determination of equivalent circuit models for the aggregated representa
 date: 2023-11-08
 description: "Speaker at transCampus workshop, TU Dresden"
 image: featured.png
-event: "transCampus project workshop at TUD Dresden University of Technology"
 location: "Dresden, Germany"
 ---
+
+Event
+: transCampus project workshop at TUD Dresden University of Technology
 
 Location
 : {{< meta location >}}

@@ -3,9 +3,11 @@ title: "Identification and Visualization of Correlation Structures in Large-Scal
 date: 2026-09-03
 description: "Speaker at ICHQP conference"
 image: featured.png
-event: "22nd International Conference on Harmonics and Quality of Power (ICHQP)"
 location: "Dresden, Germany"
 ---
+
+Event
+: 22nd International Conference on Harmonics and Quality of Power (ICHQP)
 
 Location
 : {{< meta location >}}

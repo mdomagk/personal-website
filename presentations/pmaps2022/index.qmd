@@ -3,9 +3,11 @@ title: "Probabilistic Study of Propagation and Summation of Harmonics in Transmi
 date: 2022-06-01
 description: "Invited speaker at PMAPS conference"
 image: featured.png
-event: "17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)"
 location: "Manchester, United Kingdom (online)"
 ---
+
+Event
+: 17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)
 
 Location
 : {{< meta location >}}
