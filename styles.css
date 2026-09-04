@@ -150,6 +150,79 @@ div.quarto-about-jolla .about-link:hover {
   font-size: 1rem;
 }
 
+/* Research-Hero: Netz-zu-Messdaten-zu-Insights-Illustration ueber dem
+   Intro-Text. Jedes Icon ist ein eigenes SVG mit fester Pixelbreite statt
+   einer einzigen grossen SVG mit Text darin -- so skaliert die Beschriftung
+   nicht proportional mit der Grafik mit (waere auf schmalen Screens
+   unlesbar klein geworden), sondern bleibt normaler, responsiver HTML-Text.
+   Alle drei Icons teilen dieselbe viewBox (120x100) statt ihr natuerliches
+   Seitenverhaeltnis zu behalten -- Mast und Welle sind eigens dafuer
+   proportional angeglichen, damit die Captions ohne Alignment-Trick auf
+   gleicher Hoehe stehen. Icon-Farbe laeuft ueber var(--bs-link-color)
+   automatisch mit Light/Dark-Theme mit (wie .pub-links). Caption-Farbe
+   folgt der gleichen Grauabstufung wie die Steckbrief-dt-Eintraege der
+   Presentations-Seiten. Unter 576px (Handy-Breite) stapelt sich die Reihe
+   vertikal, Pfeile drehen sich entsprechend auf 90 Grad. */
+.research-hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem 1.5rem;
+  max-width: 56rem;
+  margin: 0 auto 2rem auto;
+}
+.research-hero .hero-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+.research-hero .hero-icon {
+  width: 130px;
+  height: auto;
+  flex-shrink: 0;
+}
+.research-hero .hero-arrow {
+  display: flex;
+  align-items: center;
+}
+.research-hero .hero-arrow svg {
+  width: 40px;
+  height: 25px;
+  display: block;
+  flex-shrink: 0;
+}
+.research-hero .hero-caption {
+  margin: 0;
+  font-size: 0.95rem;
+  color: rgb(80, 91, 102);
+}
+body.quarto-dark .research-hero .hero-caption {
+  color: rgb(173, 181, 189);
+}
+.research-hero .hero-line {
+  stroke: var(--bs-link-color);
+}
+.research-hero .hero-fill {
+  fill: var(--bs-link-color);
+}
+.research-hero .hero-arrow-fill {
+  fill: rgb(80, 91, 102);
+  opacity: 0.45;
+}
+body.quarto-dark .research-hero .hero-arrow-fill {
+  fill: rgb(173, 181, 189);
+}
+@media (max-width: 576px) {
+  .research-hero {
+    flex-direction: column;
+  }
+  .research-hero .hero-arrow svg {
+    transform: rotate(90deg);
+  }
+}
+
 /* Presentations-Detailseiten: Steckbrief-artige Fakten-Liste (Location,
    Abstract, Materials) als Pandoc-Definitionsliste statt Fliesstext mit
    Fettdruck und Gedankenstrich. */

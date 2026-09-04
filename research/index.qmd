@@ -8,6 +8,63 @@ listing:
   fields: [image, title, description]
 ---
 
+```{=html}
+<div class="research-hero">
+<div class="hero-step">
+<svg class="hero-icon" viewBox="0 0 120 100" aria-hidden="true">
+<g class="hero-line" fill="none" stroke-width="2" stroke-linecap="round">
+<path d="M35,92 L50,12"/>
+<path d="M85,92 L70,12"/>
+<path d="M50,12 L42,6"/>
+<path d="M70,12 L78,6"/>
+<line x1="40" y1="32" x2="80" y2="32"/>
+<line x1="30" y1="55" x2="90" y2="55"/>
+<path d="M40,58 L80,92"/>
+<path d="M80,58 L40,92"/>
+</g>
+<line class="hero-line" x1="15" y1="92" x2="105" y2="92" stroke-width="1" opacity="0.3"/>
+<g class="hero-fill">
+<circle cx="40" cy="32" r="2.5"/>
+<circle cx="80" cy="32" r="2.5"/>
+<circle cx="30" cy="55" r="2.5"/>
+<circle cx="90" cy="55" r="2.5"/>
+</g>
+</svg>
+<p class="hero-caption">Power systems</p>
+</div>
+<div class="hero-arrow" aria-hidden="true">
+<svg viewBox="0 0 32 20"><rect class="hero-arrow-fill" x="2" y="8" width="14" height="4"/><polygon class="hero-arrow-fill" points="16,2 30,10 16,18"/></svg>
+</div>
+<div class="hero-step">
+<svg class="hero-icon" viewBox="0 0 120 100" aria-hidden="true">
+<line class="hero-line" x1="0" y1="50" x2="120" y2="50" stroke-width="1" opacity="0.15"/>
+<path class="hero-line" d="M0,50 C4,42 8,42 12,50 C16,58 20,58 24,50 C28,42 32,42 36,50 C40,58 44,58 48,50 C52,42 56,42 60,50 C64,58 68,58 72,50 C76,42 80,42 84,50 C88,58 92,58 96,50 C100,42 104,42 108,50 C112,58 116,58 120,50" fill="none" stroke-width="1" opacity="0.35"/>
+<path class="hero-line" d="M0,50 C10,20 19,20 29,50 C38,80 48,80 58,50 C67,20 77,20 86,50 C96,80 106,80 115,50 C118,50 119,50 120,50" fill="none" stroke-width="2.5"/>
+</svg>
+<p class="hero-caption">Measurement data</p>
+</div>
+<div class="hero-arrow" aria-hidden="true">
+<svg viewBox="0 0 32 20"><rect class="hero-arrow-fill" x="2" y="8" width="14" height="4"/><polygon class="hero-arrow-fill" points="16,2 30,10 16,18"/></svg>
+</div>
+<div class="hero-step">
+<svg class="hero-icon" viewBox="0 0 120 100" aria-hidden="true">
+<g class="hero-fill" opacity="0.5">
+<circle cx="15" cy="55" r="3"/>
+<circle cx="28" cy="30" r="3"/>
+<circle cx="35" cy="65" r="3"/>
+<circle cx="45" cy="42" r="3"/>
+<circle cx="52" cy="70" r="3"/>
+<circle cx="60" cy="25" r="3"/>
+<circle cx="68" cy="50" r="3"/>
+</g>
+<circle class="hero-line" cx="100" cy="18" r="11" fill="none" stroke-width="1.5" opacity="0.4"/>
+<circle class="hero-fill" cx="100" cy="18" r="5"/>
+</svg>
+<p class="hero-caption">Insights</p>
+</div>
+</div>
+```
+
 My research applies data analysis and data mining methods to electrical power systems, with a
 particular focus on power quality. The ongoing transition towards renewable energy sources
 and electric vehicles is impacting electrical power systems, and network operators are
