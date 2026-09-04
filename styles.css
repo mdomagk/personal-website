@@ -86,8 +86,12 @@ div.quarto-about-jolla .about-link:hover {
    Hoehenbegrenzung zieht sich das GridData-Logo bei gleicher Spaltenbreite
    deutlich hoeher. object-fit: contain statt Quartos Default (cover), sonst
    wuerde das schmalere DFG-Banner angeschnitten. */
+/* margin-bottom: die Zeile ragt sonst nur ~7px ueber die Bildhoehe hinaus,
+   wodurch die Trennlinie zum naechsten Projekt fast am Bild klebt (faellt
+   v.a. beim ersten Eintrag auf, da danach noch eine Linie folgt). */
 #projects .thumbnail img {
   height: 6rem;
+  margin-bottom: 0.75rem;
   object-fit: contain;
 }
 
