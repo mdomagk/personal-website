@@ -3,9 +3,11 @@ title: "Impact of discontinuous measurements on the trend analysis of Power Qual
 date: 2023-06-14
 description: "Co-author at CIRED conference"
 image: featured.png
-event: "2023 27th International Conference and Exhibition on Electricity Distribution (CIRED)"
 location: "Rome, Italy"
 ---
+
+Event
+: 2023 27th International Conference and Exhibition on Electricity Distribution (CIRED)
 
 Location
 : {{< meta location >}}

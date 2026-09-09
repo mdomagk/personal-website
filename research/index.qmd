@@ -8,17 +8,74 @@ listing:
   fields: [image, title, description]
 ---
 
-My research is broadly focused on electrical power systems, with a specific emphasis on
-power quality aspects, such as voltage and current distortion. Recent changes, such as the
-increase in renewable energy sources and the large-scale introduction of electric vehicles,
-have significantly impacted power quality. As a result, network operators are increasingly
-installing extensive measurement systems to closely monitor their networks, leading to vast
-amounts of data.
+```{=html}
+<div class="research-hero">
+<div class="hero-step">
+<svg class="hero-icon" viewBox="0 0 120 100" aria-hidden="true">
+<g class="hero-line" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M50,92 L56,52 L59,28 L60,8"/>
+<path d="M70,92 L64,52 L61,28 L60,8"/>
+</g>
+<g class="hero-line" fill="none" stroke-width="1" opacity="0.4">
+<path d="M69,88 L53,74 L65,60 L57,46 L61,32"/>
+<path d="M51,88 L67,74 L55,60 L63,46 L59,32"/>
+</g>
+<g class="hero-line" fill="none" stroke-width="1.75">
+<line x1="38" y1="40" x2="82" y2="40"/>
+<line x1="44" y1="28" x2="76" y2="28"/>
+</g>
+<line class="hero-line" x1="35" y1="92" x2="85" y2="92" stroke-width="1" opacity="0.3"/>
+<g class="hero-line" stroke-width="1.75" stroke-linecap="round">
+<line x1="38" y1="40" x2="38" y2="46"/>
+<line x1="50" y1="40" x2="50" y2="46"/>
+<line x1="70" y1="40" x2="70" y2="46"/>
+<line x1="82" y1="40" x2="82" y2="46"/>
+<line x1="44" y1="28" x2="44" y2="33"/>
+<line x1="76" y1="28" x2="76" y2="33"/>
+</g>
+</svg>
+<p class="hero-caption">Power systems</p>
+</div>
+<div class="hero-arrow" aria-hidden="true">
+<svg viewBox="0 0 32 20"><rect class="hero-arrow-fill" x="2" y="8" width="14" height="4"/><polygon class="hero-arrow-fill" points="16,2 30,10 16,18"/></svg>
+</div>
+<div class="hero-step">
+<svg class="hero-icon" viewBox="0 0 120 100" aria-hidden="true">
+<line class="hero-line" x1="0" y1="50" x2="120" y2="50" stroke-width="1" opacity="0.15"/>
+<path class="hero-line" d="M0,50 C4,39 8,39 12,50 C16,61 20,61 24,50 C28,39 32,39 36,50 C40,61 44,61 48,50 C52,39 56,39 60,50 C64,61 68,61 72,50 C76,39 80,39 84,50 C88,61 92,61 96,50 C100,39 104,39 108,50 C112,61 116,61 120,50" fill="none" stroke-width="1" opacity="0.35"/>
+<path class="hero-line" d="M0,50 C10,10 19,10 29,50 C38,90 48,90 58,50 C67,10 77,10 86,50 C96,90 106,90 115,50 C118,50 119,50 120,50" fill="none" stroke-width="2.5"/>
+</svg>
+<p class="hero-caption">Measurement data</p>
+</div>
+<div class="hero-arrow" aria-hidden="true">
+<svg viewBox="0 0 32 20"><rect class="hero-arrow-fill" x="2" y="8" width="14" height="4"/><polygon class="hero-arrow-fill" points="16,2 30,10 16,18"/></svg>
+</div>
+<div class="hero-step">
+<svg class="hero-icon" viewBox="0 0 120 100" aria-hidden="true">
+<g class="hero-fill" opacity="0.5">
+<circle cx="15" cy="69" r="3"/>
+<circle cx="28" cy="37" r="3"/>
+<circle cx="35" cy="82" r="3"/>
+<circle cx="45" cy="53" r="3"/>
+<circle cx="52" cy="88" r="3"/>
+<circle cx="60" cy="31" r="3"/>
+<circle cx="68" cy="63" r="3"/>
+</g>
+<circle class="hero-line" cx="100" cy="22" r="11" fill="none" stroke-width="1.5" opacity="0.4"/>
+<circle class="hero-fill" cx="100" cy="22" r="5"/>
+</svg>
+<p class="hero-caption">Insights</p>
+</div>
+</div>
+```
 
-In my research, I employ data analysis and data mining methods to efficiently analyze this
-data and extract valuable insights. By doing so, I aim to contribute to identifying power
-quality issues, the optimization of system performance, and the overall enhancement of the
-reliability of electrical power systems.
+My research applies data analysis and data mining methods to electrical power systems, with a
+particular focus on power quality. The ongoing transition towards renewable energy sources
+and electric vehicles is impacting electrical power systems, and network operators are
+responding with extensive measurement campaigns that generate vast amounts of data. I develop
+methods to efficiently analyze this data and extract insights
+that help identify issues, optimize system performance, and improve the reliability of
+electrical power systems.
 
 ## Projects
 

@@ -3,9 +3,11 @@ title: "Uncertainty in the Assessment of Harmonic Voltages and Currents in Seque
 date: 2025-09-16
 description: "Speaker at NEIS conference"
 image: featured.png
-event: "NEIS 2025 Conference on Sustainable Energy Supply and Energy Storage Systems"
 location: "Hamburg, Germany"
 ---
+
+Event
+: NEIS 2025 Conference on Sustainable Energy Supply and Energy Storage Systems
 
 Location
 : {{< meta location >}}

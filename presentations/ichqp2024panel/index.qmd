@@ -3,9 +3,11 @@ title: "Analysis and Visualization of Large-Scale Power Quality Monitoring Campa
 date: 2024-10-17
 description: "Panel speaker at ICHQP conference"
 image: featured.png
-event: "21st International Conference on Harmonics and Quality of Power (ICHQP)"
 location: "Chengdu, China"
 ---
+
+Event
+: 21st International Conference on Harmonics and Quality of Power (ICHQP)
 
 Location
 : {{< meta location >}}

@@ -86,8 +86,12 @@ div.quarto-about-jolla .about-link:hover {
    Hoehenbegrenzung zieht sich das GridData-Logo bei gleicher Spaltenbreite
    deutlich hoeher. object-fit: contain statt Quartos Default (cover), sonst
    wuerde das schmalere DFG-Banner angeschnitten. */
+/* margin-bottom: die Zeile ragt sonst nur ~7px ueber die Bildhoehe hinaus,
+   wodurch die Trennlinie zum naechsten Projekt fast am Bild klebt (faellt
+   v.a. beim ersten Eintrag auf, da danach noch eine Linie folgt). */
 #projects .thumbnail img {
   height: 6rem;
+  margin-bottom: 0.75rem;
   object-fit: contain;
 }
 
@@ -96,6 +100,23 @@ div.quarto-about-jolla .about-link:hover {
    gross, daher weiter verkleinert. */
 #listing-presentations .thumbnail {
   flex-basis: 18%;
+}
+/* Reihenabstand: Quartos Default-Listing laesst die Eintraege je nach
+   Titel-/Description-Laenge unterschiedlich eng aneinander ruecken, die
+   Vorschaubilder wirken dadurch stellenweise fast zusammenstossend. Fester
+   Abstand analog zur Publications-Liste (.pub-entry padding: 0.7rem 0). */
+#listing-presentations .quarto-post {
+  margin-bottom: 1.4rem;
+  padding-bottom: 1.4rem;
+  border-bottom: 1px solid rgb(222, 226, 230);
+}
+body.quarto-dark #listing-presentations .quarto-post {
+  border-bottom-color: rgb(73, 80, 87);
+}
+#listing-presentations .quarto-post:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
 }
 /* Bild auf die Hoehe von zweizeiligem Titel + einzeiliger Description
    festlegen (statt an das eigene Seitenverhaeltnis strecken zu lassen --
@@ -148,6 +169,84 @@ div.quarto-about-jolla .about-link:hover {
 }
 #listing-presentations .listing-title {
   font-size: 1rem;
+}
+
+/* Research-Hero: Netz-zu-Messdaten-zu-Insights-Illustration ueber dem
+   Intro-Text. Jedes Icon ist ein eigenes SVG mit fester Pixelbreite statt
+   einer einzigen grossen SVG mit Text darin -- so skaliert die Beschriftung
+   nicht proportional mit der Grafik mit (waere auf schmalen Screens
+   unlesbar klein geworden), sondern bleibt normaler, responsiver HTML-Text.
+   Alle drei Icons teilen dieselbe viewBox (120x100) statt ihr natuerliches
+   Seitenverhaeltnis zu behalten -- Mast und Welle sind eigens dafuer
+   proportional angeglichen, damit die Captions ohne Alignment-Trick auf
+   gleicher Hoehe stehen. Icon-Farbe laeuft ueber var(--bs-link-color)
+   automatisch mit Light/Dark-Theme mit (wie .pub-links). Caption-Farbe
+   folgt der gleichen Grauabstufung wie die Steckbrief-dt-Eintraege der
+   Presentations-Seiten. Unter 576px (Handy-Breite) stapelt sich die Reihe
+   vertikal, Pfeile drehen sich entsprechend auf 90 Grad. */
+.research-hero {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem 1.5rem;
+  max-width: 56rem;
+  margin: 0 auto 2rem auto;
+}
+.research-hero .hero-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+.research-hero .hero-icon {
+  width: 130px;
+  height: auto;
+  flex-shrink: 0;
+}
+.research-hero .hero-arrow {
+  display: flex;
+  align-items: center;
+  margin-top: 46px;
+}
+.research-hero .hero-arrow svg {
+  width: 26px;
+  height: 16px;
+  display: block;
+  flex-shrink: 0;
+}
+.research-hero .hero-caption {
+  margin: 0;
+  font-size: 0.95rem;
+  color: rgb(80, 91, 102);
+}
+body.quarto-dark .research-hero .hero-caption {
+  color: rgb(173, 181, 189);
+}
+.research-hero .hero-line {
+  stroke: var(--bs-link-color);
+}
+.research-hero .hero-fill {
+  fill: var(--bs-link-color);
+}
+.research-hero .hero-arrow-fill {
+  fill: rgb(80, 91, 102);
+  opacity: 0.45;
+}
+body.quarto-dark .research-hero .hero-arrow-fill {
+  fill: rgb(173, 181, 189);
+}
+@media (max-width: 576px) {
+  .research-hero {
+    flex-direction: column;
+    align-items: center;
+  }
+  .research-hero .hero-arrow {
+    margin-top: 0;
+  }
+  .research-hero .hero-arrow svg {
+    transform: rotate(90deg);
+  }
 }
 
 /* Presentations-Detailseiten: Steckbrief-artige Fakten-Liste (Location,
