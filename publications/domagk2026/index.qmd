@@ -4,11 +4,11 @@ author:
 - Max Domagk
 - Jan Meyer
 - Marco Lindner
-date: 2026-03-13
-description: "Preprint (arXiv)"
+date: 2026-09-01
+description: "2026 22nd International Conference on Harmonics & Quality of Power (ICHQP)"
 arxiv: "2603.12948"
 categories:
-- Preprint
+- Conference paper
 tags:
 - Power Quality
 - Correlation Analysis
@@ -17,6 +17,10 @@ tags:
 - Clustering
 - Multidimensional Scaling
 ---
+
+
+Location
+: Dresden, Germany
 
 Links
 : [arXiv](https://doi.org/10.48550/arXiv.2603.12948){.btn .btn-outline-primary .btn-sm}

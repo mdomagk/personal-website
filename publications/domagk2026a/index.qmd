@@ -6,11 +6,11 @@ author:
   - Jan Meyer
   - Marco Lindner
   - Jako Kilter
-date: 2026-03-03
-description: "Preprint (arXiv)"
+date: 2026-09-01
+description: "2026 22nd International Conference on Harmonics & Quality of Power (ICHQP)"
 arxiv: "2603.02706"
 categories:
-  - Preprint
+- Conference paper
 tags:
   - Power Quality
   - Transmission Systems
@@ -18,6 +18,9 @@ tags:
   - Long-term Forecasting
   - Ensemble Forecasting
 ---
+
+Location
+: Dresden, Germany
 
 Links
 : [arXiv](https://doi.org/10.48550/arXiv.2603.02706){.btn .btn-outline-primary .btn-sm}

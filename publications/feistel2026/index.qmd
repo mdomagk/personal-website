@@ -1,0 +1,25 @@
+---
+title: "Predictability Measures for Power Quality Time Series in Medium-Term Forecasting"
+author:
+  - Peter Feistel
+  - Max Domagk
+  - Jan Meyer
+  - Marco Lindner
+date: 2026-09-14
+description: "Manuscript in preparation"
+categories:
+- Preprint
+tags:
+  - Power quality
+  - Harmonic distortion
+  - Time series analysis
+  - Forecasting
+  - Entropy
+  - Predictability
+---
+
+Keywords
+: Power Quality, Transmission Systems, Time Series Analysis, Long-term Forecasting, Ensemble Forecasting
+
+Abstract
+: Medium-term forecasting of Power Quality (PQ) parameters, on horizons of weeks to about one year, supports proactive maintenance and the early detection of limit exceedances in transmission network monitoring. Its practical value, however, depends on knowing in advance which time series can be forecast reliably at all. This article addresses that question in two stages, based on 2,807 weekly time series of PQ parameters from a long- term measurement campaign at 66 sites in the German transmission system, covering the 110 kV, 220 kV, and 380 kV levels. First, eight forecasting models are benchmarked. The STL- ARIMA hybrid achieves the highest accuracy, with an average sMAPE of 17.63% and a lower error than the seasonal naive benchmark for 72% of the time series, while accuracy varies substantially across PQ parameters and measurement sites. Second, model-free features computed from the training set alone are evaluated as measures of intrinsic predictability. SVD entropy and the Crest Factor correlate strongly with the realized forecast accuracy of all eight models and are used in a logistic regression to estimate the probability of a poor forecast before any model is applied. The resulting measures allow operators to separate time series suitable for automated forecasting from those requiring manual review.
