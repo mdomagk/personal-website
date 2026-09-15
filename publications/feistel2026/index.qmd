@@ -7,6 +7,7 @@ author:
   - Marco Lindner
 date: 2026-09-14
 description: "Manuscript in preparation"
+arxiv: "2609.15519"
 categories:
 - Preprint
 tags:
@@ -17,6 +18,9 @@ tags:
   - Entropy
   - Predictability
 ---
+
+Links
+: [arXiv](https://doi.org/10.48550/arXiv.2609.15519){.btn .btn-outline-primary .btn-sm}
 
 Keywords
 : Power Quality, Transmission Systems, Time Series Analysis, Long-term Forecasting, Ensemble Forecasting
