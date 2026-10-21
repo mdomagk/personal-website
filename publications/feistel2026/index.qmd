@@ -6,7 +6,7 @@ author:
   - Jan Meyer
   - Marco Lindner
 date: 2026-09-14
-description: "Manuscript in preparation"
+description: "Manuscript submitted"
 arxiv: "2609.15519"
 categories:
 - Preprint
