@@ -4,6 +4,7 @@ project:
   render:
     - "*.qmd"
     - "research/**/*.qmd"
+    - "software/**/*.qmd"
     - "publications/**/*.qmd"
     - "presentations/**/*.qmd"
   resources:
@@ -23,6 +24,8 @@ website:
         text: About
       - href: research/index.qmd
         text: Research
+      - href: software/index.qmd
+        text: Software
       - href: publications/index.qmd
         text: Publications
       - href: presentations/index.qmd

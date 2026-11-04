@@ -1,0 +1,61 @@
+---
+title: "PQDM"
+subtitle: "Power Quality Data Mining"
+description: "R package for the analysis of long-term power quality measurements"
+sort-date: 2026-01-01
+image: logo.png
+categories:
+  - R
+  - Power Quality
+  - Data Mining
+  - Measurement
+---
+
+![](logo.png){.software-logo fig-alt="PQDM logo"}
+
+**Description:** PQDM is an R package for the analysis of long-term power quality
+measurements. It implements published methods for the evaluation of weekly 95th percentiles
+derived from 10-minute values: validating the data and its availability, filling gaps, and
+quantifying the quality reserve with respect to limits, seasonal variations and trends. Each
+function refers to the publication that describes its method.
+
+**Status:** under development (version 0.5.1)
+
+**License:** GPL (≥ 3)
+
+[GitHub](https://github.com/mdomagk/PQDM){.btn .btn-outline-primary .btn-sm}
+
+## Methods
+
+| Function | Purpose | Publications |
+|:---------|:--------|:-------------|
+| `pq_validate()` | Check weekly 95th percentiles and their data availability | [Domagk 2022](../../publications/domagk2022/index.qmd), [Domagk 2023](../../publications/domagk2023/index.qmd) |
+| `pq_fill()` | Fill gaps within time series by linear interpolation | [Domagk 2022](../../publications/domagk2022/index.qmd) |
+| `pq_quality_reserve()` | Quality reserve with respect to user-supplied limits | [Gasch 2016](../../publications/gasch2016/index.qmd), [Abdelrahman 2016](../../publications/abdelrahman2016/index.qmd) |
+| `pq_season()` | Identification and quantification of seasonal variations | [Domagk 2015](../../publications/domagk2015a/index.qmd) |
+| `pq_trend()` | Trend components and recent trend gains | [Domagk 2022](../../publications/domagk2022/index.qmd) |
+
+## Installation
+
+```r
+# install.packages("remotes")
+remotes::install_github("mdomagk/PQDM", build_vignettes = TRUE)
+```
+
+## Usage
+
+```r
+library(PQDM)
+
+pq_weekly_example |>
+  pq_validate() |>   # data availability per time series
+  pq_fill() |>       # fill gaps by linear interpolation
+  pq_season()        # seasonal variations
+```
+
+The vignette `vignette("PQDM")` explains the data format and the workflow.
+
+## Citation
+
+If you use PQDM, please cite the publication of the method you applied (see above). The
+package itself can be cited via `citation("PQDM")` in R.

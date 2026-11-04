@@ -6,6 +6,12 @@
       "runtimeExecutable": "C:\\Users\\mdoma\\AppData\\Local\\Programs\\Quarto\\bin\\quarto.cmd",
       "runtimeArgs": ["preview", "--port", "4200", "--no-browser", "--no-watch-inputs"],
       "port": 4200
+    },
+    {
+      "name": "site-static",
+      "runtimeExecutable": "C:\\Python312\\python.exe",
+      "runtimeArgs": ["-m", "http.server", "4201", "--directory", "_site"],
+      "port": 4201
     }
   ]
 }

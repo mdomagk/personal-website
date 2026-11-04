@@ -81,6 +81,26 @@ div.quarto-about-jolla .about-link:hover {
 #projects .thumbnail {
   flex-basis: 45%;
 }
+/* Software-Listing: Paket-Logos sind kleine Hex-Sticker -- schmale
+   Bildspalte, Logo zentriert statt gestreckt. */
+#packages .thumbnail {
+  flex-basis: 20%;
+}
+#packages .thumbnail img {
+  height: 7rem;
+  margin-bottom: 0.75rem;
+  object-fit: contain;
+}
+/* Paket-Detailseite: Logo rechts neben der Beschreibung, wie im README. */
+.software-logo,
+p:has(> img.software-logo) {
+  float: right;
+  margin: 0 0 1rem 1.5rem;
+}
+img.software-logo {
+  height: 139px;
+  width: auto;
+}
 /* Logos/Banner der Projekte haben stark unterschiedliche Seitenverhaeltnisse
    (DFG-Banner 2.7:1 breit, GridData-Logo 1.7:1 quadratischer) -- ohne
    Hoehenbegrenzung zieht sich das GridData-Logo bei gleicher Spaltenbreite

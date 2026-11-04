@@ -1,0 +1,17 @@
+---
+title: "Software"
+listing:
+  id: packages
+  contents: "*/index.qmd"
+  type: default
+  sort: "sort-date desc"
+  fields: [image, title, description]
+---
+
+Parts of my research are available as open-source software, so that the methods can be
+applied to other measurement data and the results can be reproduced.
+
+## Packages
+
+::: {#packages}
+:::
