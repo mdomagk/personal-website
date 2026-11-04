@@ -24,12 +24,12 @@ website:
         text: About
       - href: research/index.qmd
         text: Research
-      - href: software/index.qmd
-        text: Software
       - href: publications/index.qmd
         text: Publications
       - href: presentations/index.qmd
         text: Presentations
+      - href: software/index.qmd
+        text: Software
   search: false
   page-footer:
     left: "&copy; 2026 Max Domagk"
