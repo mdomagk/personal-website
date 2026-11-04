@@ -15,6 +15,7 @@ description: 2022 20th International Conference on Harmonics & Quality of Power 
 categories:
 - Conference paper
 doi: 10.1109/ICHQP53011.2022.9808645
+software: PQDM
 tags:
 - Data Mining
 - Power Quality
@@ -26,7 +27,7 @@ Location
 : Naples, Italy
 
 Links
-: [DOI](https://doi.org/10.1109/ICHQP53011.2022.9808645){.btn .btn-outline-primary .btn-sm}
+: [DOI](https://doi.org/10.1109/ICHQP53011.2022.9808645){.btn .btn-outline-primary .btn-sm} [Software](../../software/pqdm/index.qmd "PQDM – R package"){.btn .btn-outline-primary .btn-sm}
 
 Keywords
 : Data Mining, Power Quality, Time Series Analysis, Trend Identification
