@@ -6,10 +6,11 @@ author:
 - Pasquale De Falco
 - Max Domagk
 - Jan Meyer
-date: 2026-09-01
+date: 2026-08-01
 description: "2026 22nd International Conference on Harmonics & Quality of Power (ICHQP)"
 categories:
 - Conference paper
+doi: 10.1109/ICHQP67927.2026.11756924
 tags:
 - Power Quality
 - Harmonic Distortion
@@ -21,6 +22,9 @@ tags:
 
 Location
 : Dresden, Germany
+
+Links
+: [DOI](https://doi.org/10.1109/ICHQP67927.2026.11756924){.btn .btn-outline-primary .btn-sm}
 
 Keywords
 : Power Quality, Harmonic Distortion, Time Series Decomposition, Detrending Techniques, Probabilistic Forecasting, Clustering

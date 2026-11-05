@@ -4,11 +4,12 @@ author:
 - Max Domagk
 - Jan Meyer
 - Marco Lindner
-date: 2026-09-01
+date: 2026-08-02
 description: "2026 22nd International Conference on Harmonics & Quality of Power (ICHQP)"
 arxiv: "2603.12948"
 categories:
 - Conference paper
+doi: 10.1109/ICHQP67927.2026.11756843
 tags:
 - Power Quality
 - Correlation Analysis
@@ -23,7 +24,7 @@ Location
 : Dresden, Germany
 
 Links
-: [arXiv](https://doi.org/10.48550/arXiv.2603.12948){.btn .btn-outline-primary .btn-sm}
+: [DOI](https://doi.org/10.1109/ICHQP67927.2026.11756843){.btn .btn-outline-primary .btn-sm} [arXiv](https://doi.org/10.48550/arXiv.2603.12948){.btn .btn-outline-primary .btn-sm}
 
 Keywords
 : Power Quality, Correlation Analysis, Harmonics, Data Visualization, Clustering, Multidimensional Scaling
