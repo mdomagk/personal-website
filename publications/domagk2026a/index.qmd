@@ -6,7 +6,7 @@ author:
   - Jan Meyer
   - Marco Lindner
   - Jako Kilter
-date: 2026-08-03
+date: 2026-09-01
 description: "2026 22nd International Conference on Harmonics & Quality of Power (ICHQP)"
 arxiv: "2603.02706"
 categories:

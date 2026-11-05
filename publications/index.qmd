@@ -5,7 +5,9 @@ listing:
   id: publications
   contents: "*/index.qmd"
   template: pub-list.ejs.md
-  sort: "date desc"
+  sort:
+    - "date desc"
+    - "title"
   date-format: "YYYY"
   categories: true
   page-size: 100
