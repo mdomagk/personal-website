@@ -1,10 +1,4 @@
-/* Inter selbst gehostet statt von fonts.googleapis.com geladen (kein
-   Drittanbieter-Request beim Seitenaufruf, kein DSGVO-Thema). Variable
-   Font -- eine Datei deckt alle benoetigten Schnitte ab, nur der
-   Latin-Subset (deckt auch deutsche Umlaute/scharfes S ab). Ueberschriften
-   liefen zwischenzeitlich in Space Grotesk, das fiel im direkten Vergleich
-   mit Navbar/Fliesstext (beide Inter) als Bruch auf -- jetzt einheitlich
-   Inter ueberall, Abstufung nur noch ueber $headings-font-weight. */
+/* Inter selbst gehostet (kein Google-Fonts-Request, DSGVO) */
 @font-face {
   font-family: 'Inter';
   font-style: normal;
@@ -13,9 +7,7 @@
   src: url('fonts/inter-latin.woff2') format('woff2');
 }
 
-/* jolla-Vorlage: Icon-Reihe und Fliesstext (.content) sind von Quarto
-   ungebremst auf die volle Spaltenbreite gesetzt -- auf Lesebreite
-   begrenzen und mittig ausrichten. */
+/* About-Seite (jolla): Text auf Lesebreite begrenzen und zentrieren */
 .quarto-about-jolla > .content {
   max-width: 34em;
   margin-left: auto;
@@ -23,11 +15,7 @@
   text-align: center;
 }
 
-/* Fett im Fliesstext gedaempft statt schwarz -- dieselbe graue Tonlage,
-   die Quarto schon fuer die about-Links verwendet, damit es nicht lauter
-   wirkt als die Links selbst. Im Dark Mode ergibt dasselbe Grau nur
-   ~2.65:1 Kontrast gegen den dunklen Hintergrund (WCAG-Minimum: 4.5:1) --
-   dort ein helleres Grau, das denselben Kontrast wie im Light Mode gibt. */
+/* Fett gedaempft in Grau; im Dark Mode heller fuer ausreichenden Kontrast */
 .quarto-about-jolla > .content strong {
   color: rgb(80, 91, 102);
 }
@@ -35,14 +23,11 @@ body.quarto-dark .quarto-about-jolla > .content strong {
   color: rgb(173, 181, 189);
 }
 
-/* Quartos eigene Zentrierung greift nur bei .description, unser
-   subtitle: liefert aber .subtitle -- dieselbe Regel hier nachziehen. */
 .quarto-about-jolla .quarto-title .subtitle {
   text-align: center;
 }
 
-/* Fliesstext-Links (Bootstrap-Default: text-decoration: underline) nur bei
-   Hover unterstreichen, wie die Icon-Links darunter. */
+/* Links nur bei Hover unterstreichen */
 .quarto-about-jolla > .content a {
   text-decoration: none;
 }
@@ -59,11 +44,7 @@ div.quarto-about-jolla > .about-links {
   row-gap: 0.4rem;
 }
 
-/* Social-Icons der About-Seite kommen aus Quartos eigenem .about-link
-   (Bootstrap-Bundle) grau mit Blau-Hover -- dieselbe Inkonsistenz wie bei
-   .pub-links, hier direkt gegen Bootstraps Regel ueberschrieben. Rahmen
-   braucht keine eigene Farbe: "border: solid 1px" ohne border-color folgt
-   automatisch der Textfarbe (currentColor). */
+/* Social-Icons in Akzentfarbe, Hover fuellt (wie .pub-links) */
 div.quarto-about-jolla .about-link {
   color: var(--bs-link-color);
   background-color: transparent;
@@ -74,23 +55,16 @@ div.quarto-about-jolla .about-link:hover {
   color: var(--bs-body-bg);
 }
 
-/* Research-Listing: Quartos default-Listing setzt die Bildspalte auf nur
-   30% der Zeilenbreite -- fuer ein einzelnes, praesent gezeigtes Projekt
-   zu klein. Nur fuer das #projects-Listing (Research-Seite) vergroessern,
-   Publications hat ohnehin keine Bilder. */
+/* Research-Listing: groessere Bildspalte */
 #projects .thumbnail {
   flex-basis: 45%;
 }
-/* Research- und Software-Listing zeigen keine Metadaten (kein Datum o.ae.),
-   Quarto legt die Metadata-Spalte trotzdem leer links an -- bei Software
-   schob sie den Text ~190px nach rechts. Ausblenden, damit Titel und
-   Beschreibung buendig unter der Ueberschrift stehen. */
+/* Leere Metadata-Spalte ausblenden, sonst ist der Text eingerueckt */
 #projects .metadata,
 #packages .metadata {
   display: none;
 }
-/* Software-Listing: Paket-Logos sind kleine Hex-Sticker -- schmale
-   Bildspalte, Logo zentriert statt gestreckt. */
+/* Software-Listing: schmale Bildspalte fuer Hex-Logos */
 #packages .thumbnail {
   flex-basis: 20%;
 }
@@ -99,7 +73,7 @@ div.quarto-about-jolla .about-link:hover {
   margin-bottom: 0.75rem;
   object-fit: contain;
 }
-/* Paket-Detailseite: Logo rechts neben der Beschreibung, wie im README. */
+/* Paket-Detailseite: Logo rechts neben der Beschreibung */
 .software-logo,
 p:has(> img.software-logo) {
   float: right;
@@ -109,30 +83,17 @@ img.software-logo {
   height: 139px;
   width: auto;
 }
-/* Logos/Banner der Projekte haben stark unterschiedliche Seitenverhaeltnisse
-   (DFG-Banner 2.7:1 breit, GridData-Logo 1.7:1 quadratischer) -- ohne
-   Hoehenbegrenzung zieht sich das GridData-Logo bei gleicher Spaltenbreite
-   deutlich hoeher. object-fit: contain statt Quartos Default (cover), sonst
-   wuerde das schmalere DFG-Banner angeschnitten. */
-/* margin-bottom: die Zeile ragt sonst nur ~7px ueber die Bildhoehe hinaus,
-   wodurch die Trennlinie zum naechsten Projekt fast am Bild klebt (faellt
-   v.a. beim ersten Eintrag auf, da danach noch eine Linie folgt). */
+/* Einheitliche Logo-Hoehe, contain statt cover (kein Anschneiden) */
 #projects .thumbnail img {
   height: 6rem;
   margin-bottom: 0.75rem;
   object-fit: contain;
 }
 
-/* Presentations-Listing: Quartos default-Listing setzt die Bildspalte auf
-   30% der Zeilenbreite -- fuer die kleinen Vortrags-Vorschaubilder noch zu
-   gross, daher weiter verkleinert. */
+/* Presentations-Listing */
 #listing-presentations .thumbnail {
   flex-basis: 18%;
 }
-/* Reihenabstand: Quartos Default-Listing laesst die Eintraege je nach
-   Titel-/Description-Laenge unterschiedlich eng aneinander ruecken, die
-   Vorschaubilder wirken dadurch stellenweise fast zusammenstossend. Fester
-   Abstand analog zur Publications-Liste (.pub-entry padding: 0.7rem 0). */
 #listing-presentations .quarto-post {
   margin-bottom: 1.4rem;
   padding-bottom: 1.4rem;
@@ -146,38 +107,23 @@ body.quarto-dark #listing-presentations .quarto-post {
   padding-bottom: 0;
   border-bottom: none;
 }
-/* Bild auf die Hoehe von zweizeiligem Titel + einzeiliger Description
-   festlegen (statt an das eigene Seitenverhaeltnis strecken zu lassen --
-   das haette die Zeile sonst hoeher gezogen, als der Text braucht).
-   object-fit: contain statt Quartos Default (cover) -- die featured.png
-   sind Konferenz-Logos/Banner mit stark unterschiedlichen Seitenverhaeltnissen
-   (1.3:1 bis 4.2:1), cover haette sie angeschnitten. */
 #listing-presentations .thumbnail img {
   height: 3.9rem;
   margin-top: 0;
   object-fit: contain;
 }
 
-/* Metadata-Spalte (Location/Datum) etwas schmaler, damit die Titelspalte
-   breiter wird. Groesse ist bei Quarto mit 0.8em recht klein geraten, und
-   ein margin-top von .2em laesst sie tiefer starten als den Titel -- beides
-   hier korrigiert. Schriftgroesse wie Autoren/Venue bei Publications
-   (0.92rem), damit Titel vs. Nebeninfos in beiden Listings gleich abgestuft
-   sind. */
 #listing-presentations .metadata {
   flex-basis: 20%;
   margin-top: 0;
   font-size: 0.92rem;
 }
 
-/* Description ebenfalls in der Publications-Nebeninfo-Groesse statt in
-   Titelgroesse. */
 #listing-presentations .listing-description {
   font-size: 0.92rem;
 }
 
-/* In der Metadata-Spalte soll die Location vor dem Datum stehen (Quarto
-   rendert von sich aus immer erst das Datum). */
+/* Location vor Datum */
 #listing-presentations .listing-location {
   order: 1;
 }
@@ -185,9 +131,7 @@ body.quarto-dark #listing-presentations .quarto-post {
   order: 2;
 }
 
-/* Titel wie bei Publications als Link in der Akzentfarbe, in Textgroesse
-   statt h3 -- Quartos Default-Listing faerbt saemtliche Links (auch Titel)
-   in der Fliesstextfarbe ein und rendert den Titel als grosse Ueberschrift. */
+/* Titel als Link in Akzentfarbe, Textgroesse statt h3 */
 #listing-presentations .listing-title a {
   color: var(--bs-link-color);
   text-decoration: none;
@@ -199,19 +143,7 @@ body.quarto-dark #listing-presentations .quarto-post {
   font-size: 1rem;
 }
 
-/* Research-Hero: Netz-zu-Messdaten-zu-Insights-Illustration ueber dem
-   Intro-Text. Jedes Icon ist ein eigenes SVG mit fester Pixelbreite statt
-   einer einzigen grossen SVG mit Text darin -- so skaliert die Beschriftung
-   nicht proportional mit der Grafik mit (waere auf schmalen Screens
-   unlesbar klein geworden), sondern bleibt normaler, responsiver HTML-Text.
-   Alle drei Icons teilen dieselbe viewBox (120x100) statt ihr natuerliches
-   Seitenverhaeltnis zu behalten -- Mast und Welle sind eigens dafuer
-   proportional angeglichen, damit die Captions ohne Alignment-Trick auf
-   gleicher Hoehe stehen. Icon-Farbe laeuft ueber var(--bs-link-color)
-   automatisch mit Light/Dark-Theme mit (wie .pub-links). Caption-Farbe
-   folgt der gleichen Grauabstufung wie die Steckbrief-dt-Eintraege der
-   Presentations-Seiten. Unter 576px (Handy-Breite) stapelt sich die Reihe
-   vertikal, Pfeile drehen sich entsprechend auf 90 Grad. */
+/* Research-Hero: drei Icons mit Pfeilen; auf Handy-Breite untereinander */
 .research-hero {
   display: flex;
   align-items: flex-start;
@@ -277,9 +209,7 @@ body.quarto-dark .research-hero .hero-arrow-fill {
   }
 }
 
-/* Presentations-Detailseiten: Steckbrief-artige Fakten-Liste (Location,
-   Abstract, Materials) als Pandoc-Definitionsliste statt Fliesstext mit
-   Fettdruck und Gedankenstrich. */
+/* Detailseiten: Steckbrief als Definitionsliste */
 #quarto-document-content dl dt {
   font-weight: 600;
   font-size: 0.8rem;
@@ -296,21 +226,12 @@ body.quarto-dark #quarto-document-content dl dt {
   margin-bottom: 0;
 }
 
-/* Publications-Detailseiten: Quarto rendert bei vorhandenem doi:-Feld
-   automatisch einen eigenen "Doi"-Block im Titel-Meta-Bereich (fest im
-   Pandoc-Template verankert, nicht per YAML abschaltbar) -- zusaetzlich zum
-   eigenen "Links"-Eintrag der Steckbrief-Liste. Ohne dieses Ausblenden
-   haetten nur DOI-Publikationen einen Link oben UND unten, alle anderen
-   Typen (arXiv, PDF, URL) nur unten -- hier vereinheitlicht auf "genau ein
-   Link, immer im Steckbrief". */
+/* Quartos automatischen DOI-Block ausblenden, Link steht im Steckbrief */
 #quarto-document-content .quarto-title-meta > div:has(> .quarto-title-meta-contents > p.doi) {
   display: none;
 }
 
-/* Publications: IEEE-artige Zitationsliste (eigenes ejs-Template
-   pub-list.ejs.md statt Quartos Standard-Listing). Nummerierung zaehlt
-   absteigend von der Gesamtzahl (counter-reset: pubnum <N> inline im
-   Template) -- man sieht die Gesamtzahl der Publikationen sofort. */
+/* Publications: Zitationsliste (pub-list.ejs.md), absteigend nummeriert */
 .pub-search-input,
 .listing-search-input {
   max-width: 22rem;
@@ -330,9 +251,7 @@ body.quarto-dark #quarto-document-content dl dt {
   padding: 0.7rem 0;
   line-height: 1.5;
 }
-/* Nummer in eigener, fest breiter Spalte statt text-indent-Trick --
-   dadurch sitzen umgebrochene Zeilen exakt unter der ersten,
-   unabhaengig davon wie breit "5." oder "12." tatsaechlich sind. */
+/* Nummer in fester Spalte, damit Umbrueche buendig sind */
 .pub-num {
   flex: 0 0 1.8rem;
   text-align: right;
@@ -348,9 +267,6 @@ body.quarto-dark .pub-num::before { color: rgb(173, 181, 189); }
   min-width: 0;
 }
 
-/* Drei Zeilen pro Eintrag: Titel, Autoren+Jahr, Venue+Buttons -- Titel
-   zuerst fuer Scanbarkeit. Titel dauerhaft in der Link-Akzentfarbe (wie
-   auf der About-Seite), Zeile 2+3 normale Textfarbe. */
 .pub-authors,
 .pub-venue-line {
   font-size: 0.92rem;
@@ -364,12 +280,7 @@ body.quarto-dark .pub-num::before { color: rgb(173, 181, 189); }
   text-decoration: underline;
 }
 
-/* Buttons im selben Stil wie die Icon-Links auf der About-Seite (Quartos
-   eigenes .about-link): schmaler Rahmen in der Akzentfarbe statt separatem
-   Grau -- Grau wirkte wie eine zweite, unkoordinierte Linkfarbe neben dem
-   blauen Fliesstext-Link. Hover fuellt den Chip statt nur die Farbe zu
-   wechseln. var(--bs-link-color)/var(--bs-body-bg) kommen aus Bootstrap
-   und wechseln automatisch mit Light/Dark-Theme. */
+/* Link-Buttons im Stil der About-Icons */
 .pub-links {
   display: inline-block;
   margin-left: 0.3rem;
