@@ -81,6 +81,14 @@ div.quarto-about-jolla .about-link:hover {
 #projects .thumbnail {
   flex-basis: 45%;
 }
+/* Research- und Software-Listing zeigen keine Metadaten (kein Datum o.ae.),
+   Quarto legt die Metadata-Spalte trotzdem leer links an -- bei Software
+   schob sie den Text ~190px nach rechts. Ausblenden, damit Titel und
+   Beschreibung buendig unter der Ueberschrift stehen. */
+#projects .metadata,
+#packages .metadata {
+  display: none;
+}
 /* Software-Listing: Paket-Logos sind kleine Hex-Sticker -- schmale
    Bildspalte, Logo zentriert statt gestreckt. */
 #packages .thumbnail {
