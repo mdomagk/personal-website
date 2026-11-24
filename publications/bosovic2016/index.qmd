@@ -24,7 +24,7 @@ Location
 : Tallinn, Estonia
 
 Links
-: [DOI](https://doi.org/10.1109/PQ.2016.7724093){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Harmonics, Power Quality, Measurement, Modeling

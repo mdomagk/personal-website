@@ -12,6 +12,7 @@ author:
 - Jan-Hendrik Amrhein
 date: '2022-05-01'
 description: 2022 20th International Conference on Harmonics & Quality of Power (ICHQP)
+slides: "ichqp2022_domagk_trends.pdf"
 categories:
 - Conference paper
 doi: 10.1109/ICHQP53011.2022.9808645
@@ -27,7 +28,7 @@ Location
 : Naples, Italy
 
 Links
-: [DOI](https://doi.org/10.1109/ICHQP53011.2022.9808645){.btn .btn-outline-primary .btn-sm} [Software](../../software/pqdm/index.qmd "PQDM – R package"){.btn .btn-outline-primary .btn-sm} [Slides](ichqp2022_domagk_trends.pdf){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Data Mining, Power Quality, Time Series Analysis, Trend Identification

@@ -26,7 +26,7 @@ Location
 : Vienna, Austria
 
 Links
-: [DOI](https://doi.org/10.24406/publica-fhg-408356){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Harmonics, Modeling, Background Distortion, Network Harmonic Impedance, Inverter

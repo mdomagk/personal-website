@@ -20,7 +20,7 @@ tags:
 ---
 
 Links
-: [DOI](https://doi.org/10.1109/TPWRD.2025.3614751){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power Quality, Harmonic Distortion, Time Series Analysis, Probabilistic Forecasting, Clustering

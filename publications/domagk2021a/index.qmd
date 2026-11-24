@@ -22,7 +22,7 @@ Location
 : Online
 
 Links
-: [DOI](https://doi.org/10.1049/icp.2021.1489){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power Quality, Time Series Analysis, Data Mining, Correlation Analysis

@@ -22,7 +22,7 @@ Location
 : Chengdu, China
 
 Links
-: [DOI](https://doi.org/10.1109/ICHQP61174.2024.10768797){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Equivalent Circuit Model, Harmonics, Modeling, Network Harmonic Impedance, Power Quality

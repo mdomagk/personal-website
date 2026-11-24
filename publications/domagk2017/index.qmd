@@ -24,7 +24,7 @@ Location
 : Manchester, United Kingdom
 
 Links
-: [DOI](https://doi.org/10.1109/PTC.2017.7981206){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Harmonics, Harmonic Emission Limits, Network Harmonic Impedance, Standards, Survey

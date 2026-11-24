@@ -21,7 +21,7 @@ tags:
 ---
 
 Links
-: [DOI](https://doi.org/10.3390/app11083598){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power System Harmonics, Harmonic Current Emission, Public Low Voltage Network, Time Series Analysis, Machine Learning, Classification, Support Vector Machines

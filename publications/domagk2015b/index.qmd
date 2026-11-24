@@ -14,7 +14,7 @@ tags:
 ---
 
 Links
-: [Qucosa](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa-211866){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power Quality, Time Series Analysis

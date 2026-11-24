@@ -7,6 +7,7 @@ author:
 - Rain Maripuu
 date: '2024-10-15'
 description: 2024 21st International Conference on Harmonics & Quality of Power (ICHQP)
+slides: "ichqp2024_use-cases-elering.pdf"
 categories:
 - Conference paper
 doi: 10.1109/ICHQP61174.2024.10768779
@@ -22,7 +23,7 @@ Location
 : Chengdu, China
 
 Links
-: [DOI](https://doi.org/10.1109/ICHQP61174.2024.10768779){.btn .btn-outline-primary .btn-sm} [Slides](ichqp2024_use-cases-elering.pdf){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power Quality, Data Mining, Measurement Campaign, Time Series Analysis, Harmonics

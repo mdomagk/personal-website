@@ -22,7 +22,7 @@ Location
 : Eindhoven, Netherlands
 
 Links
-: [DOI](https://doi.org/10.1109/AUPEC.2015.7324851){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power Quality, Data Mining, Harmonics, Time Series Analysis, Trend Analysis

@@ -9,6 +9,7 @@ author:
 - Roland Zoll
 date: '2023-06-12'
 description: 27th International Conference on Electricity Distribution (CIRED 2023)
+slides: "cired2023_discont_meas_trend.pdf"
 categories:
 - Conference paper
 doi: 10.1049/icp.2023.1082
@@ -24,7 +25,7 @@ Location
 : Rome, Italy
 
 Links
-: [DOI](https://doi.org/10.1049/icp.2023.1082){.btn .btn-outline-primary .btn-sm} [Software](../../software/pqdm/index.qmd "PQDM – R package"){.btn .btn-outline-primary .btn-sm} [Slides](cired2023_discont_meas_trend.pdf){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power Quality, Time Series Analysis, Trend Identification, Limit Utilization

@@ -23,7 +23,7 @@ Location
 : Belo Horizonte, Brazil
 
 Links
-: [DOI](https://doi.org/10.1109/ICHQP.2016.7783325){.btn .btn-outline-primary .btn-sm} [Software](../../software/pqdm/index.qmd "PQDM – R package"){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power Quality, Indices, Measurement Campaign

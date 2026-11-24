@@ -24,7 +24,7 @@ Location
 : Dresden, Germany
 
 Links
-: [DOI](https://doi.org/10.1109/ICHQP67927.2026.11756924){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power Quality, Harmonic Distortion, Time Series Decomposition, Detrending Techniques, Probabilistic Forecasting, Clustering

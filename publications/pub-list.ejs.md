@@ -20,10 +20,12 @@
       <% if (item.description) { %><span class="listing-description"><%= item.description %></span>.<% } %>
       <span class="pub-links">
       <% if (item.doi) { %><a href="https://doi.org/<%= item.doi %>" target="_blank" rel="noopener">DOI</a><% } %>
-      <% if (item.pdf) { %><a href="<%- folder %><%= item.pdf %>">PDF</a><% } %>
       <% if (item.arxiv) { %><a href="https://doi.org/10.48550/arXiv.<%= item.arxiv %>" target="_blank" rel="noopener">arXiv</a><% } %>
-      <% if (item.software) { %><a href="/software/<%= item.software.toLowerCase() %>/" title="<%= item.software %> – R package">Software</a><% } %>
       <% if (item.url) { %><a href="<%= item.url %>" target="_blank" rel="noopener"><%= item.urlLabel || 'Link' %></a><% } %>
+      <% if (item.pdf) { %><a href="<%- folder %><%= item.pdf %>">PDF</a><% } %>
+      <% if (item.slides) { %><a href="<%- folder %><%= item.slides %>">Slides</a><% } %>
+      <% if (item.poster) { %><a href="<%- folder %><%= item.poster %>">Poster</a><% } %>
+      <% if (item.software) { %><a href="/software/<%= item.software.toLowerCase() %>/" title="<%= item.software %> – R package">Software</a><% } %>
       </span>
     </div>
   </span>

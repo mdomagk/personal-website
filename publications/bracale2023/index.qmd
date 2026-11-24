@@ -19,7 +19,7 @@ tags:
 ---
 
 Links
-: [DOI](https://doi.org/10.1109/ISGTEUROPE56780.2023.10407588){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power Quality, Current Distortion, Time Series Analysis, Probabilistic Forecasting

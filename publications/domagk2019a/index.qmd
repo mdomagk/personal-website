@@ -22,7 +22,7 @@ Location
 : Milan, Italy
 
 Links
-: [DOI](https://doi.org/10.1109/PTC.2019.8810496){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Harmonics, Network Harmonic Impedance, Norton Model, Equivalent Circuit Model, Low Voltage Grid, Modeling

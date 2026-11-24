@@ -8,6 +8,7 @@ author:
   - Jako Kilter
 date: 2026-09-01
 description: "2026 22nd International Conference on Harmonics & Quality of Power (ICHQP)"
+slides: "ICHQP2026_24_Ensemble_Domagk.pdf"
 arxiv: "2603.02706"
 categories:
 - Conference paper
@@ -24,7 +25,7 @@ Location
 : Dresden, Germany
 
 Links
-: [DOI](https://doi.org/10.1109/ICHQP67927.2026.11756209){.btn .btn-outline-primary .btn-sm} [arXiv](https://doi.org/10.48550/arXiv.2603.02706){.btn .btn-outline-primary .btn-sm} [Slides](ICHQP2026_24_Ensemble_Domagk.pdf){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power Quality, Transmission Systems, Time Series Analysis, Long-term Forecasting, Ensemble Forecasting

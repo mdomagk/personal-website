@@ -30,7 +30,7 @@ Location
 : Belo Horizonte, Brazil
 
 Links
-: [DOI](https://doi.org/10.1109/ICHQP.2016.7783384){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Harmonics, Harmonic Emission Limits, Network Harmonic Impedance, Standards, Survey

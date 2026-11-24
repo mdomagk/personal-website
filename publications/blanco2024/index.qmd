@@ -23,7 +23,7 @@ Location
 : Paris, France
 
 Links
-: [Preprint (PDF)](blanco2024_preprint.pdf){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Modeling, Harmonic Network Impedance, Harmonic Propagation, Transmission System, Inverter-Based Resources, Transmission Line Modeling

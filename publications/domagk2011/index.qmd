@@ -20,7 +20,7 @@ Location
 : Lisbon, Portugal
 
 Links
-: [DOI](https://doi.org/10.1109/EPQU.2011.6128844){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power Quality, Harmonics, Time Series Analysis, Correlation

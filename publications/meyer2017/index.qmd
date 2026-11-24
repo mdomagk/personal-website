@@ -18,7 +18,7 @@ tags:
 ---
 
 Links
-: [DOI](https://doi.org/10.1109/TPWRD.2016.2558187){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Power System Harmonics, Harmonic Phase Angle, Prevailing Harmonic Phasor, Public Low Voltage Network
