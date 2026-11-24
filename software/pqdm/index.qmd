@@ -23,7 +23,7 @@ function refers to the publication that describes its method.
 
 **License:** GPL (≥ 3)
 
-[GitHub](https://github.com/mdomagk/PQDM){.btn .btn-outline-primary .btn-sm}
+[[GitHub](https://github.com/mdomagk/PQDM)]{.pub-links}
 
 ## Methods
 

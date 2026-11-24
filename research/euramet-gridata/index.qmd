@@ -24,4 +24,4 @@ adopt these approaches.
 
 **Duration:** 06/2025&ndash;05/2028
 
-[Project website](https://griddata.inrim.it/griddata){.btn .btn-outline-primary .btn-sm}
+[[Project website](https://griddata.inrim.it/griddata)]{.pub-links}

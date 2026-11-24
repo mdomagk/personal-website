@@ -24,7 +24,7 @@ Location
 : Shanghai, China
 
 Links
-: [DOI](https://doi.org/10.1049/icp.2022.2152){.btn .btn-outline-primary .btn-sm}
+: {{< pub-links >}}
 
 Keywords
 : Data Mining, Power Quality, Time Series Analysis, Pattern Recognition

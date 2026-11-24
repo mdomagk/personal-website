@@ -44,7 +44,7 @@ div.quarto-about-jolla > .about-links {
   row-gap: 0.4rem;
 }
 
-/* Social-Icons in Akzentfarbe, Hover fuellt (wie .pub-links) */
+/* Social-Icons in Akzentfarbe, Hover fuellt */
 div.quarto-about-jolla .about-link {
   color: var(--bs-link-color);
   background-color: transparent;
@@ -280,24 +280,27 @@ body.quarto-dark .pub-num::before { color: rgb(173, 181, 189); }
   text-decoration: underline;
 }
 
-/* Link-Buttons im Stil der About-Icons */
+/* Link-Badges: extern (Quarto setzt target=_blank) in Akzentfarbe, eigenes Material in --pub-own */
 .pub-links {
   display: inline-block;
   margin-left: 0.3rem;
 }
 .pub-links a {
+  --badge: var(--pub-own);
   display: inline-block;
   margin-left: 0.3rem;
-  padding: 0.05rem 0.5rem;
-  font-size: 0.78rem;
-  border: 1px solid var(--bs-link-color);
-  border-radius: 3px;
-  color: var(--bs-link-color);
-  background-color: transparent;
+  padding: 0.05rem 0.45rem;
+  font-size: 0.72rem;
+  font-weight: 500;
+  border-radius: 4px;
+  color: var(--badge);
+  background-color: color-mix(in srgb, var(--badge) 12%, transparent);
   text-decoration: none;
-  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+  transition: background-color 0.15s ease-in-out;
+}
+.pub-links a[target="_blank"] {
+  --badge: var(--bs-link-color);
 }
 .pub-links a:hover {
-  background-color: var(--bs-link-color);
-  color: var(--bs-body-bg);
+  background-color: color-mix(in srgb, var(--badge) 24%, transparent);
 }
