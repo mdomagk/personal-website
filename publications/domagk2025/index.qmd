@@ -21,7 +21,7 @@ Location
 : Hamburg, Germany
 
 Links
-: [DOI](https://doi.org/10.30420/566633014){.btn .btn-outline-primary .btn-sm}
+: [DOI](https://doi.org/10.30420/566633014){.btn .btn-outline-primary .btn-sm} [Slides](neis2025.pdf){.btn .btn-outline-primary .btn-sm}
 
 Keywords
 : Measurements, Measurement Uncertainty, Harmonics, Power Quality

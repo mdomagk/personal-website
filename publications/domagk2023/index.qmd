@@ -24,7 +24,7 @@ Location
 : Rome, Italy
 
 Links
-: [DOI](https://doi.org/10.1049/icp.2023.1082){.btn .btn-outline-primary .btn-sm} [Software](../../software/pqdm/index.qmd "PQDM – R package"){.btn .btn-outline-primary .btn-sm}
+: [DOI](https://doi.org/10.1049/icp.2023.1082){.btn .btn-outline-primary .btn-sm} [Software](../../software/pqdm/index.qmd "PQDM – R package"){.btn .btn-outline-primary .btn-sm} [Slides](cired2023_discont_meas_trend.pdf){.btn .btn-outline-primary .btn-sm}
 
 Keywords
 : Power Quality, Time Series Analysis, Trend Identification, Limit Utilization

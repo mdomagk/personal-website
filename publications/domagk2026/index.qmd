@@ -24,7 +24,7 @@ Location
 : Dresden, Germany
 
 Links
-: [DOI](https://doi.org/10.1109/ICHQP67927.2026.11756843){.btn .btn-outline-primary .btn-sm} [arXiv](https://doi.org/10.48550/arXiv.2603.12948){.btn .btn-outline-primary .btn-sm}
+: [DOI](https://doi.org/10.1109/ICHQP67927.2026.11756843){.btn .btn-outline-primary .btn-sm} [arXiv](https://doi.org/10.48550/arXiv.2603.12948){.btn .btn-outline-primary .btn-sm} [Slides](ICHQP2026_50_Cor-Viz_Domagk.pdf){.btn .btn-outline-primary .btn-sm} [Poster](ICHQP2026_Poster_Cor-Viz_Domagk.pdf){.btn .btn-outline-primary .btn-sm}
 
 Keywords
 : Power Quality, Correlation Analysis, Harmonics, Data Visualization, Clustering, Multidimensional Scaling
